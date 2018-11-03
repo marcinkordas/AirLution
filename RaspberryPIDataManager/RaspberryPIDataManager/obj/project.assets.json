@@ -28321,11 +28321,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Kamil\\source\\repos\\RaspberryPIDataManager\\RaspberryPIDataManager\\RaspberryPIDataManager.csproj",
+      "projectUniqueName": "c:\\Users\\Kamil\\source\\repos\\IoT-GrupaC\\RaspberryPIDataManager\\RaspberryPIDataManager\\RaspberryPIDataManager.csproj",
       "projectName": "RaspberryPIDataManager",
-      "projectPath": "c:\\Users\\Kamil\\source\\repos\\RaspberryPIDataManager\\RaspberryPIDataManager\\RaspberryPIDataManager.csproj",
+      "projectPath": "c:\\Users\\Kamil\\source\\repos\\IoT-GrupaC\\RaspberryPIDataManager\\RaspberryPIDataManager\\RaspberryPIDataManager.csproj",
       "packagesPath": "C:\\Users\\Kamil\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Kamil\\source\\repos\\RaspberryPIDataManager\\RaspberryPIDataManager\\obj\\",
+      "outputPath": "c:\\Users\\Kamil\\source\\repos\\IoT-GrupaC\\RaspberryPIDataManager\\RaspberryPIDataManager\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

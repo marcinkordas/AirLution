@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>KAMIL_PC</Machine>
+    <WindowsUser>Kamil</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|ARM</SolutionConfiguration>
+    <PackageArchitecture>arm</PackageArchitecture>
+    <PackageIdentityName>44ec7f6c-f996-462e-8c53-80dabb73d45a</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Kamil</PackageIdentityPublisher>
+    <IntermediateOutputPath>c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\obj\ARM\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>D:\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\clrcompression.dll">
+      <PackagePath>clrcompression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\FireSharp.dll">
+      <PackagePath>FireSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Microsoft.CSharp.dll">
+      <PackagePath>Microsoft.CSharp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Microsoft.Threading.Tasks.dll">
+      <PackagePath>Microsoft.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Microsoft.Threading.Tasks.Extensions.dll">
+      <PackagePath>Microsoft.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Microsoft.VisualBasic.dll">
+      <PackagePath>Microsoft.VisualBasic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Microsoft.Win32.Primitives.dll">
+      <PackagePath>Microsoft.Win32.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\mscorlib.dll">
+      <PackagePath>mscorlib.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\RaspberryPIDataManager.dll">
+      <PackagePath>RaspberryPIDataManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\RaspberryPIDataManager.pdb">
+      <PackagePath>RaspberryPIDataManager.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.AppContext.dll">
+      <PackagePath>System.AppContext.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Buffers.dll">
+      <PackagePath>System.Buffers.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Collections.Concurrent.dll">
+      <PackagePath>System.Collections.Concurrent.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Collections.dll">
+      <PackagePath>System.Collections.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Collections.Immutable.dll">
+      <PackagePath>System.Collections.Immutable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Collections.NonGeneric.dll">
+      <PackagePath>System.Collections.NonGeneric.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Collections.Specialized.dll">
+      <PackagePath>System.Collections.Specialized.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ComponentModel.Annotations.dll">
+      <PackagePath>System.ComponentModel.Annotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ComponentModel.DataAnnotations.dll">
+      <PackagePath>System.ComponentModel.DataAnnotations.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ComponentModel.dll">
+      <PackagePath>System.ComponentModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ComponentModel.EventBasedAsync.dll">
+      <PackagePath>System.ComponentModel.EventBasedAsync.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Core.dll">
+      <PackagePath>System.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Data.Common.dll">
+      <PackagePath>System.Data.Common.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.Contracts.dll">
+      <PackagePath>System.Diagnostics.Contracts.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.Debug.dll">
+      <PackagePath>System.Diagnostics.Debug.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.DiagnosticSource.dll">
+      <PackagePath>System.Diagnostics.DiagnosticSource.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.StackTrace.dll">
+      <PackagePath>System.Diagnostics.StackTrace.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.Tools.dll">
+      <PackagePath>System.Diagnostics.Tools.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Diagnostics.Tracing.dll">
+      <PackagePath>System.Diagnostics.Tracing.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.dll">
+      <PackagePath>System.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Dynamic.Runtime.dll">
+      <PackagePath>System.Dynamic.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Globalization.Calendars.dll">
+      <PackagePath>System.Globalization.Calendars.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Globalization.dll">
+      <PackagePath>System.Globalization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Globalization.Extensions.dll">
+      <PackagePath>System.Globalization.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.Compression.dll">
+      <PackagePath>System.IO.Compression.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.Compression.ZipFile.dll">
+      <PackagePath>System.IO.Compression.ZipFile.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.dll">
+      <PackagePath>System.IO.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.FileSystem.dll">
+      <PackagePath>System.IO.FileSystem.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.FileSystem.Primitives.dll">
+      <PackagePath>System.IO.FileSystem.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.IsolatedStorage.dll">
+      <PackagePath>System.IO.IsolatedStorage.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.IO.UnmanagedMemoryStream.dll">
+      <PackagePath>System.IO.UnmanagedMemoryStream.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Linq.dll">
+      <PackagePath>System.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Linq.Expressions.dll">
+      <PackagePath>System.Linq.Expressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Linq.Parallel.dll">
+      <PackagePath>System.Linq.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Linq.Queryable.dll">
+      <PackagePath>System.Linq.Queryable.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.dll">
+      <PackagePath>System.Net.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Http.dll">
+      <PackagePath>System.Net.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Http.Rtc.dll">
+      <PackagePath>System.Net.Http.Rtc.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.NameResolution.dll">
+      <PackagePath>System.Net.NameResolution.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.NetworkInformation.dll">
+      <PackagePath>System.Net.NetworkInformation.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Primitives.dll">
+      <PackagePath>System.Net.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Requests.dll">
+      <PackagePath>System.Net.Requests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.Sockets.dll">
+      <PackagePath>System.Net.Sockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.WebHeaderCollection.dll">
+      <PackagePath>System.Net.WebHeaderCollection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.WebSockets.Client.dll">
+      <PackagePath>System.Net.WebSockets.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Net.WebSockets.dll">
+      <PackagePath>System.Net.WebSockets.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Numerics.dll">
+      <PackagePath>System.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Numerics.Vectors.dll">
+      <PackagePath>System.Numerics.Vectors.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Numerics.Vectors.WindowsRuntime.dll">
+      <PackagePath>System.Numerics.Vectors.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ObjectModel.dll">
+      <PackagePath>System.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Private.DataContractSerialization.dll">
+      <PackagePath>System.Private.DataContractSerialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Private.ServiceModel.dll">
+      <PackagePath>System.Private.ServiceModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Private.Uri.dll">
+      <PackagePath>System.Private.Uri.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.Context.dll">
+      <PackagePath>System.Reflection.Context.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.DispatchProxy.dll">
+      <PackagePath>System.Reflection.DispatchProxy.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.dll">
+      <PackagePath>System.Reflection.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.Emit.dll">
+      <PackagePath>System.Reflection.Emit.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.Extensions.dll">
+      <PackagePath>System.Reflection.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.Metadata.dll">
+      <PackagePath>System.Reflection.Metadata.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.Primitives.dll">
+      <PackagePath>System.Reflection.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Reflection.TypeExtensions.dll">
+      <PackagePath>System.Reflection.TypeExtensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Resources.ResourceManager.dll">
+      <PackagePath>System.Resources.ResourceManager.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Extensions.dll">
+      <PackagePath>System.Runtime.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Handles.dll">
+      <PackagePath>System.Runtime.Handles.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.InteropServices.dll">
+      <PackagePath>System.Runtime.InteropServices.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.InteropServices.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.InteropServices.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Numerics.dll">
+      <PackagePath>System.Runtime.Numerics.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Serialization.dll">
+      <PackagePath>System.Runtime.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Serialization.Json.dll">
+      <PackagePath>System.Runtime.Serialization.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Serialization.Primitives.dll">
+      <PackagePath>System.Runtime.Serialization.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.Serialization.Xml.dll">
+      <PackagePath>System.Runtime.Serialization.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.WindowsRuntime.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Runtime.WindowsRuntime.UI.Xaml.dll">
+      <PackagePath>System.Runtime.WindowsRuntime.UI.Xaml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Claims.dll">
+      <PackagePath>System.Security.Claims.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Cryptography.Algorithms.dll">
+      <PackagePath>System.Security.Cryptography.Algorithms.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Cryptography.Cng.dll">
+      <PackagePath>System.Security.Cryptography.Cng.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Cryptography.Encoding.dll">
+      <PackagePath>System.Security.Cryptography.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Cryptography.Primitives.dll">
+      <PackagePath>System.Security.Cryptography.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Cryptography.X509Certificates.dll">
+      <PackagePath>System.Security.Cryptography.X509Certificates.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Security.Principal.dll">
+      <PackagePath>System.Security.Principal.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.dll">
+      <PackagePath>System.ServiceModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.Duplex.dll">
+      <PackagePath>System.ServiceModel.Duplex.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.Http.dll">
+      <PackagePath>System.ServiceModel.Http.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.NetTcp.dll">
+      <PackagePath>System.ServiceModel.NetTcp.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.Primitives.dll">
+      <PackagePath>System.ServiceModel.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.Security.dll">
+      <PackagePath>System.ServiceModel.Security.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.ServiceModel.Web.dll">
+      <PackagePath>System.ServiceModel.Web.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Text.Encoding.CodePages.dll">
+      <PackagePath>System.Text.Encoding.CodePages.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Text.Encoding.dll">
+      <PackagePath>System.Text.Encoding.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Text.Encoding.Extensions.dll">
+      <PackagePath>System.Text.Encoding.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Text.RegularExpressions.dll">
+      <PackagePath>System.Text.RegularExpressions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.dll">
+      <PackagePath>System.Threading.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Overlapped.dll">
+      <PackagePath>System.Threading.Overlapped.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Tasks.Dataflow.dll">
+      <PackagePath>System.Threading.Tasks.Dataflow.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Tasks.dll">
+      <PackagePath>System.Threading.Tasks.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Tasks.Extensions.dll">
+      <PackagePath>System.Threading.Tasks.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Tasks.Parallel.dll">
+      <PackagePath>System.Threading.Tasks.Parallel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Threading.Timer.dll">
+      <PackagePath>System.Threading.Timer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Windows.dll">
+      <PackagePath>System.Windows.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.dll">
+      <PackagePath>System.Xml.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.Linq.dll">
+      <PackagePath>System.Xml.Linq.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.ReaderWriter.dll">
+      <PackagePath>System.Xml.ReaderWriter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.Serialization.dll">
+      <PackagePath>System.Xml.Serialization.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.XDocument.dll">
+      <PackagePath>System.Xml.XDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.XmlDocument.dll">
+      <PackagePath>System.Xml.XmlDocument.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\System.Xml.XmlSerializer.dll">
+      <PackagePath>System.Xml.XmlSerializer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\bin\ARM\Release\ilc\WinMetadata\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x86\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-x64\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx">
+      <Name>Microsoft.NET.Native.Framework.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Framework.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.0\build\..\tools\SharedLibrary\ret\Native\Microsoft.NET.Native.Framework.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x86\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\x64\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx">
+      <Name>Microsoft.NET.Native.Runtime.1.7</Name>
+      <Version>1.7.25531.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.Native.Runtime.1.7, MinVersion = 1.7.25531.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\build\..\tools\Runtime\arm\Microsoft.NET.Native.Runtime.1.7.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00</Name>
+      <Version>14.0.25426.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00, MinVersion = 14.0.25426.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.14.00.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

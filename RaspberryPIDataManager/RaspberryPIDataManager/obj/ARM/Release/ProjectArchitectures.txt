@@ -1,0 +1,1 @@
+c:\Users\Kamil\source\repos\IoT-GrupaC\RaspberryPIDataManager\RaspberryPIDataManager\RaspberryPIDataManager.csproj;arm

@@ -6,8 +6,14 @@ using System.Threading.Tasks;
 
 namespace RaspberryPIDataManager
 {
+    /// <summary>
+    /// Blueprint of sensor
+    /// </summary>
     class Sensor
     {
+        /// <summary>
+        /// Collection od sensor measurments
+        /// </summary>
         public class SensorDataClass
         {
             private double temperature;
@@ -26,6 +32,12 @@ namespace RaspberryPIDataManager
         private SensorDataClass sensorData;
         private string sensorId;
 
+        /// <summary>
+        /// Constructor of Sensor mesurment object
+        /// </summary>
+        /// <param name="temperature"></param>
+        /// <param name="pressure"></param>
+        /// <param name="sensorId"></param>
         public Sensor(double temperature, double pressure, string sensorId)
         {
             SensorData = new SensorDataClass(temperature, pressure);

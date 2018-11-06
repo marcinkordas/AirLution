@@ -15,6 +15,9 @@ namespace RaspberryPIDataManager
     {
         private IFirebaseClient client;
 
+        /// <summary>
+        /// Default constructor with connection initialization
+        /// </summary>
         public FirebaseDatabaseManager()
         {
             InitDatabaseClient();
@@ -22,6 +25,9 @@ namespace RaspberryPIDataManager
 
         public IFirebaseClient Client { get => client; set => client = value; }
 
+        /// <summary>
+        /// Initialization of Database connection
+        /// </summary>
         private void InitDatabaseClient()
         {
             IFirebaseConfig config = new FirebaseConfig
@@ -33,6 +39,13 @@ namespace RaspberryPIDataManager
             Client = new FirebaseClient(config);
         }
 
+        /// <summary>
+        /// Push data to Firebase
+        /// </summary>
+        /// <param name="temp"></param>
+        /// <param name="pressure"></param>
+        /// <param name="sensorId"></param>
+        /// <returns></returns>
         public async Task pushAsync(double temp, double pressure, string sensorId)
         {
             try
@@ -59,6 +72,13 @@ namespace RaspberryPIDataManager
         // Declare that your background task's Run method makes asynchronous calls by
         // using the async keyword.
         //
+        /// <summary>
+        /// Asynchronous safety call for .net core applications
+        /// </summary>
+        /// <param name="taskInstance"></param>
+        /// <param name="temp"></param>
+        /// <param name="pressure"></param>
+        /// <param name="sensorId"></param>
         public async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, double temp, double pressure, string sensorId)
         {
             FirebaseDatabaseManager firebaseDatabaseManager = new FirebaseDatabaseManager();

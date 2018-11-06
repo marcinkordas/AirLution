@@ -7,6 +7,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Windows.ApplicationModel.Background;
 
 namespace RaspberryPIDataManager
 {
@@ -52,6 +53,28 @@ namespace RaspberryPIDataManager
             {
                 throw;
             }
+        }
+
+        //
+        // Declare that your background task's Run method makes asynchronous calls by
+        // using the async keyword.
+        //
+        public async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, double temp, double pressure, string sensorId)
+        {
+            FirebaseDatabaseManager firebaseDatabaseManager = new FirebaseDatabaseManager();
+            //
+            // Create the deferral by requesting it from the task instance.
+            //
+            BackgroundTaskDeferral deferral = taskInstance.GetDeferral();
+
+            //
+            // Call asynchronous method(s) using the await keyword.
+            //
+            await firebaseDatabaseManager.pushAsync(temp, pressure, sensorId);
+            //
+            // Once the asynchronous method(s) are done, close the deferral.
+            //
+            deferral.Complete();
         }
     }
 }

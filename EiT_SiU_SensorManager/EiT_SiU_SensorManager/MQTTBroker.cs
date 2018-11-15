@@ -47,6 +47,8 @@ namespace EiT_SiU_SensorManager
             Debug.WriteLine("Messsage Topic = " + e.ApplicationMessage.Topic.ToString());
             Debug.WriteLine("Message Payload = " + e.ApplicationMessage.ConvertPayloadToString());
 
+            //zaimplementuj sychronizacje czasu
+
             databaseManager.pushAsync("id", 0, 0, 0, 0);
 
 

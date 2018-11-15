@@ -21,6 +21,7 @@
     <PackageCertificateKeyFile>EiT_SiU_SensorManager_TemporaryKey.pfx</PackageCertificateKeyFile>
     <AppxPackage>true</AppxPackage>
     <ContainsStartupTask>true</ContainsStartupTask>
+    <PackageCertificateThumbprint>D636B873F2FA3DA4D9DCF8DA152D38D8E83EB0D4</PackageCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
     <DebugSymbols>true</DebugSymbols>

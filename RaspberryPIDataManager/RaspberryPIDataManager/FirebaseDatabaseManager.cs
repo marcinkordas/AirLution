@@ -4,6 +4,7 @@ using FireSharp.Interfaces;
 using FireSharp.Response;
 using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -11,7 +12,7 @@ using Windows.ApplicationModel.Background;
 
 namespace RaspberryPIDataManager
 {
-    class FirebaseDatabaseManager
+    public class FirebaseDatabaseManager
     {
         private IFirebaseClient client;
 
@@ -55,11 +56,11 @@ namespace RaspberryPIDataManager
                 PushResponse response = await Client.PushAsync(queryTempValues, data.SensorData);
                 if (response.StatusCode == System.Net.HttpStatusCode.OK)
                 {
-                    //Console.WriteLine("Data pushed"); //For Debug
+                    Debug.WriteLine("Data push - success");
                 }
                 else
                 {
-                    //Console.WriteLine("Database error: " + response.StatusCode.ToString()); //For Debug
+                    Debug.WriteLine("Database error: " + response.StatusCode.ToString()); 
                 }
             }
             catch (Exception)
@@ -79,7 +80,7 @@ namespace RaspberryPIDataManager
         /// <param name="temp"></param>
         /// <param name="pressure"></param>
         /// <param name="sensorId"></param>
-        public async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, double temp, double pressure, string sensorId)
+        public static async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, double temp, double pressure, string sensorId)
         {
             FirebaseDatabaseManager firebaseDatabaseManager = new FirebaseDatabaseManager();
             //

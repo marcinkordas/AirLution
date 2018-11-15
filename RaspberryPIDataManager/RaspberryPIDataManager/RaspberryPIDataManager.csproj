@@ -98,7 +98,6 @@
   <ItemGroup>
     <Compile Include="FirebaseDatabaseManager.cs" />
     <Compile Include="SensorData.cs" />
-    <Compile Include="StartupTask.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

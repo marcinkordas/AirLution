@@ -1,0 +1,1 @@
+c:\Users\Kamil\source\repos\IoT-GrupaC\Firebase_IoT_Manger\Firebase_IoT_Manger\Firebase_IoT_Manger.csproj;arm

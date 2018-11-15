@@ -9,7 +9,7 @@
 
 
 // Wiring for ESP8266 NodeMCU boards: VDD to 3V3, GND to GND, SDA to D2, SCL to D1, nWAKE to D3 (or GND)
-CCS811 ccs811(D3); // nWAKE on D3
+CCS811 ccs811(D3,0x5B); // nWAKE on D3
 
 
 void setup() {
@@ -47,12 +47,14 @@ void loop() {
     Serial.print("CCS811: ");
     Serial.print("eco2=");  Serial.print(eco2);     Serial.print(" ppm  ");
     Serial.print("etvoc="); Serial.print(etvoc);    Serial.print(" ppb  ");
-    //Serial.print("raw6=");  Serial.print(raw/1024); Serial.print(" uA  "); 
-    //Serial.print("raw10="); Serial.print(raw%1024); Serial.print(" ADC  ");
-    //Serial.print("R="); Serial.print((1650*1000L/1023)*(raw%1024)/(raw/1024)); Serial.print(" ohm");
+    Serial.print("raw6=");  Serial.print(raw/1024); Serial.print(" uA  "); 
+    Serial.print("raw10="); Serial.print(raw%1024); Serial.print(" ADC  ");
+    Serial.print("R="); Serial.print((1650*1000L/1023)*(raw%1024)/(raw/1024)); Serial.print(" ohm");
     Serial.println();
   } else if( errstat==CCS811_ERRSTAT_OK_NODATA ) {
     Serial.println("CCS811: waiting for (new) data");
+    //Serial.print("CCS811: errstat="); 
+    //Serial.print(errstat,HEX); 
   } else if( errstat & CCS811_ERRSTAT_I2CFAIL ) { 
     Serial.println("CCS811: I2C error");
   } else {
@@ -61,6 +63,5 @@ void loop() {
   }
   
   // Wait
-  delay(1000); 
+  delay(2000); 
 }
-

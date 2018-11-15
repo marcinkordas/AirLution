@@ -12,7 +12,7 @@ using Windows.ApplicationModel.Background;
 
 namespace Firebase_IoT_Manger
 {
-    public class DatabaseManager
+    public class DatabaseManager<T>
     {
         private IFirebaseClient firebaseClient;
         public IFirebaseClient FirebaseClient { get => firebaseClient; set => firebaseClient = value; }
@@ -34,11 +34,11 @@ namespace Firebase_IoT_Manger
             InitDatabaseClient();
         }
 
-        public async Task pushAsync(string sensorId, params double[] inputToSend)
+        public async Task pushAsync(string sensorId, params T[] inputToSend)
         {
             try
             {
-                var data = new DataObject<double>(sensorId, inputToSend);
+                var data = new DataObject<T>(sensorId, inputToSend);
 
 
                 string queryTempValues = String.Format("Sensor_{0}", sensorId);
@@ -58,11 +58,11 @@ namespace Firebase_IoT_Manger
                 throw;
             }
         }
-        public static async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, string sensorId, params double[] inputToSend)
+        public static async void PushDataToFireabase(IBackgroundTaskInstance taskInstance, string sensorId, params T[] inputToSend)
         {
             try
             {
-                DatabaseManager firebaseDatabaseManager = new DatabaseManager();
+                DatabaseManager<T> firebaseDatabaseManager = new DatabaseManager<T>();
                 //
                 // Create the deferral by requesting it from the task instance.
                 //

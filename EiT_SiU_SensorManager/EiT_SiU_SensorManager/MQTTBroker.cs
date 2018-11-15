@@ -12,10 +12,13 @@ namespace EiT_SiU_SensorManager
 {
     class MQTTBroker
     {
+        private static Firebase_IoT_Manger.DatabaseManager<double> databaseManager;
         public static async void StartBroker()
         {
             try
             {
+                databaseManager = new Firebase_IoT_Manger.DatabaseManager<double>();
+
                 var optionsBuilder = new MqttServerOptionsBuilder()
                     .WithConnectionBacklog(100)
                     .WithDefaultEndpointPort(1883);
@@ -43,6 +46,8 @@ namespace EiT_SiU_SensorManager
 
             Debug.WriteLine("Messsage Topic = " + e.ApplicationMessage.Topic.ToString());
             Debug.WriteLine("Message Payload = " + e.ApplicationMessage.ConvertPayloadToString());
+
+            databaseManager.pushAsync("id", 0, 0, 0, 0);
 
 
 

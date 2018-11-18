@@ -1,1 +1,1 @@
-c:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\EiT_SiU_SensorManager.csproj;arm
+C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\EiT_SiU_SensorManager.csproj;arm

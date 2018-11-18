@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\1.7.3\tools\ARM\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\obj\ARM\Release\ilc\intermediate\MDIL\EiT-SiU-SensorManager.mdilexe"
+"/i:C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\obj\ARM\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\obj\ARM\Release\ilc\intermediate\Native\EiT-SiU-SensorManager.exe"
+"/pdbAltPath:C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc"
+"/res:C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\obj\ARM\Release\ilc\intermediate\Native.res"
+"/i:C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.sharedlibrary-arm\1.7.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"

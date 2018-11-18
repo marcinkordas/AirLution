@@ -31,7 +31,8 @@ namespace EiT_SiU_SensorManager
 
                 await mqttServer.StartAsync(optionsBuilder.Build());
                 Debug.WriteLine("MQTT Server started.");
-                await mqttServer.StopAsync();
+                await databaseManager.pushAsync("id", 0, 0, 0, 0); //for debug
+                //await mqttServer.StopAsync();
             }
             catch (Exception ex)
             {

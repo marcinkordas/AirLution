@@ -31,7 +31,7 @@
     <AppXManifest Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2018-11-18T12:37:21.473</Modified>
+      <Modified>2018-11-18T12:53:16.801</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -75,19 +75,19 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\EiT-SiU-SensorManager.dll">
       <PackagePath>EiT-SiU-SensorManager.dll</PackagePath>
-      <Modified>2018-11-18T12:37:20.990</Modified>
+      <Modified>2018-11-18T12:53:16.313</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\EiT-SiU-SensorManager.exe">
       <PackagePath>EiT-SiU-SensorManager.exe</PackagePath>
-      <Modified>2018-11-18T12:37:21.455</Modified>
+      <Modified>2018-11-18T12:53:16.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\EiT-SiU-SensorManager.pdb">
       <PackagePath>EiT-SiU-SensorManager.pdb</PackagePath>
-      <Modified>2018-11-18T12:37:21.453</Modified>
+      <Modified>2018-11-18T12:53:16.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\EiT_SiU_SensorManager.winmd">
       <PackagePath>EiT_SiU_SensorManager.winmd</PackagePath>
-      <Modified>2018-11-18T12:37:21.499</Modified>
+      <Modified>2018-11-18T12:53:16.829</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Kamil\source\repos\IoT-GrupaC\EiT_SiU_SensorManager\EiT_SiU_SensorManager\bin\ARM\Release\ilc\resources.pri">
       <PackagePath>resources.pri</PackagePath>

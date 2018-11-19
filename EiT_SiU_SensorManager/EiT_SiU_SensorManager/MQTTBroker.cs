@@ -10,9 +10,16 @@ using MQTTnet.Server;
 
 namespace EiT_SiU_SensorManager
 {
+    /// <summary>
+    /// Implementation of MQQT Broker based on MQQTnet library
+    /// </summary>
     class MQTTBroker
     {
         private static Firebase_IoT_Manger.DatabaseManager<double> databaseManager;
+
+        /// <summary>
+        /// Init of MQQT Broker
+        /// </summary>
         public static async void StartBroker()
         {
             try
@@ -23,6 +30,8 @@ namespace EiT_SiU_SensorManager
                     .WithConnectionBacklog(100)
                     .WithDefaultEndpointPort(1883);
 
+                await databaseManager.pushAsync("id", 0, 0, 0, 0); //for debug
+
                 // Start a MQTT server.
                 var mqttServer = new MqttFactory().CreateMqttServer();
 
@@ -31,7 +40,6 @@ namespace EiT_SiU_SensorManager
 
                 await mqttServer.StartAsync(optionsBuilder.Build());
                 Debug.WriteLine("MQTT Server started.");
-                await databaseManager.pushAsync("id", 0, 0, 0, 0); //for debug
                 //await mqttServer.StopAsync();
             }
             catch (Exception ex)
@@ -40,6 +48,11 @@ namespace EiT_SiU_SensorManager
             }
         }
 
+        /// <summary>
+        /// Event handler for incoming message
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private static void MqttServer_ApplicationMessageReceived(object sender, MqttApplicationMessageReceivedEventArgs e)
         {
             string _topic = e.ApplicationMessage.Topic.ToString();
@@ -56,11 +69,22 @@ namespace EiT_SiU_SensorManager
 
         }
 
+        /// <summary>
+        /// Event handler for new client connection
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private static void MqttServer_ClientConnected(object sender, MqttClientConnectedEventArgs e)
         {
             Debug.WriteLine("Client connected, Id = " + e.ClientId);
         }
 
+
+        /// <summary>
+        /// Converting string paylod to double
+        /// </summary>
+        /// <param name="payload"></param>
+        /// <returns></returns>
         private static double[] ConvertPayloadToDouble(string payload)
         {
             ///to do - convert payload to double array

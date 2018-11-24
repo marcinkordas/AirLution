@@ -23,6 +23,18 @@
       <Extensions>
         <Extension Category="windows.backgroundTasks" EntryPoint="EiT_SiU_SensorManager.StartupTask">
           <BackgroundTasks>
+            <Task Type="general" />
+            <Task Type="systemEvent" />
+            <Task Type="timer" />
+            <Task Type="pushNotification" />
+            <Task Type="location" />
+            <Task Type="deviceUse" />
+            <Task Type="deviceConnectionChange" />
+            <Task Type="bluetooth" />
+            <uap:Task Type="chatMessageNotification" />
+            <uap:Task Type="vpnClient" />
+            <uap:Task Type="phoneCall" />
+            <uap:Task Type="mediaProcessing" />
             <iot:Task Type="startup" />
           </BackgroundTasks>
         </Extension>

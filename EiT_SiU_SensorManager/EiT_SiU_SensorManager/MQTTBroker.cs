@@ -30,8 +30,6 @@ namespace EiT_SiU_SensorManager
                     .WithConnectionBacklog(100)
                     .WithDefaultEndpointPort(1883);
 
-                await databaseManager.pushAsync("id", 0, 0, 0, 0); //for debug
-
                 // Start a MQTT server.
                 var mqttServer = new MqttFactory().CreateMqttServer();
 

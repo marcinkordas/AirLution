@@ -6,3 +6,6 @@ Foldery:
 /DHT_ESP8266/ zawiera plik .ino zapewniający obsługę sensora DHT22
 /CCS811-master/  kompletna biblioteka wraz z przykładami na środowisko Arduino użyta do obsługi sensora CCS811
 /DHT_sensor_library_for_ESPx/ kompletna biblioteka wraz z przykładami na środowisko Arduino użyta do obsługi sensora DHT22
+/DHT_ESP8266/ ? #TODO
+/RaspberryPIDataManager/ ? #TODO
+/general_project_documentation/ ogólna dokumentacja projektu

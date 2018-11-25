@@ -46,13 +46,15 @@ void loop() {
   // Read
   uint16_t eco2, etvoc, errstat, raw;
   ccs811.read(&eco2,&etvoc,&errstat,&raw); 
-  
+  char temp[100];
+  char wilg[100];
+  char czast[100];
+  char zadym[100];
   delay(dht.getMinimumSamplingPeriod());
   float humidity = dht.getHumidity();
   float temperature = dht.getTemperature();
   assert(ccs811.set_envdata((uint16)temperature, (uint16) humidity));
-  float dane[6];
-  dane[0]= 1;
+ 
   Serial.print(dht.getStatusString());
   Serial.print("\t");
   Serial.print(humidity, 1);
@@ -64,8 +66,8 @@ void loop() {
   Serial.print(dht.computeHeatIndex(temperature, humidity, false), 1);
   Serial.print("\t\t");
   Serial.println(dht.computeHeatIndex(dht.toFahrenheit(temperature), humidity, true), 1);
-  dane[1]=humidity;
-  dane[2]=temperature;
+  gcvt(temperature, 5, temp);
+  gcvt(humidity, 5, wilg);
   delay(500); 
   
   // Print measurement results based on status
@@ -87,15 +89,19 @@ void loop() {
     Serial.print("CCS811: errstat="); Serial.print(errstat,HEX); 
     Serial.print("="); Serial.println( ccs811.errstat_str(errstat) ); 
   }
+  gcvt(eco2, 5, czast);
+  gcvt(etvoc, 5, zadym);
 
-  dane[3]=eco2;
-  dane[4]=etvoc;
+  strcat(temp," ");
+  strcat(temp, wilg);
+  strcat(temp, " ");
+  strcat(temp, czast);
+  strcat(temp, " ");
+  strcat(temp, zadym);
   
   // Wait
-  Serial.println();Serial.print("Tablica: ");
-  Serial.print(dane[0]);Serial.print(" ");
-  Serial.print(dane[1]);Serial.print(" ");
-  Serial.print(dane[2]);Serial.print(" ");
-  Serial.print(dane[3]);Serial.println();
+  Serial.println();Serial.print("Dane: ");
+  Serial.print( "%s", temp);
+
   delay(2000); 
 }

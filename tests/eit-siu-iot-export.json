@@ -1,0 +1,3982 @@
+{
+  "Sensor_01" : {
+    "-LSJv3HjKyCaobrDkEHd" : {
+      "DataList" : [ 24.6, 28.5, 406.0, 0.0 ],
+      "Timestamp" : "11/27/2018 3:27:08 AM"
+    },
+    "-LSJv4kpFLkhTTrFJ9GO" : {
+      "DataList" : [ 24.7, 29.0, 473.0, 11.0 ],
+      "Timestamp" : "11/27/2018 3:27:13 AM"
+    },
+    "-LSJv5UWNgjIohre0GM_" : {
+      "DataList" : [ 24.7, 29.4, 519.0, 18.0 ],
+      "Timestamp" : "11/27/2018 3:27:17 AM"
+    },
+    "-LSJv6h-2DRdYGA6yrG0" : {
+      "DataList" : [ 28.7, 31.3, 531.0, 19.0 ],
+      "Timestamp" : "11/27/2018 3:27:22 AM"
+    },
+    "-LSJv7ehxaBR_ODZJoT3" : {
+      "DataList" : [ 24.7, 29.1, 531.0, 19.0 ],
+      "Timestamp" : "11/27/2018 3:27:26 AM"
+    },
+    "-LSJv8llV4F2sYe9KI0x" : {
+      "DataList" : [ 24.5, 28.9, 537.0, 20.0 ],
+      "Timestamp" : "11/27/2018 3:27:31 AM"
+    },
+    "-LSJvABO_Vo1M95Arw0U" : {
+      "DataList" : [ 21.1, 26.8, 519.0, 18.0 ],
+      "Timestamp" : "11/27/2018 3:27:35 AM"
+    },
+    "-LSJvAtKSMgkA2UFbZkv" : {
+      "DataList" : [ 24.9, 29.0, 519.0, 18.0 ],
+      "Timestamp" : "11/27/2018 3:27:40 AM"
+    },
+    "-LSJvC0CZ0YkqfCBIeFF" : {
+      "DataList" : [ 24.5, 28.9, 1692.0, 196.0 ],
+      "Timestamp" : "11/27/2018 3:27:44 AM"
+    },
+    "-LSJvD6edNMI3EW_xvua" : {
+      "DataList" : [ 24.7, 29.4, 1905.0, 229.0 ],
+      "Timestamp" : "11/27/2018 3:27:49 AM"
+    },
+    "-LSJvEM7HthJYPgNHCFK" : {
+      "DataList" : [ 24.7, 29.6, 1835.0, 218.0 ],
+      "Timestamp" : "11/27/2018 3:27:53 AM"
+    },
+    "-LSJvFHoh2kYrsu3NWDi" : {
+      "DataList" : [ 24.6, 29.5, 1404.0, 152.0 ],
+      "Timestamp" : "11/27/2018 3:27:58 AM"
+    },
+    "-LSJvG_lYSRmwmcWLJgy" : {
+      "DataList" : [ 24.7, 29.4, 1462.0, 161.0 ],
+      "Timestamp" : "11/27/2018 3:28:02 AM"
+    },
+    "-LSJvHZh1fOBUqC6KsQ_" : {
+      "DataList" : [ 24.7, 29.2, 1692.0, 196.0 ],
+      "Timestamp" : "11/27/2018 3:28:07 AM"
+    },
+    "-LSJvIcc2xtm-hBeZzrD" : {
+      "DataList" : [ 24.7, 29.1, 1673.0, 193.0 ],
+      "Timestamp" : "11/27/2018 3:28:11 AM"
+    },
+    "-LSJvJghNCt08Dj5WUVl" : {
+      "DataList" : [ 24.7, 29.0, 1436.0, 157.0 ],
+      "Timestamp" : "11/27/2018 3:28:16 AM"
+    },
+    "-LSJvKmdZ_fvWsfki9w5" : {
+      "DataList" : [ 24.7, 29.4, 1220.0, 124.0 ],
+      "Timestamp" : "11/27/2018 3:28:20 AM"
+    },
+    "-LSJvLrrloIcADqxh2Fb" : {
+      "DataList" : [ 24.6, 29.0, 1603.0, 183.0 ],
+      "Timestamp" : "11/27/2018 3:28:25 AM"
+    },
+    "-LSJvNDp70okPe8HXI0x" : {
+      "DataList" : [ 24.7, 29.1, 1562.0, 177.0 ],
+      "Timestamp" : "11/27/2018 3:28:30 AM"
+    },
+    "-LSJvODFM1GOBTKw0V5l" : {
+      "DataList" : [ 24.7, 29.1, 1525.0, 171.0 ],
+      "Timestamp" : "11/27/2018 3:28:34 AM"
+    },
+    "-LSJvPdcFCwvYzsCq8B-" : {
+      "DataList" : [ 24.6, 29.5, 1768.0, 208.0 ],
+      "Timestamp" : "11/27/2018 3:28:40 AM"
+    },
+    "-LSJvQo805Ir27xZYRLi" : {
+      "DataList" : [ 24.7, 29.1, 1787.0, 211.0 ],
+      "Timestamp" : "11/27/2018 3:28:44 AM"
+    },
+    "-LSJvRXWQjOXqDrrZoZJ" : {
+      "DataList" : [ 24.7, 29.2, 1860.0, 222.0 ],
+      "Timestamp" : "11/27/2018 3:28:48 AM"
+    },
+    "-LSJvT9CqTm5Hf0vf5ng" : {
+      "DataList" : [ 24.7, 29.8, 1184.0, 119.0 ],
+      "Timestamp" : "11/27/2018 3:28:52 AM"
+    },
+    "-LSJvUDPyYBAMdsVbM_y" : {
+      "DataList" : [ 24.7, 29.8, 1285.0, 134.0 ],
+      "Timestamp" : "11/27/2018 3:28:56 AM"
+    },
+    "-LSJvVLF-sKFdS6oeLfJ" : {
+      "DataList" : [ 24.7, 30.0, 1835.0, 218.0 ],
+      "Timestamp" : "11/27/2018 3:29:01 AM"
+    },
+    "-LSJvVmsNR6us523mSWo" : {
+      "DataList" : [ 24.7, 30.1, 1768.0, 208.0 ],
+      "Timestamp" : "11/27/2018 3:29:05 AM"
+    },
+    "-LSJvXiiEQrdo6cDWHPl" : {
+      "DataList" : [ 24.7, 30.0, 1740.0, 204.0 ],
+      "Timestamp" : "11/27/2018 3:29:10 AM"
+    },
+    "-LSJvYEJUrAsDXOdHD0X" : {
+      "DataList" : [ 24.7, 29.8, 1389.0, 150.0 ],
+      "Timestamp" : "11/27/2018 3:29:15 AM"
+    },
+    "-LSJvZdkbHK4tCMZW0JJ" : {
+      "DataList" : [ 24.5, 29.8, 1228.0, 126.0 ],
+      "Timestamp" : "11/27/2018 3:29:21 AM"
+    },
+    "-LSJv_CN8bF1f-edcgVb" : {
+      "DataList" : [ 24.5, 30.0, 1735.0, 203.0 ],
+      "Timestamp" : "11/27/2018 3:29:23 AM"
+    },
+    "-LSJvaVqmpwc_t9oFkrP" : {
+      "DataList" : [ 24.3, 30.0, 1950.0, 236.0 ],
+      "Timestamp" : "11/27/2018 3:29:28 AM"
+    },
+    "-LSJvbRhd3a4D46sRpI8" : {
+      "DataList" : [ 24.9, 31.0, 1754.0, 206.0 ],
+      "Timestamp" : "11/27/2018 3:29:32 AM"
+    },
+    "-LSJvcjjQvHF6RITM7Ja" : {
+      "DataList" : [ 24.9, 31.6, 1474.0, 163.0 ],
+      "Timestamp" : "11/27/2018 3:29:38 AM"
+    },
+    "-LSJvdc-6yeM-pHBNeNW" : {
+      "DataList" : [ 24.8, 32.5, 1754.0, 206.0 ],
+      "Timestamp" : "11/27/2018 3:29:41 AM"
+    },
+    "-LSJvet9EgkUBmq0HJRe" : {
+      "DataList" : [ 24.7, 31.3, 1367.0, 147.0 ],
+      "Timestamp" : "11/27/2018 3:29:46 AM"
+    },
+    "-LSJvfwastvmOiXy8bqG" : {
+      "DataList" : [ 24.8, 31.1, 1580.0, 179.0 ],
+      "Timestamp" : "11/27/2018 3:29:51 AM"
+    },
+    "-LSJvgvvm5K5D-fuQt62" : {
+      "DataList" : [ 24.9, 31.2, 1639.0, 188.0 ],
+      "Timestamp" : "11/27/2018 3:29:55 AM"
+    },
+    "-LSJvi1ec8B19H1MIjeO" : {
+      "DataList" : [ 24.8, 30.4, 1639.0, 188.0 ],
+      "Timestamp" : "11/27/2018 3:29:59 AM"
+    },
+    "-LSJvj5k0ZGgWVfI_IFu" : {
+      "DataList" : [ 24.8, 30.3, 1562.0, 177.0 ],
+      "Timestamp" : "11/27/2018 3:30:04 AM"
+    },
+    "-LSJvkhQ8TQs6TqLs66V" : {
+      "DataList" : [ 24.9, 30.3, 1562.0, 177.0 ],
+      "Timestamp" : "11/27/2018 3:30:08 AM"
+    },
+    "-LSJvmgy64Dax2YDO57s" : {
+      "DataList" : [ 24.8, 30.1, 1068.0, 101.0 ],
+      "Timestamp" : "11/27/2018 3:30:13 AM"
+    },
+    "-LSJvmmAUOqWzJUdsVW5" : {
+      "DataList" : [ 24.8, 30.7, 1616.0, 185.0 ],
+      "Timestamp" : "11/27/2018 3:30:18 AM"
+    },
+    "-LSJvndD64h3Rv8Ze0H0" : {
+      "DataList" : [ 24.9, 30.6, 1580.0, 179.0 ],
+      "Timestamp" : "11/27/2018 3:30:22 AM"
+    },
+    "-LSJvogjKqhQ3d2-uJlq" : {
+      "DataList" : [ 24.9, 30.3, 1562.0, 177.0 ],
+      "Timestamp" : "11/27/2018 3:30:26 AM"
+    },
+    "-LTRxh47PWSwYJuhpc2O" : {
+      "DataList" : [ 24.9, 31.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:19 PM"
+    },
+    "-LTRxiN5B8yY7mipfVu_" : {
+      "DataList" : [ 24.9, 33.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:24 PM"
+    },
+    "-LTRxjXozK6IQcUMnQcg" : {
+      "DataList" : [ 24.8, 32.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:29 PM"
+    },
+    "-LTRxkjXlxeq41sy9aE0" : {
+      "DataList" : [ 24.7, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:34 PM"
+    },
+    "-LTRxm0BL9x4EQbY7XGK" : {
+      "DataList" : [ 24.7, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:39 PM"
+    },
+    "-LTRxn5mnfGDFZTwQT4i" : {
+      "DataList" : [ 24.7, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:44 PM"
+    },
+    "-LTRxowjsgWCBQ1sMSAP" : {
+      "DataList" : [ 24.6, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:49 PM"
+    },
+    "-LTRxp_vr6GLPPeaglg3" : {
+      "DataList" : [ 24.6, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:54 PM"
+    },
+    "-LTRxqzlxcLDc7bgDMA5" : {
+      "DataList" : [ 24.6, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:59 PM"
+    },
+    "-LTRxryfVVQs190CXWG7" : {
+      "DataList" : [ 24.6, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:04 PM"
+    },
+    "-LTRxtPLMmaOaeW2rb3j" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:09 PM"
+    },
+    "-LTRxuXjoPn0HxOSRnu9" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:14 PM"
+    },
+    "-LTRxvdsMeW3V6gFsHLP" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:19 PM"
+    },
+    "-LTRxwr3L_sB4o-EovOw" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:24 PM"
+    },
+    "-LTRxyDwLSxnB__-ZjnK" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:29 PM"
+    },
+    "-LTRxzIVrpaVqdurJspx" : {
+      "DataList" : [ 24.4, 33.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:34 PM"
+    },
+    "-LTRy-X0V76OcbR8uMtc" : {
+      "DataList" : [ 24.4, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:39 PM"
+    },
+    "-LTRy3NveIipVGuaVyWo" : {
+      "DataList" : [ 24.4, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:44 PM"
+    },
+    "-LTRy4Etq6x6_xuyiUc8" : {
+      "DataList" : [ 24.4, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:53 PM"
+    },
+    "-LTRy4Qr1DdRY7k2nVVm" : {
+      "DataList" : [ 24.4, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:12:57 PM"
+    },
+    "-LTRy4zuqm48pjD29vbD" : {
+      "DataList" : [ 24.4, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:13:01 PM"
+    },
+    "-LTRy5amUEBES6-M7hyM" : {
+      "DataList" : [ 24.3, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:13:04 PM"
+    },
+    "-LTRyPHrg7lxp8RNkTRG" : {
+      "DataList" : [ 24.9, 34.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:13:43 PM"
+    },
+    "-LTS-x9WLWFL-WsN0Quz" : {
+      "DataList" : [ 25.1, 32.2, 451.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:25:30 PM"
+    },
+    "-LTS-x9o-ESxV0bLcEry" : {
+      "DataList" : [ 27.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:25:26 PM"
+    },
+    "-LTS-y1UHDZZk1TJ7au3" : {
+      "DataList" : [ 25.2, 32.4, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:25:35 PM"
+    },
+    "-LTS-zkUEKcswH9d8uRU" : {
+      "DataList" : [ 25.1, 32.4, 477.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:25:40 PM"
+    },
+    "-LTS0-RPgfcJKlN3dsWC" : {
+      "DataList" : [ 25.1, 32.8, 552.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:25:45 PM"
+    },
+    "-LTS00cEyKrFq424jJkq" : {
+      "DataList" : [ 25.1, 32.5, 434.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:25:50 PM"
+    },
+    "-LTS01sLc6AP0UbfYSRj" : {
+      "DataList" : [ 23.0, 30.9, 434.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:25:55 PM"
+    },
+    "-LTS035Td2Fj8K9Ygkzb" : {
+      "DataList" : [ 25.0, 32.5, 552.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:26:00 PM"
+    },
+    "-LTS04gFLScNgWjC9Otb" : {
+      "DataList" : [ 25.1, 32.4, 567.0, 25.0 ],
+      "Timestamp" : "12/11/2018 12:26:05 PM"
+    },
+    "-LTS05gJLjmUsjXt7JD3" : {
+      "DataList" : [ 25.1, 32.5, 785.0, 58.0 ],
+      "Timestamp" : "12/11/2018 12:26:10 PM"
+    },
+    "-LTS06kPxzC5ETQmecZB" : {
+      "DataList" : [ 25.1, 32.5, 754.0, 53.0 ],
+      "Timestamp" : "12/11/2018 12:26:15 PM"
+    },
+    "-LTS084lwgdlrujnbObl" : {
+      "DataList" : [ 25.1, 32.5, 770.0, 56.0 ],
+      "Timestamp" : "12/11/2018 12:26:20 PM"
+    },
+    "-LTS09CMPhWO5VQ60qcF" : {
+      "DataList" : [ 25.1, 32.5, 754.0, 53.0 ],
+      "Timestamp" : "12/11/2018 12:26:25 PM"
+    },
+    "-LTS0ASyjM8ZV0NAPN1y" : {
+      "DataList" : [ 25.1, 32.4, 700.0, 45.0 ],
+      "Timestamp" : "12/11/2018 12:26:30 PM"
+    },
+    "-LTS0Bet6F2Tx61tZdDP" : {
+      "DataList" : [ 25.1, 32.4, 653.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:26:35 PM"
+    },
+    "-LTS0CrU9b-QK52dhULi" : {
+      "DataList" : [ 25.1, 32.5, 746.0, 52.0 ],
+      "Timestamp" : "12/11/2018 12:26:40 PM"
+    },
+    "-LTS0E6rL80O9BOrRDb_" : {
+      "DataList" : [ 25.1, 32.5, 618.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:26:45 PM"
+    },
+    "-LTS0FMuOoqHiiZYhA-p" : {
+      "DataList" : [ 25.2, 32.6, 742.0, 52.0 ],
+      "Timestamp" : "12/11/2018 12:26:50 PM"
+    },
+    "-LTS0Ge04f3wxKeTL-Ol" : {
+      "DataList" : [ 25.2, 32.6, 733.0, 50.0 ],
+      "Timestamp" : "12/11/2018 12:26:55 PM"
+    },
+    "-LTS0I4ewIdq3bt-GUmi" : {
+      "DataList" : [ 25.1, 32.8, 728.0, 49.0 ],
+      "Timestamp" : "12/11/2018 12:27:00 PM"
+    },
+    "-LTS0J03EHsMkKUkHKDw" : {
+      "DataList" : [ 25.1, 32.8, 708.0, 46.0 ],
+      "Timestamp" : "12/11/2018 12:27:05 PM"
+    },
+    "-LTS0KHi6jaZ53RsxHL8" : {
+      "DataList" : [ 25.2, 32.8, 666.0, 40.0 ],
+      "Timestamp" : "12/11/2018 12:27:10 PM"
+    },
+    "-LTS0LRA2CF7EbUDGmKM" : {
+      "DataList" : [ 25.1, 32.7, 694.0, 44.0 ],
+      "Timestamp" : "12/11/2018 12:27:15 PM"
+    },
+    "-LTS0Me8H2A0TxazWPnB" : {
+      "DataList" : [ 25.1, 32.7, 678.0, 42.0 ],
+      "Timestamp" : "12/11/2018 12:27:20 PM"
+    },
+    "-LTS0Nuvplegrfd-SLZm" : {
+      "DataList" : [ 25.2, 32.7, 589.0, 28.0 ],
+      "Timestamp" : "12/11/2018 12:27:25 PM"
+    },
+    "-LTS0P6GgVTUWmMj9kyX" : {
+      "DataList" : [ 25.1, 32.6, 666.0, 40.0 ],
+      "Timestamp" : "12/11/2018 12:27:30 PM"
+    },
+    "-LTS0QKITWg2ujGP-Oyi" : {
+      "DataList" : [ 25.2, 32.7, 650.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:27:35 PM"
+    },
+    "-LTS0R_jg76DNHaaYFed" : {
+      "DataList" : [ 25.1, 32.6, 483.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:27:40 PM"
+    },
+    "-LTS0SpTHJOB3pnRs3Wq" : {
+      "DataList" : [ 25.1, 32.6, 638.0, 36.0 ],
+      "Timestamp" : "12/11/2018 12:27:45 PM"
+    },
+    "-LTS0TzbpTXNFb5N5aPf" : {
+      "DataList" : [ 25.2, 32.7, 611.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:27:50 PM"
+    },
+    "-LTS0VL7BL87telDIuT_" : {
+      "DataList" : [ 25.2, 32.7, 615.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:27:55 PM"
+    },
+    "-LTS0WUSH6lA9EA3CfBr" : {
+      "DataList" : [ 25.3, 32.8, 615.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:28:00 PM"
+    },
+    "-LTS0Xh79ZfBYVpwC1C3" : {
+      "DataList" : [ 25.1, 32.6, 567.0, 25.0 ],
+      "Timestamp" : "12/11/2018 12:28:05 PM"
+    },
+    "-LTS0Yw8EaXa5_K9yiyb" : {
+      "DataList" : [ 26.6, 33.6, 623.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:28:10 PM"
+    },
+    "-LTS0_Dhiqebe3LAlvR6" : {
+      "DataList" : [ 25.2, 32.8, 600.0, 30.0 ],
+      "Timestamp" : "12/11/2018 12:28:15 PM"
+    },
+    "-LTS0asfTmkDkZxlmRcT" : {
+      "DataList" : [ 25.1, 32.6, 491.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:28:20 PM"
+    },
+    "-LTS0bbT01ULL__9txUg" : {
+      "DataList" : [ 25.1, 32.7, 592.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:28:25 PM"
+    },
+    "-LTS0d2gXUpSaK8Ra-ay" : {
+      "DataList" : [ 25.1, 32.7, 574.0, 26.0 ],
+      "Timestamp" : "12/11/2018 12:28:30 PM"
+    },
+    "-LTS0e1AoXfUYRX1-GOj" : {
+      "DataList" : [ 25.2, 32.7, 596.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:28:35 PM"
+    },
+    "-LTS0fEKZMbKQgADg_AG" : {
+      "DataList" : [ 25.2, 32.7, 596.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:28:40 PM"
+    },
+    "-LTS0hSb9hherH6ycOvi" : {
+      "DataList" : [ 25.2, 32.5, 637.0, 36.0 ],
+      "Timestamp" : "12/11/2018 12:28:45 PM"
+    },
+    "-LTS0hmILJRj3T8SzTTT" : {
+      "DataList" : [ 25.2, 32.4, 650.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:28:50 PM"
+    },
+    "-LTS0is5MRXdKvCGIUt8" : {
+      "DataList" : [ 25.2, 32.5, 588.0, 28.0 ],
+      "Timestamp" : "12/11/2018 12:28:55 PM"
+    },
+    "-LTS0kCiHtx0y580Q59p" : {
+      "DataList" : [ 25.1, 32.6, 629.0, 34.0 ],
+      "Timestamp" : "12/11/2018 12:29:00 PM"
+    },
+    "-LTS0lPmyBaqZnWDwx9m" : {
+      "DataList" : [ 21.9, 30.1, 600.0, 30.0 ],
+      "Timestamp" : "12/11/2018 12:29:05 PM"
+    },
+    "-LTS0mZntCAjpGp6Tb19" : {
+      "DataList" : [ 25.1, 32.8, 486.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:29:10 PM"
+    },
+    "-LTS0nnGp0oOcGeaZBqw" : {
+      "DataList" : [ 25.2, 32.9, 594.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:29:15 PM"
+    },
+    "-LTS0pD01Kt21yaws716" : {
+      "DataList" : [ 25.1, 32.9, 607.0, 31.0 ],
+      "Timestamp" : "12/11/2018 12:29:21 PM"
+    },
+    "-LTS0qHqUdKp-_TyTW0a" : {
+      "DataList" : [ 25.2, 33.0, 518.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:29:25 PM"
+    },
+    "-LTS0rRt24Ncz7KTHvOU" : {
+      "DataList" : [ 25.2, 33.0, 702.0, 46.0 ],
+      "Timestamp" : "12/11/2018 12:29:30 PM"
+    },
+    "-LTS0siUtQ7bLDxu0qW3" : {
+      "DataList" : [ 25.2, 33.1, 641.0, 36.0 ],
+      "Timestamp" : "12/11/2018 12:29:35 PM"
+    },
+    "-LTS0txJK0CRa1sDpwws" : {
+      "DataList" : [ 25.2, 33.2, 682.0, 42.0 ],
+      "Timestamp" : "12/11/2018 12:29:40 PM"
+    },
+    "-LTS0v8seWjYsxYx3bVV" : {
+      "DataList" : [ 25.2, 33.1, 605.0, 31.0 ],
+      "Timestamp" : "12/11/2018 12:29:45 PM"
+    },
+    "-LTS0wLuC6IQI4DVckT1" : {
+      "DataList" : [ 25.2, 33.0, 634.0, 35.0 ],
+      "Timestamp" : "12/11/2018 12:29:50 PM"
+    },
+    "-LTS0x_lLHXhQx5nu4Rl" : {
+      "DataList" : [ 25.2, 33.0, 712.0, 47.0 ],
+      "Timestamp" : "12/11/2018 12:29:55 PM"
+    },
+    "-LTS0ylv6lXjjWv6L7MJ" : {
+      "DataList" : [ 25.2, 33.0, 740.0, 51.0 ],
+      "Timestamp" : "12/11/2018 12:30:00 PM"
+    },
+    "-LTS1-10FvIVIl6AeIid" : {
+      "DataList" : [ 25.3, 33.0, 580.0, 27.0 ],
+      "Timestamp" : "12/11/2018 12:30:05 PM"
+    },
+    "-LTS10F3cH7XGqfAObZC" : {
+      "DataList" : [ 24.6, 32.5, 733.0, 50.0 ],
+      "Timestamp" : "12/11/2018 12:30:10 PM"
+    },
+    "-LTS11Xvy9edJa_I7zfm" : {
+      "DataList" : [ 25.1, 32.8, 712.0, 47.0 ],
+      "Timestamp" : "12/11/2018 12:30:16 PM"
+    },
+    "-LTS12fmVYwVECV3_2RO" : {
+      "DataList" : [ 25.2, 32.8, 819.0, 63.0 ],
+      "Timestamp" : "12/11/2018 12:30:21 PM"
+    },
+    "-LTS13uGDZ22aOQZuOMw" : {
+      "DataList" : [ 25.2, 33.3, 726.0, 49.0 ],
+      "Timestamp" : "12/11/2018 12:30:26 PM"
+    },
+    "-LTS159OetWNz61kfR5V" : {
+      "DataList" : [ 25.2, 32.7, 650.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:30:31 PM"
+    },
+    "-LTS16N0yjzk_YwzSyx2" : {
+      "DataList" : [ 25.2, 32.7, 759.0, 54.0 ],
+      "Timestamp" : "12/11/2018 12:30:36 PM"
+    },
+    "-LTS17agbr_6Qa_3Ywxo" : {
+      "DataList" : [ 25.2, 33.0, 2734.0, 355.0 ],
+      "Timestamp" : "12/11/2018 12:30:41 PM"
+    },
+    "-LTS18rMJdSSsqcQ6EyR" : {
+      "DataList" : [ 25.2, 32.6, 2560.0, 329.0 ],
+      "Timestamp" : "12/11/2018 12:30:46 PM"
+    },
+    "-LTS1A0pUbTlKwsuaCYP" : {
+      "DataList" : [ 25.2, 32.5, 2970.0, 391.0 ],
+      "Timestamp" : "12/11/2018 12:30:51 PM"
+    },
+    "-LTS1BJ3Wvy6u3UXdNYW" : {
+      "DataList" : [ 25.2, 32.4, 2829.0, 370.0 ],
+      "Timestamp" : "12/11/2018 12:30:56 PM"
+    },
+    "-LTS1CSpJpNR9N1jZsWG" : {
+      "DataList" : [ 25.2, 32.4, 1798.0, 212.0 ],
+      "Timestamp" : "12/11/2018 12:31:01 PM"
+    },
+    "-LTS1DgDAoKrLB5o-mav" : {
+      "DataList" : [ 25.2, 32.5, 3176.0, 422.0 ],
+      "Timestamp" : "12/11/2018 12:31:06 PM"
+    },
+    "-LTS1EvjU8GKyUoHhtG0" : {
+      "DataList" : [ 25.3, 32.6, 3176.0, 422.0 ],
+      "Timestamp" : "12/11/2018 12:31:11 PM"
+    },
+    "-LTS1GATEixgrhz6j1Mq" : {
+      "DataList" : [ 25.2, 32.7, 3443.0, 463.0 ],
+      "Timestamp" : "12/11/2018 12:31:16 PM"
+    },
+    "-LTS1HOSu7TuoGaE1mZg" : {
+      "DataList" : [ 25.1, 32.6, 3573.0, 483.0 ],
+      "Timestamp" : "12/11/2018 12:31:21 PM"
+    },
+    "-LTS1Ila9tUqmnfRuWLS" : {
+      "DataList" : [ 25.2, 32.8, 3287.0, 439.0 ],
+      "Timestamp" : "12/11/2018 12:31:26 PM"
+    },
+    "-LTS1JonvjNsi-X8EtZv" : {
+      "DataList" : [ 25.2, 32.7, 3535.0, 477.0 ],
+      "Timestamp" : "12/11/2018 12:31:31 PM"
+    },
+    "-LTS1LKvjgBTiry8I1vO" : {
+      "DataList" : [ 25.2, 32.9, 2937.0, 386.0 ],
+      "Timestamp" : "12/11/2018 12:31:36 PM"
+    },
+    "-LTS1NNXgTqbdwuqldHd" : {
+      "DataList" : [ 25.2, 32.9, 65535.0, 65535.0 ],
+      "Timestamp" : "12/11/2018 12:31:41 PM"
+    },
+    "-LTS1NY__7sMwmSFPbz4" : {
+      "DataList" : [ 25.2, 32.9, 3573.0, 483.0 ],
+      "Timestamp" : "12/11/2018 12:31:46 PM"
+    },
+    "-LTS1OiKDnXLGIxZ3n8k" : {
+      "DataList" : [ 25.2, 32.8, 2855.0, 374.0 ],
+      "Timestamp" : "12/11/2018 12:31:51 PM"
+    },
+    "-LTS1PyE4dTSfa_4i8T8" : {
+      "DataList" : [ 25.2, 32.8, 3618.0, 490.0 ],
+      "Timestamp" : "12/11/2018 12:31:56 PM"
+    },
+    "-LTS1R8lOPTM7caKLpKs" : {
+      "DataList" : [ 25.2, 32.8, 3485.0, 469.0 ],
+      "Timestamp" : "12/11/2018 12:32:01 PM"
+    },
+    "-LTS1SV-5XSgjHKUhJ_4" : {
+      "DataList" : [ 25.2, 32.9, 3573.0, 483.0 ],
+      "Timestamp" : "12/11/2018 12:32:06 PM"
+    },
+    "-LTS1TZt48rrZ61NOOEU" : {
+      "DataList" : [ 25.3, 33.1, 3573.0, 483.0 ],
+      "Timestamp" : "12/11/2018 12:32:11 PM"
+    },
+    "-LTS1Un5EjvtzOKTZGHd" : {
+      "DataList" : [ 25.3, 33.1, 3327.0, 445.0 ],
+      "Timestamp" : "12/11/2018 12:32:16 PM"
+    },
+    "-LTS1W1xkOlJ8SEIaue1" : {
+      "DataList" : [ 25.2, 32.9, 3485.0, 469.0 ],
+      "Timestamp" : "12/11/2018 12:32:21 PM"
+    },
+    "-LTS1XFKM5IZcLcLTJot" : {
+      "DataList" : [ 25.1, 32.8, 3443.0, 463.0 ],
+      "Timestamp" : "12/11/2018 12:32:26 PM"
+    },
+    "-LTS1YTWBWi83iaTNVU3" : {
+      "DataList" : [ 25.2, 32.8, 2996.0, 395.0 ],
+      "Timestamp" : "12/11/2018 12:32:31 PM"
+    },
+    "-LTS1ZiSwNUnRK8zVmps" : {
+      "DataList" : [ 25.2, 32.8, 3403.0, 457.0 ],
+      "Timestamp" : "12/11/2018 12:32:36 PM"
+    },
+    "-LTS1_zoerzXEraFT9FI" : {
+      "DataList" : [ 25.2, 32.8, 3327.0, 445.0 ],
+      "Timestamp" : "12/11/2018 12:32:41 PM"
+    },
+    "-LTS1b9lQPQ6HZ7Po5R8" : {
+      "DataList" : [ 25.2, 32.7, 2220.0, 277.0 ],
+      "Timestamp" : "12/11/2018 12:32:46 PM"
+    },
+    "-LTS1cPG15SzarWJnZgK" : {
+      "DataList" : [ 25.2, 32.7, 3287.0, 439.0 ],
+      "Timestamp" : "12/11/2018 12:32:51 PM"
+    },
+    "-LTS1das4xyEjNZribTZ" : {
+      "DataList" : [ 25.2, 32.7, 3140.0, 417.0 ],
+      "Timestamp" : "12/11/2018 12:32:56 PM"
+    },
+    "-LTS1fGo9jXyUSGIRZki" : {
+      "DataList" : [ 25.2, 32.7, 3287.0, 439.0 ],
+      "Timestamp" : "12/11/2018 12:33:01 PM"
+    },
+    "-LTS1g4_UDOwYCo6cgPz" : {
+      "DataList" : [ 25.2, 32.6, 3249.0, 434.0 ],
+      "Timestamp" : "12/11/2018 12:33:06 PM"
+    },
+    "-LTS1hFoN4peDiq8VLP0" : {
+      "DataList" : [ 25.2, 32.7, 2996.0, 395.0 ],
+      "Timestamp" : "12/11/2018 12:33:11 PM"
+    },
+    "-LTS1iV7JBJI4cMDMwNU" : {
+      "DataList" : [ 25.2, 32.7, 3249.0, 434.0 ],
+      "Timestamp" : "12/11/2018 12:33:16 PM"
+    },
+    "-LTS1jqxZWpjFDkniKeB" : {
+      "DataList" : [ 25.4, 32.8, 3249.0, 434.0 ],
+      "Timestamp" : "12/11/2018 12:33:21 PM"
+    },
+    "-LTS1kxpB9VbKCVFwOQ9" : {
+      "DataList" : [ 25.3, 32.8, 2560.0, 329.0 ],
+      "Timestamp" : "12/11/2018 12:33:26 PM"
+    },
+    "-LTS1mJlC9w6RHQ4TTRH" : {
+      "DataList" : [ 24.9, 32.6, 3249.0, 434.0 ],
+      "Timestamp" : "12/11/2018 12:33:31 PM"
+    },
+    "-LTS1nTlDdtYAP4om3d4" : {
+      "DataList" : [ 25.2, 32.9, 3140.0, 417.0 ],
+      "Timestamp" : "12/11/2018 12:33:36 PM"
+    },
+    "-LTS1ocbSwx-dgi7clih" : {
+      "DataList" : [ 25.2, 32.9, 3212.0, 428.0 ],
+      "Timestamp" : "12/11/2018 12:33:41 PM"
+    },
+    "-LTS1pviO2mcIXdvVa12" : {
+      "DataList" : [ 25.2, 32.9, 3176.0, 422.0 ],
+      "Timestamp" : "12/11/2018 12:33:46 PM"
+    },
+    "-LTS1r1-OlCcGdM1ZEW-" : {
+      "DataList" : [ 25.2, 32.8, 2970.0, 391.0 ],
+      "Timestamp" : "12/11/2018 12:33:51 PM"
+    },
+    "-LTS1sQpI6Cxe-0KQRRJ" : {
+      "DataList" : [ 25.2, 32.7, 3104.0, 411.0 ],
+      "Timestamp" : "12/11/2018 12:33:56 PM"
+    },
+    "-LTS1t_STp2isQ3ceYgA" : {
+      "DataList" : [ 25.2, 32.7, 3104.0, 411.0 ],
+      "Timestamp" : "12/11/2018 12:34:01 PM"
+    },
+    "-LTS1ukemass9vAM-cf-" : {
+      "DataList" : [ 25.2, 32.7, 2704.0, 351.0 ],
+      "Timestamp" : "12/11/2018 12:34:06 PM"
+    },
+    "-LTS1x7c35UUHk7Efgge" : {
+      "DataList" : [ 25.2, 32.7, 3104.0, 411.0 ],
+      "Timestamp" : "12/11/2018 12:34:12 PM"
+    },
+    "-LTS1xCWY-mSvEfyOd3C" : {
+      "DataList" : [ 25.2, 32.7, 3104.0, 411.0 ],
+      "Timestamp" : "12/11/2018 12:34:16 PM"
+    },
+    "-LTS1yjIgS_G81GNZn8i" : {
+      "DataList" : [ 25.2, 32.8, 2128.0, 263.0 ],
+      "Timestamp" : "12/11/2018 12:34:21 PM"
+    },
+    "-LTS1zqzVkIlPDdXTwrH" : {
+      "DataList" : [ 25.4, 32.9, 3140.0, 417.0 ],
+      "Timestamp" : "12/11/2018 12:34:26 PM"
+    },
+    "-LTS2-vISr5JdVufxZ8N" : {
+      "DataList" : [ 25.1, 32.7, 1990.0, 242.0 ],
+      "Timestamp" : "12/11/2018 12:34:31 PM"
+    },
+    "-LTS216WQelV4hQd_ZD1" : {
+      "DataList" : [ 25.2, 32.8, 3104.0, 411.0 ],
+      "Timestamp" : "12/11/2018 12:34:36 PM"
+    },
+    "-LTS22NQPrFyJuKURqJX" : {
+      "DataList" : [ 25.2, 32.7, 2937.0, 386.0 ],
+      "Timestamp" : "12/11/2018 12:34:41 PM"
+    },
+    "-LTS23jZ8XhZINtoioRh" : {
+      "DataList" : [ 25.2, 32.8, 3077.0, 407.0 ],
+      "Timestamp" : "12/11/2018 12:34:46 PM"
+    },
+    "-LTS24kKb9thliuQlSyX" : {
+      "DataList" : [ 25.3, 32.8, 3032.0, 400.0 ],
+      "Timestamp" : "12/11/2018 12:34:51 PM"
+    },
+    "-LTS26Ic8wKjC1fJ8VLH" : {
+      "DataList" : [ 25.2, 32.7, 2734.0, 355.0 ],
+      "Timestamp" : "12/11/2018 12:34:56 PM"
+    },
+    "-LTS27HEQLsg7_a2e4JZ" : {
+      "DataList" : [ 25.2, 32.7, 2996.0, 395.0 ],
+      "Timestamp" : "12/11/2018 12:35:01 PM"
+    },
+    "-LTS28dpGH4cDI36sp6g" : {
+      "DataList" : [ 25.2, 32.7, 2937.0, 386.0 ],
+      "Timestamp" : "12/11/2018 12:35:06 PM"
+    },
+    "-LTS29kFH78OUZFblNy3" : {
+      "DataList" : [ 25.2, 32.7, 2272.0, 285.0 ],
+      "Timestamp" : "12/11/2018 12:35:11 PM"
+    },
+    "-LTS2AubCA6VfYqsOY9f" : {
+      "DataList" : [ 25.2, 32.7, 2970.0, 391.0 ],
+      "Timestamp" : "12/11/2018 12:35:16 PM"
+    },
+    "-LTS2Cb9bc5eLIGVVV9c" : {
+      "DataList" : [ 25.3, 32.7, 2855.0, 374.0 ],
+      "Timestamp" : "12/11/2018 12:35:21 PM"
+    },
+    "-LTS2DK7wU8o-WcO_qCQ" : {
+      "DataList" : [ 25.3, 32.7, 2937.0, 386.0 ],
+      "Timestamp" : "12/11/2018 12:35:26 PM"
+    },
+    "-LTS2E_jzz4vL94u7roJ" : {
+      "DataList" : [ 25.1, 32.6, 2888.0, 379.0 ],
+      "Timestamp" : "12/11/2018 12:35:31 PM"
+    },
+    "-LTS2Ft3fsiEGuoEbUYq" : {
+      "DataList" : [ 25.1, 32.5, 2734.0, 355.0 ],
+      "Timestamp" : "12/11/2018 12:35:36 PM"
+    },
+    "-LTS2HfPsR5BKuK66jxh" : {
+      "DataList" : [ 25.2, 32.6, 2888.0, 379.0 ],
+      "Timestamp" : "12/11/2018 12:35:44 PM"
+    },
+    "-LTS2IM8NQrsKhaRR3IB" : {
+      "DataList" : [ 25.2, 32.7, 2855.0, 374.0 ],
+      "Timestamp" : "12/11/2018 12:35:46 PM"
+    },
+    "-LTS2JQ_f5xXR1LLUAIH" : {
+      "DataList" : [ 25.2, 32.6, 2461.0, 313.0 ],
+      "Timestamp" : "12/11/2018 12:35:51 PM"
+    },
+    "-LTS2KiACWgabzDwMEyQ" : {
+      "DataList" : [ 25.2, 32.7, 2855.0, 374.0 ],
+      "Timestamp" : "12/11/2018 12:35:56 PM"
+    },
+    "-LTS2LuXCU4vAKcWgYga" : {
+      "DataList" : [ 25.2, 32.6, 2760.0, 359.0 ],
+      "Timestamp" : "12/11/2018 12:36:01 PM"
+    },
+    "-LTS2ND-3nVA5tC2B1Zm" : {
+      "DataList" : [ 25.2, 32.6, 2829.0, 370.0 ],
+      "Timestamp" : "12/11/2018 12:36:06 PM"
+    },
+    "-LTS2OaXG7zlrBnwE-uD" : {
+      "DataList" : [ 25.2, 32.6, 2801.0, 365.0 ],
+      "Timestamp" : "12/11/2018 12:36:12 PM"
+    },
+    "-LTS2PihobNB7zGonttC" : {
+      "DataList" : [ 25.2, 32.7, 2674.0, 346.0 ],
+      "Timestamp" : "12/11/2018 12:36:16 PM"
+    },
+    "-LTS2QrbhGDGFe6ATYir" : {
+      "DataList" : [ 25.2, 32.6, 2801.0, 365.0 ],
+      "Timestamp" : "12/11/2018 12:36:21 PM"
+    },
+    "-LTS2S4KZv0-Q5Zm2bUR" : {
+      "DataList" : [ 25.3, 32.7, 2760.0, 359.0 ],
+      "Timestamp" : "12/11/2018 12:36:26 PM"
+    },
+    "-LTS2TC4Okpg-_JN_6CO" : {
+      "DataList" : [ 25.3, 32.8, 2461.0, 313.0 ],
+      "Timestamp" : "12/11/2018 12:36:31 PM"
+    },
+    "-LTS2USOvJa6JklhGNtl" : {
+      "DataList" : [ 25.2, 32.7, 2760.0, 359.0 ],
+      "Timestamp" : "12/11/2018 12:36:36 PM"
+    },
+    "-LTS2VeLncQgcmTb5Z5S" : {
+      "DataList" : [ 25.1, 32.6, 2734.0, 355.0 ],
+      "Timestamp" : "12/11/2018 12:36:41 PM"
+    },
+    "-LTS2WsDcnHe_b9FUBxR" : {
+      "DataList" : [ 25.2, 32.7, 2017.0, 246.0 ],
+      "Timestamp" : "12/11/2018 12:36:46 PM"
+    },
+    "-LTS2Y69iofWyioIpKh9" : {
+      "DataList" : [ 25.2, 32.7, 2734.0, 355.0 ],
+      "Timestamp" : "12/11/2018 12:36:51 PM"
+    },
+    "-LTS2ZNuMwSbCyCYw8rs" : {
+      "DataList" : [ 25.2, 32.7, 2611.0, 336.0 ],
+      "Timestamp" : "12/11/2018 12:36:56 PM"
+    },
+    "-LTS2__nBGSCZhocyrSj" : {
+      "DataList" : [ 25.2, 32.7, 2704.0, 351.0 ],
+      "Timestamp" : "12/11/2018 12:37:01 PM"
+    },
+    "-LTS2bCUEU8O31Xv6NFq" : {
+      "DataList" : [ 25.3, 32.7, 2640.0, 341.0 ],
+      "Timestamp" : "12/11/2018 12:37:07 PM"
+    },
+    "-LTS2c3Yn7gAnlQuM0b1" : {
+      "DataList" : [ 25.2, 33.0, 2473.0, 315.0 ],
+      "Timestamp" : "12/11/2018 12:37:11 PM"
+    },
+    "-LTS2dInyjre9X1e-PfT" : {
+      "DataList" : [ 25.2, 32.6, 2611.0, 336.0 ],
+      "Timestamp" : "12/11/2018 12:37:16 PM"
+    },
+    "-LTS2eTr03NWLLI3JlQS" : {
+      "DataList" : [ 25.2, 32.6, 2388.0, 302.0 ],
+      "Timestamp" : "12/11/2018 12:37:21 PM"
+    },
+    "-LTS2ffl4Ta90CJwe2e8" : {
+      "DataList" : [ 25.3, 32.7, 2611.0, 336.0 ],
+      "Timestamp" : "12/11/2018 12:37:26 PM"
+    },
+    "-LTS2gqelbdW7oePfMrQ" : {
+      "DataList" : [ 25.3, 32.7, 2591.0, 333.0 ],
+      "Timestamp" : "12/11/2018 12:37:31 PM"
+    },
+    "-LTS2i4e4ugNCXABWKEg" : {
+      "DataList" : [ 25.4, 32.8, 2078.0, 255.0 ],
+      "Timestamp" : "12/11/2018 12:37:36 PM"
+    },
+    "-LTS2jo7K6EG-C48-_hS" : {
+      "DataList" : [ 25.4, 32.7, 2591.0, 333.0 ],
+      "Timestamp" : "12/11/2018 12:37:42 PM"
+    },
+    "-LTS2kWzfJlrJlt7VAcT" : {
+      "DataList" : [ 26.7, 33.5, 2521.0, 323.0 ],
+      "Timestamp" : "12/11/2018 12:37:46 PM"
+    },
+    "-LTS2lqf5ryZRR1-Dqr9" : {
+      "DataList" : [ 25.3, 32.6, 2560.0, 329.0 ],
+      "Timestamp" : "12/11/2018 12:37:51 PM"
+    },
+    "-LTS2n-aA2eAtgWKgLmR" : {
+      "DataList" : [ 25.2, 32.5, 2521.0, 323.0 ],
+      "Timestamp" : "12/11/2018 12:37:56 PM"
+    },
+    "-LTS2oG0kWaVVEL7ZjKc" : {
+      "DataList" : [ 25.3, 32.6, 2374.0, 300.0 ],
+      "Timestamp" : "12/11/2018 12:38:01 PM"
+    },
+    "-LTS2pVkASZjWSslnU3z" : {
+      "DataList" : [ 25.2, 32.6, 2501.0, 320.0 ],
+      "Timestamp" : "12/11/2018 12:38:06 PM"
+    },
+    "-LTS2qckx65bPGHwUIBG" : {
+      "DataList" : [ 25.2, 32.5, 2473.0, 315.0 ],
+      "Timestamp" : "12/11/2018 12:38:11 PM"
+    },
+    "-LTS2rzMfVptQHeTFfp6" : {
+      "DataList" : [ 25.3, 32.6, 2152.0, 266.0 ],
+      "Timestamp" : "12/11/2018 12:38:16 PM"
+    },
+    "-LTS2t9Fu0OVY8IGMsAd" : {
+      "DataList" : [ 25.2, 32.5, 2501.0, 320.0 ],
+      "Timestamp" : "12/11/2018 12:38:21 PM"
+    },
+    "-LTS2uKM72H12FPeV2V_" : {
+      "DataList" : [ 25.2, 32.4, 2461.0, 313.0 ],
+      "Timestamp" : "12/11/2018 12:38:26 PM"
+    },
+    "-LTS2vZ02dYzYSw3R2CT" : {
+      "DataList" : [ 25.2, 32.4, 1565.0, 177.0 ],
+      "Timestamp" : "12/11/2018 12:38:31 PM"
+    },
+    "-LTS2x-FbubyCBEc7DnJ" : {
+      "DataList" : [ 25.3, 32.5, 2473.0, 315.0 ],
+      "Timestamp" : "12/11/2018 12:38:36 PM"
+    },
+    "-LTS2y0I3YKgUZFgest0" : {
+      "DataList" : [ 24.1, 31.6, 2347.0, 296.0 ],
+      "Timestamp" : "12/11/2018 12:38:41 PM"
+    },
+    "-LTS2zQknPJl1KPNpTCv" : {
+      "DataList" : [ 25.1, 32.3, 2414.0, 306.0 ],
+      "Timestamp" : "12/11/2018 12:38:46 PM"
+    },
+    "-LTS3-QYfK7eYznrkpQK" : {
+      "DataList" : [ 25.3, 32.5, 2414.0, 306.0 ],
+      "Timestamp" : "12/11/2018 12:38:51 PM"
+    },
+    "-LTS30u3KkSA-zlRKQzZ" : {
+      "DataList" : [ 25.2, 32.4, 2195.0, 273.0 ],
+      "Timestamp" : "12/11/2018 12:38:57 PM"
+    },
+    "-LTS31zFY8LuFBvS-KDA" : {
+      "DataList" : [ 25.2, 32.9, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:02 PM"
+    },
+    "-LTS336LmUEm4NX-NWHG" : {
+      "DataList" : [ 25.2, 32.6, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:07 PM"
+    },
+    "-LTS34KiZ6Et4o8w4BwE" : {
+      "DataList" : [ 25.2, 32.7, 2280.0, 286.0 ],
+      "Timestamp" : "12/11/2018 12:39:12 PM"
+    },
+    "-LTS36Fs6tuAII3896nf" : {
+      "DataList" : [ 25.3, 32.9, 2937.0, 386.0 ],
+      "Timestamp" : "12/11/2018 12:39:17 PM"
+    },
+    "-LTS36sL_cUBhU1AlOuP" : {
+      "DataList" : [ 25.2, 32.9, 2839.0, 371.0 ],
+      "Timestamp" : "12/11/2018 12:39:22 PM"
+    },
+    "-LTS380hOmuuB-4kf16_" : {
+      "DataList" : [ 25.3, 33.0, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:27 PM"
+    },
+    "-LTS39M1RHLq_5S5Tas6" : {
+      "DataList" : [ 25.2, 32.9, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:32 PM"
+    },
+    "-LTS3Ahk0gWIjQtEc8SX" : {
+      "DataList" : [ 25.3, 33.1, 2725.0, 354.0 ],
+      "Timestamp" : "12/11/2018 12:39:37 PM"
+    },
+    "-LTS3BhuXDj_d3yKT_4k" : {
+      "DataList" : [ 25.3, 33.1, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:42 PM"
+    },
+    "-LTS3Cw6kqAjpjE97MUO" : {
+      "DataList" : [ 23.4, 31.8, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:47 PM"
+    },
+    "-LTS3E5pug_uz1oPbsqj" : {
+      "DataList" : [ 25.2, 33.2, 2514.0, 322.0 ],
+      "Timestamp" : "12/11/2018 12:39:52 PM"
+    },
+    "-LTS3FNnbWc_NKLg4dzs" : {
+      "DataList" : [ 25.3, 33.3, 2872.0, 376.0 ],
+      "Timestamp" : "12/11/2018 12:39:57 PM"
+    },
+    "-LTS3G_q-pjTbTjN3kAK" : {
+      "DataList" : [ 25.3, 33.4, 2806.0, 366.0 ],
+      "Timestamp" : "12/11/2018 12:40:02 PM"
+    },
+    "-LTS3IH5Ss7pYyXmIu6a" : {
+      "DataList" : [ 25.3, 33.3, 2839.0, 371.0 ],
+      "Timestamp" : "12/11/2018 12:40:07 PM"
+    },
+    "-LTS3J-NGyA3cz7YY3nn" : {
+      "DataList" : [ 25.3, 33.3, 2760.0, 359.0 ],
+      "Timestamp" : "12/11/2018 12:40:12 PM"
+    },
+    "-LTS3KIZQK0INrHrlX3j" : {
+      "DataList" : [ 25.2, 33.1, 2839.0, 371.0 ],
+      "Timestamp" : "12/11/2018 12:40:17 PM"
+    },
+    "-LTS3Lcl66ExfNZgY_Ui" : {
+      "DataList" : [ 25.3, 33.2, 2806.0, 366.0 ],
+      "Timestamp" : "12/11/2018 12:40:22 PM"
+    },
+    "-LTS3MhG-nlok_pV8lQi" : {
+      "DataList" : [ 25.3, 33.2, 2647.0, 342.0 ],
+      "Timestamp" : "12/11/2018 12:40:27 PM"
+    },
+    "-LTS3NvH8LWjqKkXEdE3" : {
+      "DataList" : [ 25.3, 33.1, 2760.0, 359.0 ],
+      "Timestamp" : "12/11/2018 12:40:32 PM"
+    },
+    "-LTS3P65wFvqsKK7kLYx" : {
+      "DataList" : [ 25.3, 33.1, 2725.0, 354.0 ],
+      "Timestamp" : "12/11/2018 12:40:37 PM"
+    },
+    "-LTS3QMgRDkH0d2U65cG" : {
+      "DataList" : [ 25.2, 33.0, 2473.0, 315.0 ],
+      "Timestamp" : "12/11/2018 12:40:42 PM"
+    },
+    "-LTS3RYTrjeAZfi81D4c" : {
+      "DataList" : [ 25.4, 33.0, 2725.0, 354.0 ],
+      "Timestamp" : "12/11/2018 12:40:47 PM"
+    },
+    "-LTS3Su3ESLGPWsBZK69" : {
+      "DataList" : [ 24.9, 32.7, 2696.0, 349.0 ],
+      "Timestamp" : "12/11/2018 12:40:52 PM"
+    },
+    "-LTS3U2vt63NnH1WO0nQ" : {
+      "DataList" : [ 25.1, 32.8, 2041.0, 249.0 ],
+      "Timestamp" : "12/11/2018 12:40:57 PM"
+    },
+    "-LTS3VE1y_7DSvjWL7AC" : {
+      "DataList" : [ 25.3, 33.0, 2696.0, 349.0 ],
+      "Timestamp" : "12/11/2018 12:41:02 PM"
+    },
+    "-LTS3WSjQ2oirzasQlv0" : {
+      "DataList" : [ 25.3, 32.9, 2611.0, 336.0 ],
+      "Timestamp" : "12/11/2018 12:41:07 PM"
+    },
+    "-LTS3Xg-iBkG9sTerlGs" : {
+      "DataList" : [ 25.3, 32.8, 2647.0, 342.0 ],
+      "Timestamp" : "12/11/2018 12:41:12 PM"
+    },
+    "-LTS3Z1binXqlOZvy-Og" : {
+      "DataList" : [ 25.3, 32.8, 2647.0, 342.0 ],
+      "Timestamp" : "12/11/2018 12:41:17 PM"
+    },
+    "-LTS3_8QAKta5zK2CUDh" : {
+      "DataList" : [ 25.3, 32.7, 2445.0, 311.0 ],
+      "Timestamp" : "12/11/2018 12:41:22 PM"
+    },
+    "-LTS3aLn6Gi4jSHF99h1" : {
+      "DataList" : [ 25.3, 32.7, 2611.0, 336.0 ],
+      "Timestamp" : "12/11/2018 12:41:27 PM"
+    }
+  },
+  "Sensor_02" : {
+    "-LTRxiGvM_wbpAoH6yB5" : {
+      "DataList" : [ 25.5, 43.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:24 PM"
+    },
+    "-LTRxkTUdd52kDf-G_x2" : {
+      "DataList" : [ 25.1, 51.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:11:33 PM"
+    },
+    "-LTRxlhV6NXNifxE1CKL" : {
+      "DataList" : [ 25.2, 37.1, 407.0, 1.0 ],
+      "Timestamp" : "12/11/2018 12:11:38 PM"
+    },
+    "-LTRxmwzKl8JLUF40JIY" : {
+      "DataList" : [ 25.2, 33.1, 657.0, 39.0 ],
+      "Timestamp" : "12/11/2018 12:11:43 PM"
+    },
+    "-LTRxohxw4tnFbfTVAW1" : {
+      "DataList" : [ 25.1, 31.8, 623.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:11:48 PM"
+    },
+    "-LTRxpP2uB1RTnyJGdwt" : {
+      "DataList" : [ 25.1, 31.4, 546.0, 22.0 ],
+      "Timestamp" : "12/11/2018 12:11:53 PM"
+    },
+    "-LTRxqmzQ8NedXamtjJ1" : {
+      "DataList" : [ 25.2, 31.3, 594.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:11:58 PM"
+    },
+    "-LTRxrnSxVKCub3T0yP9" : {
+      "DataList" : [ 25.2, 31.3, 618.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:12:03 PM"
+    },
+    "-LTRxt-JtHb2ZmbZDdBv" : {
+      "DataList" : [ 25.2, 31.4, 629.0, 34.0 ],
+      "Timestamp" : "12/11/2018 12:12:08 PM"
+    },
+    "-LTRxuMWeRaSfp4slfVY" : {
+      "DataList" : [ 25.3, 31.5, 612.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:12:13 PM"
+    },
+    "-LTRxvQYle1nyX7ojkaB" : {
+      "DataList" : [ 25.1, 31.3, 614.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:12:18 PM"
+    },
+    "-LTRxwp823zVTQMV2AGd" : {
+      "DataList" : [ 25.1, 31.3, 624.0, 34.0 ],
+      "Timestamp" : "12/11/2018 12:12:23 PM"
+    },
+    "-LTRxy5I5CpzGnUA23xO" : {
+      "DataList" : [ 24.7, 31.0, 607.0, 31.0 ],
+      "Timestamp" : "12/11/2018 12:12:28 PM"
+    },
+    "-LTRxz7OzfW9xzO8OjoT" : {
+      "DataList" : [ 25.1, 31.5, 692.0, 44.0 ],
+      "Timestamp" : "12/11/2018 12:12:33 PM"
+    },
+    "-LTRy-KqDiVpxhkr0HuS" : {
+      "DataList" : [ 25.2, 31.3, 682.0, 42.0 ],
+      "Timestamp" : "12/11/2018 12:12:38 PM"
+    },
+    "-LTRy22-LyU0wud52gR-" : {
+      "DataList" : [ 24.9, 31.0, 668.0, 40.0 ],
+      "Timestamp" : "12/11/2018 12:12:43 PM"
+    },
+    "-LTRy4CpC_n4vlerpjTf" : {
+      "DataList" : [ 25.0, 31.0, 652.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:12:48 PM"
+    },
+    "-LTRy4PS5MWruD4aZHgG" : {
+      "DataList" : [ 25.0, 31.0, 652.0, 38.0 ],
+      "Timestamp" : "12/11/2018 12:12:53 PM"
+    },
+    "-LTRy4uAN2rutFnmIQHQ" : {
+      "DataList" : [ 25.0, 31.1, 633.0, 35.0 ],
+      "Timestamp" : "12/11/2018 12:12:58 PM"
+    },
+    "-LTRy5RqyZ2WXQ8uWgAi" : {
+      "DataList" : [ 25.3, 34.9, 614.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:13:03 PM"
+    },
+    "-LTRy6fdHA30UrqIUqKe" : {
+      "DataList" : [ "NaN", "NaN", 1673.0, 193.0 ],
+      "Timestamp" : "12/11/2018 12:13:08 PM"
+    },
+    "-LTRy7qseLgLoB-op_oG" : {
+      "DataList" : [ "NaN", "NaN", 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:13:13 PM"
+    },
+    "-LTRy97ZDM_V_-dVsuvZ" : {
+      "DataList" : [ 25.0, 33.6, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:13:18 PM"
+    },
+    "-LTRyBVSNKEE-47cVXrZ" : {
+      "DataList" : [ 25.1, 33.8, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:13:23 PM"
+    },
+    "-LTRyCaXaJSVVHSJ2g0Y" : {
+      "DataList" : [ 24.9, 32.1, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:13:28 PM"
+    },
+    "-LTRyJRm-ZaCeV8Yjrh0" : {
+      "DataList" : [ 24.3, 39.5, 6635.0, 949.0 ],
+      "Timestamp" : "12/11/2018 12:13:33 PM"
+    },
+    "-LTRyOZ-6zxHdUH0rBT8" : {
+      "DataList" : [ 25.1, 33.7, 6237.0, 889.0 ],
+      "Timestamp" : "12/11/2018 12:13:38 PM"
+    },
+    "-LTRyP6QV5qpHhrpW_oL" : {
+      "DataList" : [ 25.1, 47.5, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:13:43 PM"
+    },
+    "-LTS0-UspiR1y7Dx__nV" : {
+      "DataList" : [ 24.6, 42.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:25:45 PM"
+    },
+    "-LTS00j50jEEeyCQXaqy" : {
+      "DataList" : [ 24.5, 40.2, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:25:50 PM"
+    },
+    "-LTS01tx_AfJdNEF11jv" : {
+      "DataList" : [ 24.7, 32.2, 649.0, 37.0 ],
+      "Timestamp" : "12/11/2018 12:25:55 PM"
+    },
+    "-LTS039t6i7ggnqFlQVZ" : {
+      "DataList" : [ 27.0, 33.6, 1562.0, 177.0 ],
+      "Timestamp" : "12/11/2018 12:26:00 PM"
+    },
+    "-LTS04MHuakDjUHDaQz6" : {
+      "DataList" : [ 24.6, 32.0, 2176.0, 270.0 ],
+      "Timestamp" : "12/11/2018 12:26:05 PM"
+    },
+    "-LTS05obB_Qb_DbPeXzk" : {
+      "DataList" : [ 24.6, 31.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:10 PM"
+    },
+    "-LTS06l9F9FsMauOxItO" : {
+      "DataList" : [ 24.6, 33.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:15 PM"
+    },
+    "-LTS08BzVv9SWwQODzrz" : {
+      "DataList" : [ 24.7, 34.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:20 PM"
+    },
+    "-LTS09CylJW_aW2kPoyI" : {
+      "DataList" : [ 24.7, 33.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:25 PM"
+    },
+    "-LTS0AURzhNsA96xYV6u" : {
+      "DataList" : [ 24.7, 33.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:30 PM"
+    },
+    "-LTS0Bg9zr0l_HLbVEDU" : {
+      "DataList" : [ 24.7, 32.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:35 PM"
+    },
+    "-LTS0CtQaVGiDgKyFrc5" : {
+      "DataList" : [ 24.7, 32.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:40 PM"
+    },
+    "-LTS0E9swPHEAcc7C5DK" : {
+      "DataList" : [ 24.7, 32.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:45 PM"
+    },
+    "-LTS0FUg9uBeCbKbkQ-S" : {
+      "DataList" : [ 24.7, 32.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:50 PM"
+    },
+    "-LTS0Gjs8ryfiBvEzm0m" : {
+      "DataList" : [ 24.7, 32.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:55 PM"
+    },
+    "-LTS0IAvqS5AeKMaUho8" : {
+      "DataList" : [ 24.7, 32.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:00 PM"
+    },
+    "-LTS0J0dOcY8E8tW2JaV" : {
+      "DataList" : [ 24.7, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:05 PM"
+    },
+    "-LTS0KPixK0MyRl3yY1u" : {
+      "DataList" : [ 24.7, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:10 PM"
+    },
+    "-LTS0LULTh35MT6x7rZu" : {
+      "DataList" : [ 24.7, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:15 PM"
+    },
+    "-LTS0MgoM0ktMRV-6H4L" : {
+      "DataList" : [ 24.7, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:20 PM"
+    },
+    "-LTS0NvlzEnTz6vK6l-Q" : {
+      "DataList" : [ 24.7, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:25 PM"
+    },
+    "-LTS0P9Rs3KgeoCYldk7" : {
+      "DataList" : [ 24.7, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:30 PM"
+    },
+    "-LTS0QKsrmPA8XaUtfh_" : {
+      "DataList" : [ 24.7, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:35 PM"
+    },
+    "-LTS0RclBkt1aRYGmJku" : {
+      "DataList" : [ 24.7, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:40 PM"
+    },
+    "-LTS0SsxQjp9la5mp3Gv" : {
+      "DataList" : [ 24.7, 31.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:45 PM"
+    },
+    "-LTS0U16YNzyxgAmyQus" : {
+      "DataList" : [ 24.7, 32.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:50 PM"
+    },
+    "-LTS0VQTQynCxO9uq23W" : {
+      "DataList" : [ 24.7, 34.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:55 PM"
+    },
+    "-LTS0WV-VJ4eZFICaTfg" : {
+      "DataList" : [ 24.7, 33.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:00 PM"
+    },
+    "-LTS0XgPAQItWRK5wZvp" : {
+      "DataList" : [ 24.7, 33.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:05 PM"
+    },
+    "-LTS0YuTN8vdJAcSaitV" : {
+      "DataList" : [ 24.8, 34.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:10 PM"
+    },
+    "-LTS0_N8pVu9V1xxL07W" : {
+      "DataList" : [ 24.8, 36.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:15 PM"
+    },
+    "-LTS0atKtGYRq4RNpcjV" : {
+      "DataList" : [ 24.8, 35.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:21 PM"
+    },
+    "-LTS0b_tprNYySgBXz8D" : {
+      "DataList" : [ 24.8, 35.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:25 PM"
+    },
+    "-LTS0d3K5gh98BJFj9KW" : {
+      "DataList" : [ 24.8, 35.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:30 PM"
+    },
+    "-LTS0e06hZAcnYSAmLcR" : {
+      "DataList" : [ 24.8, 34.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:35 PM"
+    },
+    "-LTS0fEjk2SZgAZN2nHp" : {
+      "DataList" : [ 24.8, 33.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:40 PM"
+    },
+    "-LTS0hTRwUkIFiQNzRz1" : {
+      "DataList" : [ 24.8, 33.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:45 PM"
+    },
+    "-LTS0hmdnTJOQ-MYljqm" : {
+      "DataList" : [ 24.8, 33.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:50 PM"
+    },
+    "-LTS0iskSN89ON0KOa6p" : {
+      "DataList" : [ 24.8, 33.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:55 PM"
+    },
+    "-LTS0kFJIb6ekQpV-eUs" : {
+      "DataList" : [ 24.8, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:00 PM"
+    },
+    "-LTS0lTIuEuu_w5xVXuq" : {
+      "DataList" : [ 24.8, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:05 PM"
+    },
+    "-LTS0m_uNHc_t1c51E81" : {
+      "DataList" : [ 24.9, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:10 PM"
+    },
+    "-LTS0nnNBYi1p47BVT6S" : {
+      "DataList" : [ 24.9, 32.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:15 PM"
+    },
+    "-LTS0pDFVKvU5pienHKI" : {
+      "DataList" : [ 24.8, 32.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:21 PM"
+    },
+    "-LTS0qIaXkJQBu0Auzwg" : {
+      "DataList" : [ 24.8, 32.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:25 PM"
+    },
+    "-LTS0rTBuVXJuzZDfDoO" : {
+      "DataList" : [ 24.8, 32.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:30 PM"
+    },
+    "-LTS0sjI6iHikfffU0SU" : {
+      "DataList" : [ 24.9, 32.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:35 PM"
+    },
+    "-LTS0txUAKWMUSp8bigg" : {
+      "DataList" : [ 24.8, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:40 PM"
+    },
+    "-LTS0v9FJ0ac_m-fH8HC" : {
+      "DataList" : [ 24.8, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:45 PM"
+    },
+    "-LTS0wKcs3EIKxgMp8U7" : {
+      "DataList" : [ 24.8, 32.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:50 PM"
+    },
+    "-LTS0x_ZJrG5zq1fXr4d" : {
+      "DataList" : [ 24.8, 32.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:56 PM"
+    },
+    "-LTS0ymARX2b3YclaP_e" : {
+      "DataList" : [ 24.8, 34.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:00 PM"
+    },
+    "-LTS19WI28WN1SEiQ_GI" : {
+      "DataList" : [ 25.1, 38.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:48 PM"
+    },
+    "-LTS1AcSbq2qIt6RxkRo" : {
+      "DataList" : [ 25.1, 37.4, 754.0, 53.0 ],
+      "Timestamp" : "12/11/2018 12:30:53 PM"
+    },
+    "-LTS1BsG3O_Qsmgcz8h7" : {
+      "DataList" : [ 25.2, 35.8, 631.0, 35.0 ],
+      "Timestamp" : "12/11/2018 12:30:58 PM"
+    },
+    "-LTS1DHup7HRgd2fopb9" : {
+      "DataList" : [ 25.3, 34.9, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:31:03 PM"
+    },
+    "-LTS1EVoLzwwHlUhM5mp" : {
+      "DataList" : [ 25.4, 34.4, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:31:08 PM"
+    },
+    "-LTS1Fk2iDnTPwoWERjm" : {
+      "DataList" : [ 25.4, 33.8, 424.0, 3.0 ],
+      "Timestamp" : "12/11/2018 12:31:13 PM"
+    },
+    "-LTS1GljEl5M8dj3iVyL" : {
+      "DataList" : [ 25.5, 33.4, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:31:18 PM"
+    },
+    "-LTS1I-6qttJIyZQ0ubu" : {
+      "DataList" : [ 25.6, 33.0, 1776.0, 209.0 ],
+      "Timestamp" : "12/11/2018 12:31:23 PM"
+    },
+    "-LTS1JCEoGheh0bMxDXT" : {
+      "DataList" : [ 25.7, 32.8, 2674.0, 346.0 ],
+      "Timestamp" : "12/11/2018 12:31:28 PM"
+    },
+    "-LTS1KSsX6IuWuKPowU8" : {
+      "DataList" : [ 25.8, 32.5, 2291.0, 288.0 ],
+      "Timestamp" : "12/11/2018 12:31:33 PM"
+    },
+    "-LTS1MqeGdLUCW2IMDG2" : {
+      "DataList" : [ 25.9, 32.4, 2574.0, 331.0 ],
+      "Timestamp" : "12/11/2018 12:31:38 PM"
+    },
+    "-LTS1NVyuuMHbzqQTlrN" : {
+      "DataList" : [ 25.9, 32.1, 1840.0, 219.0 ],
+      "Timestamp" : "12/11/2018 12:31:43 PM"
+    },
+    "-LTS1O9Mo7NmzT8FTgZv" : {
+      "DataList" : [ 26.0, 32.0, 1507.0, 168.0 ],
+      "Timestamp" : "12/11/2018 12:31:48 PM"
+    },
+    "-LTS1PJ3WmBfVKjy17yA" : {
+      "DataList" : [ 26.0, 31.7, 1872.0, 224.0 ],
+      "Timestamp" : "12/11/2018 12:31:53 PM"
+    },
+    "-LTS1QYzlWUVYGotS96w" : {
+      "DataList" : [ 26.1, 31.5, 1597.0, 182.0 ],
+      "Timestamp" : "12/11/2018 12:31:58 PM"
+    },
+    "-LTS1Rk6B7p7gW7Clngf" : {
+      "DataList" : [ 26.2, 31.6, 1728.0, 202.0 ],
+      "Timestamp" : "12/11/2018 12:32:03 PM"
+    },
+    "-LTS1SyiKI4SgxrUdioM" : {
+      "DataList" : [ 26.2, 31.4, 472.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:32:08 PM"
+    },
+    "-LTS1UB9EFDlcsN5bMdn" : {
+      "DataList" : [ 26.3, 31.2, 553.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:32:13 PM"
+    },
+    "-LTS1VR8Rn1crhDG_IeJ" : {
+      "DataList" : [ 26.3, 31.1, 486.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:32:18 PM"
+    },
+    "-LTS1WdtH3KupkhMVA7Q" : {
+      "DataList" : [ 26.4, 31.1, 672.0, 41.0 ],
+      "Timestamp" : "12/11/2018 12:32:23 PM"
+    },
+    "-LTS1Xrg82XlBQRbqsCu" : {
+      "DataList" : [ 26.5, 31.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:28 PM"
+    },
+    "-LTS1Z6mVnTIznvorh-K" : {
+      "DataList" : [ 26.5, 31.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:33 PM"
+    },
+    "-LTS1_OAaEE5F7sghORY" : {
+      "DataList" : [ 26.6, 41.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:38 PM"
+    },
+    "-LTS1aXHhIu3hgFI3r90" : {
+      "DataList" : [ 26.6, 54.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:43 PM"
+    },
+    "-LTS1bt7GxPzkIr2NcN3" : {
+      "DataList" : [ 26.7, 53.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:49 PM"
+    },
+    "-LTS1d4r-Iy2cm-MWGwC" : {
+      "DataList" : [ 26.7, 46.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:53 PM"
+    },
+    "-LTS1eESEUZmc4QcgQjr" : {
+      "DataList" : [ 26.7, 41.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:58 PM"
+    },
+    "-LTS1fVkG7a3ckLr9-3y" : {
+      "DataList" : [ 26.7, 39.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:03 PM"
+    },
+    "-LTS1gyY6sGrq8SFj7Op" : {
+      "DataList" : [ 26.7, 36.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:10 PM"
+    },
+    "-LTS1i2gvckm0kf1-aWa" : {
+      "DataList" : [ 26.7, 35.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:13 PM"
+    },
+    "-LTS1jB3FkTzsgBhzKwt" : {
+      "DataList" : [ 26.8, 34.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:19 PM"
+    },
+    "-LTS1klJ6e4DTKT8HYb1" : {
+      "DataList" : [ 26.8, 33.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:23 PM"
+    },
+    "-LTS1lYZIJdi3iywyc7F" : {
+      "DataList" : [ 26.8, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:28 PM"
+    },
+    "-LTS1mnRL6XuR2tUx8Sb" : {
+      "DataList" : [ 26.9, 32.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:33 PM"
+    },
+    "-LTS1o-W-agUn7Ep2Ng7" : {
+      "DataList" : [ 26.9, 31.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:38 PM"
+    },
+    "-LTS1pFjjE9XAcp_vMPf" : {
+      "DataList" : [ 27.0, 31.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:43 PM"
+    },
+    "-LTS1qRwFgkGsvLf2hTR" : {
+      "DataList" : [ 27.0, 31.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:48 PM"
+    },
+    "-LTS1rvvFolG-7Kw_MSE" : {
+      "DataList" : [ 27.0, 31.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:53 PM"
+    },
+    "-LTS1ss_6y23WJxOIx_o" : {
+      "DataList" : [ 27.0, 31.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:58 PM"
+    },
+    "-LTS1u8Q1pKj77wU95Te" : {
+      "DataList" : [ 27.1, 30.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:03 PM"
+    },
+    "-LTS1x5BUbCB4AI49dEl" : {
+      "DataList" : [ 27.1, 30.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:12 PM"
+    },
+    "-LTS1x9-xbm2Wuik9hMv" : {
+      "DataList" : [ 27.1, 30.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:13 PM"
+    },
+    "-LTS1y3H5gLGxoTf1ogu" : {
+      "DataList" : [ 27.1, 30.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:19 PM"
+    },
+    "-LTS1z05NSx3XeOMewYP" : {
+      "DataList" : [ 27.1, 30.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:24 PM"
+    },
+    "-LTS2-DhWqQFYo80mR-N" : {
+      "DataList" : [ 27.2, 29.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:29 PM"
+    },
+    "-LTS20UHK28XXykyw3mH" : {
+      "DataList" : [ 27.2, 29.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:34 PM"
+    },
+    "-LTS21fXBRpu72lMTOXo" : {
+      "DataList" : [ 27.2, 29.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:39 PM"
+    },
+    "-LTS22wLHmzX76L5yv-m" : {
+      "DataList" : [ 27.2, 29.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:44 PM"
+    },
+    "-LTS24AFHHMpd19fKQm4" : {
+      "DataList" : [ 27.3, 29.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:49 PM"
+    },
+    "-LTS25Yjl-fpRNdnwhel" : {
+      "DataList" : [ 27.3, 29.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:54 PM"
+    },
+    "-LTS277v8QXLioks7JrL" : {
+      "DataList" : [ 27.3, 29.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:59 PM"
+    },
+    "-LTS27tRZop5VatHN9E0" : {
+      "DataList" : [ 27.4, 29.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:04 PM"
+    },
+    "-LTS29-Yz12NmLj8vMK3" : {
+      "DataList" : [ 27.4, 29.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:09 PM"
+    },
+    "-LTS2AIxZxFjCkIvJkR9" : {
+      "DataList" : [ 27.4, 29.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:14 PM"
+    },
+    "-LTS2Bopff8mk9guZD2r" : {
+      "DataList" : [ 27.4, 29.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:19 PM"
+    },
+    "-LTS2ChAwnN5RVlSilo5" : {
+      "DataList" : [ 27.5, 29.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:24 PM"
+    },
+    "-LTS2DwMLfAEW30L4u7j" : {
+      "DataList" : [ 27.5, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:29 PM"
+    },
+    "-LTS2FiyjMC-1HNEr5RP" : {
+      "DataList" : [ 27.5, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:34 PM"
+    },
+    "-LTS2GT1kzDhxLLXj2OM" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:39 PM"
+    },
+    "-LTS2Hig7bEyJ42f__xK" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:44 PM"
+    },
+    "-LTS2Izm1B3q5PIeJ4QV" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:49 PM"
+    },
+    "-LTS2K8-fk9jaZbmy6X6" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:54 PM"
+    },
+    "-LTS2LHNtQYej-k2RvAc" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:59 PM"
+    },
+    "-LTS2MTSiGu8cLo3AhGs" : {
+      "DataList" : [ 27.6, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:04 PM"
+    },
+    "-LTS2O_PyaOQfYA-mOAx" : {
+      "DataList" : [ 27.7, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:12 PM"
+    },
+    "-LTS2P3-BcVP_epa9Np4" : {
+      "DataList" : [ 27.7, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:14 PM"
+    },
+    "-LTS2Q7__dDA15LCaVPJ" : {
+      "DataList" : [ 27.7, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:19 PM"
+    },
+    "-LTS2RVVnnOUgKqJ2hix" : {
+      "DataList" : [ 27.7, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:24 PM"
+    },
+    "-LTS2ScylEF_N3o22gON" : {
+      "DataList" : [ 27.8, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:29 PM"
+    },
+    "-LTS2Trz15ynJNrBUbam" : {
+      "DataList" : [ 27.8, 29.1, 65535.0, 65535.0 ],
+      "Timestamp" : "12/11/2018 12:36:34 PM"
+    },
+    "-LTS2V3jek6Qul7uhBh2" : {
+      "DataList" : [ 27.8, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:39 PM"
+    },
+    "-LTS2WH6uq6C9rbC0ek6" : {
+      "DataList" : [ 27.8, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:44 PM"
+    },
+    "-LTS2XU6VW8ZiVDfVgOW" : {
+      "DataList" : [ 27.9, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:49 PM"
+    },
+    "-LTS2YmMCnIwTZpDkayQ" : {
+      "DataList" : [ 27.9, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:54 PM"
+    },
+    "-LTS2ZyAM5VllHMni-el" : {
+      "DataList" : [ 27.9, 29.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:36:59 PM"
+    },
+    "-LTS2aEdcnxSY76dCcCM" : {
+      "DataList" : [ 27.9, 29.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:37:04 PM"
+    },
+    "-LTS2bVZquJhpWliBqIT" : {
+      "DataList" : [ 28.0, 28.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:37:09 PM"
+    },
+    "-LTS2cauFPj__c7A7fJ0" : {
+      "DataList" : [ 27.9, 29.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:37:14 PM"
+    },
+    "-LTS2qAJr4uQ7D6FF48E" : {
+      "DataList" : [ 30.3, 99.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:09 PM"
+    },
+    "-LTS2rNaNRpW0lvQib2V" : {
+      "DataList" : [ 30.0, 99.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:14 PM"
+    },
+    "-LTS2sY_ZELqMqXGxCjL" : {
+      "DataList" : [ 29.4, 99.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:19 PM"
+    },
+    "-LTS2ttsgjOMURO6Ehph" : {
+      "DataList" : [ 28.9, 99.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:24 PM"
+    },
+    "-LTS2v-_uwLuLhvZmTeM" : {
+      "DataList" : [ 28.3, 99.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:29 PM"
+    },
+    "-LTS2wDjruATCTVyn1_Y" : {
+      "DataList" : [ 28.2, 83.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:34 PM"
+    },
+    "-LTS2xYn8-uPOtqfkXxd" : {
+      "DataList" : [ 28.3, 59.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:40 PM"
+    },
+    "-LTS2yhrxgJpZfHvGdzk" : {
+      "DataList" : [ 28.4, 50.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:44 PM"
+    },
+    "-LTS2zuD4HoSrGcvXKZH" : {
+      "DataList" : [ 28.4, 44.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:49 PM"
+    },
+    "-LTS309nECxCM1o_4xGP" : {
+      "DataList" : [ 28.4, 41.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:54 PM"
+    },
+    "-LTS31SEEQliT6gFuyyR" : {
+      "DataList" : [ 28.4, 38.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:38:59 PM"
+    },
+    "-LTS32bkYBSQNJNLRlu5" : {
+      "DataList" : [ 28.4, 37.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:04 PM"
+    },
+    "-LTS33q4wLuh8MaZEEMl" : {
+      "DataList" : [ 28.5, 35.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:09 PM"
+    },
+    "-LTS3513lmFQgDlU7F7s" : {
+      "DataList" : [ 28.5, 34.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:14 PM"
+    },
+    "-LTS36HABeV6aBa92gwc" : {
+      "DataList" : [ 28.5, 33.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:19 PM"
+    },
+    "-LTS37TjK-R90LuX8b6e" : {
+      "DataList" : [ 28.5, 32.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:24 PM"
+    },
+    "-LTS38qxe3lIgeBOOWUE" : {
+      "DataList" : [ 28.6, 31.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:30 PM"
+    },
+    "-LTS3AUF4ibAKgRIvsqP" : {
+      "DataList" : [ 28.6, 31.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:34 PM"
+    },
+    "-LTS3BAB1ZRK_8adYiNy" : {
+      "DataList" : [ 28.7, 31.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:39 PM"
+    },
+    "-LTS3CQQt06QHVwFsAuE" : {
+      "DataList" : [ 28.7, 30.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:44 PM"
+    },
+    "-LTS3DZw0VjgTktm8nuS" : {
+      "DataList" : [ 28.8, 30.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:49 PM"
+    },
+    "-LTS3EuOYzXDg6-bkzsX" : {
+      "DataList" : [ 28.8, 30.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:55 PM"
+    },
+    "-LTS3G2V4D4XUVfO1ofM" : {
+      "DataList" : [ 28.8, 30.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:39:59 PM"
+    },
+    "-LTS3HIu_e64vJG2yVv3" : {
+      "DataList" : [ 28.9, 30.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:04 PM"
+    },
+    "-LTS3IW3mdC-LFKK6TBq" : {
+      "DataList" : [ 28.9, 29.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:09 PM"
+    },
+    "-LTS3JmKMEFiXeYVWJQK" : {
+      "DataList" : [ 28.9, 29.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:15 PM"
+    },
+    "-LTS3KvVHv_XK5gOvRvW" : {
+      "DataList" : [ 28.9, 29.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:19 PM"
+    },
+    "-LTS3M9FCTFCagbuvBBI" : {
+      "DataList" : [ 29.0, 29.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:24 PM"
+    },
+    "-LTS3NOkqEQnaIRi43kK" : {
+      "DataList" : [ 29.0, 29.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:30 PM"
+    },
+    "-LTS3O_Dvth1oVHXO8Le" : {
+      "DataList" : [ 29.0, 29.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:35 PM"
+    },
+    "-LTS3PuH9DF3BZ_W9803" : {
+      "DataList" : [ 29.0, 29.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:40 PM"
+    },
+    "-LTS3R4IPM2IIH0O4GVp" : {
+      "DataList" : [ 29.0, 29.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:45 PM"
+    },
+    "-LTS3SR2YC5jru55rqTq" : {
+      "DataList" : [ 29.0, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:50 PM"
+    },
+    "-LTS3TUjPlPVXV8ThFw4" : {
+      "DataList" : [ 29.0, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:40:55 PM"
+    },
+    "-LTS3UhkN5pzaqAc8qwZ" : {
+      "DataList" : [ 29.0, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:00 PM"
+    },
+    "-LTS3VzXiyHkFa7DzIxg" : {
+      "DataList" : [ 29.1, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:05 PM"
+    },
+    "-LTS3XGLP_XIawQdp-KL" : {
+      "DataList" : [ 29.1, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:10 PM"
+    },
+    "-LTS3YM3PFRD9Ed1Nas_" : {
+      "DataList" : [ 29.1, 28.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:15 PM"
+    },
+    "-LTS3Zj6EX3jTmgzf5Zh" : {
+      "DataList" : [ 29.1, 28.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:20 PM"
+    },
+    "-LTS3_ul6poKlVKp0GIV" : {
+      "DataList" : [ 29.1, 29.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:25 PM"
+    },
+    "-LTS3b28HJEsIS_1QYzT" : {
+      "DataList" : [ 29.1, 29.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:41:30 PM"
+    }
+  },
+  "Sensor_03" : {
+    "-LTRxN0o7qls8zajjH-r" : {
+      "DataList" : [ 24.7, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:09:53 PM"
+    },
+    "-LTRxOAufi7Bj1B5TJrv" : {
+      "DataList" : [ 24.6, 33.6, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:09:57 PM"
+    },
+    "-LTRxPTl7I2mbZTYamD8" : {
+      "DataList" : [ 24.5, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:01 PM"
+    },
+    "-LTRxQKr_FstaNpJMRjY" : {
+      "DataList" : [ 24.6, 33.9, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:06 PM"
+    },
+    "-LTRxRZDEjI6gH8EbWcW" : {
+      "DataList" : [ 24.6, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:11 PM"
+    },
+    "-LTRxTSY4XJf-wgbyF91" : {
+      "DataList" : [ 24.6, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:16 PM"
+    },
+    "-LTRxU7jFU2mIrzyIdff" : {
+      "DataList" : [ 24.5, 33.6, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:22 PM"
+    },
+    "-LTRxVZP3Tq4Can4G63X" : {
+      "DataList" : [ 24.5, 33.6, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:26 PM"
+    },
+    "-LTRxXt2reyfFpoUqT4i" : {
+      "DataList" : [ 24.6, 33.9, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:33 PM"
+    },
+    "-LTRxXyP-Hy7m3yNax8t" : {
+      "DataList" : [ 24.5, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:37 PM"
+    },
+    "-LTRxYtbSFfaQUSsluoV" : {
+      "DataList" : [ 24.6, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:41 PM"
+    },
+    "-LTRxczDoCmNgWQpqYaa" : {
+      "DataList" : [ 24.5, 33.7, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:10:46 PM"
+    },
+    "-LTRxh1v63lFfmjSmR_j" : {
+      "DataList" : [ 24.5, 33.7, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:11:17 PM"
+    },
+    "-LTRxhzy0Ey1FpWwxLxE" : {
+      "DataList" : [ 24.6, 33.8, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:11:22 PM"
+    },
+    "-LTRxj1gWbT4VjGYY6al" : {
+      "DataList" : [ 24.5, 34.0, 470.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:11:27 PM"
+    },
+    "-LTRxkQgEBobNU9mrvSp" : {
+      "DataList" : [ 24.5, 34.0, 432.0, 4.0 ],
+      "Timestamp" : "12/11/2018 12:11:32 PM"
+    },
+    "-LTRxlQnNh53IP0CFQXw" : {
+      "DataList" : [ 24.6, 34.1, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:11:37 PM"
+    },
+    "-LTRxnaRC8mfVlcxt4Vt" : {
+      "DataList" : [ 24.5, 34.0, 407.0, 1.0 ],
+      "Timestamp" : "12/11/2018 12:11:42 PM"
+    },
+    "-LTRxou5kjYuNRlsRSt9" : {
+      "DataList" : [ 24.5, 34.0, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:11:47 PM"
+    },
+    "-LTRxp9oVvzhl2RlY5SN" : {
+      "DataList" : [ 24.5, 34.0, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:11:52 PM"
+    },
+    "-LTRxqR7NChRDDB7oCoU" : {
+      "DataList" : [ 24.5, 33.9, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:11:57 PM"
+    },
+    "-LTRxra7J5t8ooB9DpVQ" : {
+      "DataList" : [ 24.5, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:12:02 PM"
+    },
+    "-LTRxssExTCJ2kuVnfJG" : {
+      "DataList" : [ 24.5, 33.8, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:12:07 PM"
+    },
+    "-LTRxu12bifREqXVUAfL" : {
+      "DataList" : [ 24.5, 33.8, 436.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:12:12 PM"
+    },
+    "-LTRxvB3E25BQAuUlLCR" : {
+      "DataList" : [ 24.5, 33.8, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:12:17 PM"
+    },
+    "-LTRxwcTnwADm5dWd4Mj" : {
+      "DataList" : [ 24.5, 33.7, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:12:22 PM"
+    },
+    "-LTRxy4DqAj82ZTmxkTw" : {
+      "DataList" : [ 24.5, 33.6, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:28 PM"
+    },
+    "-LTRxyvadavCucZILU9P" : {
+      "DataList" : [ 24.4, 33.5, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:32 PM"
+    },
+    "-LTRy-1b9C9oAAfs_YWq" : {
+      "DataList" : [ 24.4, 33.5, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:37 PM"
+    },
+    "-LTRy0p1rdW6IhcVhu_0" : {
+      "DataList" : [ 24.5, 33.5, 444.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:12:42 PM"
+    },
+    "-LTRy40pGpCBOIYGYszz" : {
+      "DataList" : [ 24.4, 33.5, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:48 PM"
+    },
+    "-LTRy4Ny8n0ubfc6dXvs" : {
+      "DataList" : [ 24.5, 33.5, 447.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:53 PM"
+    },
+    "-LTRy4RQZPlhcg63lHiy" : {
+      "DataList" : [ 24.5, 33.6, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:12:57 PM"
+    },
+    "-LTRy54W8Y9qD0lTWBqO" : {
+      "DataList" : [ 24.4, 33.5, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:13:02 PM"
+    },
+    "-LTRy6cFHe2ZTfGGGoab" : {
+      "DataList" : [ 24.4, 33.6, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:13:08 PM"
+    },
+    "-LTRy7Wznh_izAMFbBLR" : {
+      "DataList" : [ 24.5, 33.8, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:13:12 PM"
+    },
+    "-LTRy8nu-edaScfzKOCV" : {
+      "DataList" : [ 24.5, 33.8, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:13:17 PM"
+    },
+    "-LTRyA1LTrYDKZ04ITO5" : {
+      "DataList" : [ 24.5, 33.8, 452.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:13:22 PM"
+    },
+    "-LTRyCZq9-WTfYmiv7Si" : {
+      "DataList" : [ 24.4, 33.7, 466.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:13:28 PM"
+    },
+    "-LTRyFFyNo0AAGmrDGE3" : {
+      "DataList" : [ 24.4, 33.7, 457.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:13:32 PM"
+    },
+    "-LTRyOFYqeDQZTEilLV1" : {
+      "DataList" : [ 24.4, 34.2, 438.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:13:37 PM"
+    },
+    "-LTS001KZ9SuQ9ijSjkI" : {
+      "DataList" : [ 24.6, 33.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:25:48 PM"
+    },
+    "-LTS01HF55gpKm-Yvuli" : {
+      "DataList" : [ 24.5, 34.1, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:25:53 PM"
+    },
+    "-LTS02TdNUNjS7kOlfc7" : {
+      "DataList" : [ 24.5, 34.0, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:25:57 PM"
+    },
+    "-LTS03gi_ZxuPHqc8BkU" : {
+      "DataList" : [ 24.5, 34.0, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:26:02 PM"
+    },
+    "-LTS05CCbYFt2EQbdSmp" : {
+      "DataList" : [ 24.6, 34.1, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:26:07 PM"
+    },
+    "-LTS06FB7Flg1nG6fpl9" : {
+      "DataList" : [ 24.5, 34.1, 493.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:26:12 PM"
+    },
+    "-LTS07XAsiyhYx67dzkM" : {
+      "DataList" : [ 24.6, 34.2, 488.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:26:18 PM"
+    },
+    "-LTS08xUKLLM6o_Rnm8o" : {
+      "DataList" : [ 24.6, 34.2, 478.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:26:23 PM"
+    },
+    "-LTS09oWSfQmqD5w3Fwd" : {
+      "DataList" : [ 24.6, 34.2, 460.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:26:28 PM"
+    },
+    "-LTS0B45KfF8vPg2E8il" : {
+      "DataList" : [ 24.6, 34.3, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:26:33 PM"
+    },
+    "-LTS0CFPxJkcXB25ScnN" : {
+      "DataList" : [ 24.5, 34.3, 472.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:26:38 PM"
+    },
+    "-LTS0DWNZBeVe1b25Kdu" : {
+      "DataList" : [ 24.4, 34.2, 472.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:26:43 PM"
+    },
+    "-LTS0EhgyfxS0i9QFOf6" : {
+      "DataList" : [ 24.4, 34.2, 465.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:26:48 PM"
+    },
+    "-LTS0G6tbsj7-Ya7sxhF" : {
+      "DataList" : [ 24.6, 34.4, 465.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:26:53 PM"
+    },
+    "-LTS0HJCT0-7BY2FErcu" : {
+      "DataList" : [ 24.4, 34.2, 465.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:26:58 PM"
+    },
+    "-LTS0IOa737Dnr2zaEpq" : {
+      "DataList" : [ 24.5, 34.3, 456.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:27:03 PM"
+    },
+    "-LTS0JfJzdiSfxB8eSNZ" : {
+      "DataList" : [ 24.4, 34.2, 456.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:27:08 PM"
+    },
+    "-LTS0KwWUMnQRsr-7A2N" : {
+      "DataList" : [ 24.6, 34.3, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:27:13 PM"
+    },
+    "-LTS0MCDCB6PqeFxDcr7" : {
+      "DataList" : [ 24.4, 34.2, 450.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:27:18 PM"
+    },
+    "-LTS0NGBnxiKHglqiyKO" : {
+      "DataList" : [ 24.6, 34.3, 450.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:27:23 PM"
+    },
+    "-LTS0OWO7iCunKcFHxxn" : {
+      "DataList" : [ 24.5, 34.2, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:27:28 PM"
+    },
+    "-LTS0PiqLYtGjo42CbuE" : {
+      "DataList" : [ 24.4, 34.1, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:27:33 PM"
+    },
+    "-LTS0RFOvhtMNQ6hShPF" : {
+      "DataList" : [ 24.5, 34.1, 436.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:27:38 PM"
+    },
+    "-LTS0SBESPIrdlrTLzti" : {
+      "DataList" : [ 24.4, 34.1, 436.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:27:43 PM"
+    },
+    "-LTS0TQlmS908irxG8Ao" : {
+      "DataList" : [ 24.6, 34.3, 436.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:27:48 PM"
+    },
+    "-LTS0U_aIUlqvXKrXIfy" : {
+      "DataList" : [ 24.4, 34.2, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:27:53 PM"
+    },
+    "-LTS0VnzBNwtk1GFtA28" : {
+      "DataList" : [ 24.6, 34.5, 436.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:27:58 PM"
+    },
+    "-LTS0XCFFpUYImlztptj" : {
+      "DataList" : [ 24.6, 34.5, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:28:03 PM"
+    },
+    "-LTS0YIoe4i1B-BZ2jeR" : {
+      "DataList" : [ 24.6, 34.5, 491.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:28:08 PM"
+    },
+    "-LTS0Z_Gsxn2qMqc07V-" : {
+      "DataList" : [ 24.6, 34.5, 517.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:28:13 PM"
+    },
+    "-LTS0_jTy9Zbl477cP1i" : {
+      "DataList" : [ 24.6, 34.5, 491.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:28:18 PM"
+    },
+    "-LTS0axCFkx1_lMdeb-1" : {
+      "DataList" : [ 24.5, 34.4, 483.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:28:23 PM"
+    },
+    "-LTS0cMrhuncnNlG2xBz" : {
+      "DataList" : [ 24.6, 34.5, 487.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:28:28 PM"
+    },
+    "-LTS0dVkqv7nLR2zHgUe" : {
+      "DataList" : [ 24.6, 34.5, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:28:33 PM"
+    },
+    "-LTS0ehf5-mGb_Y-UpXm" : {
+      "DataList" : [ 24.6, 34.5, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:28:38 PM"
+    },
+    "-LTS0gJ5RLa1r59Bpv2F" : {
+      "DataList" : [ 24.6, 34.5, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:28:43 PM"
+    },
+    "-LTS0hTrOWbJPJL3LDcd" : {
+      "DataList" : [ 24.6, 34.5, 501.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:28:48 PM"
+    },
+    "-LTS0iFCxsBQQjzuLtHN" : {
+      "DataList" : [ 24.6, 34.6, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:28:53 PM"
+    },
+    "-LTS0jZXHM1CTsb-Wl5M" : {
+      "DataList" : [ 24.6, 34.8, 486.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:28:58 PM"
+    },
+    "-LTS0kh6mzJzfQfj21mA" : {
+      "DataList" : [ 24.6, 34.8, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:29:03 PM"
+    },
+    "-LTS0lys1_y1AiAE5kvF" : {
+      "DataList" : [ 24.6, 34.8, 486.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:29:08 PM"
+    },
+    "-LTS0nB9K--A2g6A1XsT" : {
+      "DataList" : [ 24.6, 34.8, 486.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:29:13 PM"
+    },
+    "-LTS0oNEreRPU5tD-1tx" : {
+      "DataList" : [ 24.6, 34.7, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:29:18 PM"
+    },
+    "-LTS0peRHvCWScNwh92s" : {
+      "DataList" : [ 24.6, 34.5, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:29:23 PM"
+    },
+    "-LTS0qqMf8JEQhHlwgC9" : {
+      "DataList" : [ 24.6, 34.4, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:29:28 PM"
+    },
+    "-LTS0s4ihB0KIeqI3Dub" : {
+      "DataList" : [ 24.6, 34.4, 487.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:29:33 PM"
+    },
+    "-LTS0tFT9-va1efoaIOd" : {
+      "DataList" : [ 24.6, 34.4, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:29:38 PM"
+    },
+    "-LTS0uZUO-Q9rks_Xvyj" : {
+      "DataList" : [ 24.6, 34.4, 478.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:29:43 PM"
+    },
+    "-LTS0vhpdjyEmTfxYMQ3" : {
+      "DataList" : [ 24.5, 34.5, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:29:48 PM"
+    },
+    "-LTS0wzgTk1rG_829IFV" : {
+      "DataList" : [ 24.6, 34.5, 478.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:29:53 PM"
+    },
+    "-LTS0yDmz-OghCbUGFx2" : {
+      "DataList" : [ 24.6, 34.6, 478.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:29:58 PM"
+    },
+    "-LTS0zbfsjRHNLX8wXrr" : {
+      "DataList" : [ 24.6, 34.8, 450.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:30:03 PM"
+    },
+    "-LTS1-cGTgIa66vifnOY" : {
+      "DataList" : [ 24.6, 34.8, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:30:08 PM"
+    },
+    "-LTS10sZ3MKpnIhO43wv" : {
+      "DataList" : [ 24.5, 34.8, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:30:13 PM"
+    },
+    "-LTS1235bvb4dXcxoLac" : {
+      "DataList" : [ 24.6, 34.8, 450.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:30:18 PM"
+    },
+    "-LTS13GjxcYi_MfmWiE0" : {
+      "DataList" : [ 24.6, 34.8, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:30:23 PM"
+    },
+    "-LTS14Ve91ImTDVM386m" : {
+      "DataList" : [ 24.6, 34.8, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:30:28 PM"
+    },
+    "-LTS15k_CMOu2aLoodjS" : {
+      "DataList" : [ 24.6, 35.0, 454.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:30:33 PM"
+    },
+    "-LTS172k5uvN5_InrqCI" : {
+      "DataList" : [ 24.6, 35.0, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:30:38 PM"
+    },
+    "-LTS18AwuDIz1z4LvMZO" : {
+      "DataList" : [ 24.6, 35.0, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:30:43 PM"
+    },
+    "-LTS19OtYiwHO3Zn9EgE" : {
+      "DataList" : [ 24.6, 34.9, 439.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:30:48 PM"
+    },
+    "-LTS1AcFlexskx6oS5lD" : {
+      "DataList" : [ 24.6, 34.9, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:30:53 PM"
+    },
+    "-LTS1BruTdFAFHv8OyPO" : {
+      "DataList" : [ 24.6, 34.9, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:30:58 PM"
+    },
+    "-LTS1DIInptcYpTTMpMT" : {
+      "DataList" : [ 24.6, 35.1, 439.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:31:03 PM"
+    },
+    "-LTS1EO3aLwcGdW2XBhm" : {
+      "DataList" : [ 24.6, 35.2, 439.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:31:08 PM"
+    },
+    "-LTS1FgqXuD6zgKm7MFS" : {
+      "DataList" : [ 24.6, 35.2, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:31:13 PM"
+    },
+    "-LTS1Givc1rXb03YStK-" : {
+      "DataList" : [ 24.6, 35.3, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:31:18 PM"
+    },
+    "-LTS1HzY8-kWFzZsJd1I" : {
+      "DataList" : [ 24.6, 35.3, 482.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:31:23 PM"
+    },
+    "-LTS1JAxLKcq18n7GQ3m" : {
+      "DataList" : [ 24.6, 35.2, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:31:28 PM"
+    },
+    "-LTS1KPjMkJfqIR4ixZi" : {
+      "DataList" : [ 24.6, 35.0, 493.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:31:33 PM"
+    },
+    "-LTS1MmDgD76YadDmgqx" : {
+      "DataList" : [ 24.6, 34.9, 488.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:31:38 PM"
+    },
+    "-LTS1NVFcveABbsgj98U" : {
+      "DataList" : [ 24.6, 34.9, 506.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:31:43 PM"
+    },
+    "-LTS1O8JYXFDeESnSQJX" : {
+      "DataList" : [ 24.6, 35.0, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:31:48 PM"
+    },
+    "-LTS1PImYvr7ghidoDr5" : {
+      "DataList" : [ 24.6, 35.0, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:31:53 PM"
+    },
+    "-LTS1QYTgs1Lj29_OwE-" : {
+      "DataList" : [ 24.6, 35.1, 505.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:31:58 PM"
+    },
+    "-LTS1RjterxICi_T115U" : {
+      "DataList" : [ 24.6, 35.1, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:32:03 PM"
+    },
+    "-LTS1Sy_kiFVr0jQ1Agb" : {
+      "DataList" : [ 24.6, 35.1, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:08 PM"
+    },
+    "-LTS1UF74YxIkmrDNP-o" : {
+      "DataList" : [ 24.6, 35.3, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:32:13 PM"
+    },
+    "-LTS1VPE9Xtg6ZA10x9i" : {
+      "DataList" : [ 24.6, 35.3, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:32:18 PM"
+    },
+    "-LTS1Wd5hhDT1fSEdsTS" : {
+      "DataList" : [ 24.6, 35.3, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:23 PM"
+    },
+    "-LTS1Xwdhwj78YVFjhyX" : {
+      "DataList" : [ 24.6, 35.1, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:32:28 PM"
+    },
+    "-LTS1Z6mVnTIznvorh-I" : {
+      "DataList" : [ 24.6, 34.9, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:32:33 PM"
+    },
+    "-LTS1_OJfje9z3Gj_lfa" : {
+      "DataList" : [ 24.6, 34.8, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:38 PM"
+    },
+    "-LTS1aXJv9M8fIVrCyh3" : {
+      "DataList" : [ 24.6, 35.0, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:43 PM"
+    },
+    "-LTS1bsiQdySeNY_svWz" : {
+      "DataList" : [ 24.6, 35.0, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:48 PM"
+    },
+    "-LTS1dCnb_UpHNy7RwWz" : {
+      "DataList" : [ 24.6, 35.0, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:53 PM"
+    },
+    "-LTS1eED_yWAHtzHPzR2" : {
+      "DataList" : [ 24.6, 35.1, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:32:58 PM"
+    },
+    "-LTS1fazgfiadzSx8vNn" : {
+      "DataList" : [ 24.6, 35.3, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:33:03 PM"
+    },
+    "-LTS1gz8tKas2Un8RoPd" : {
+      "DataList" : [ 24.6, 35.6, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:33:08 PM"
+    },
+    "-LTS1i2OoNNysoU5FFYe" : {
+      "DataList" : [ 24.6, 35.8, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:33:13 PM"
+    },
+    "-LTS1j9FJ1XiS24_zBy2" : {
+      "DataList" : [ 24.6, 35.8, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:33:18 PM"
+    },
+    "-LTS1kl2_08bPccw5R-m" : {
+      "DataList" : [ 24.6, 36.0, 492.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:33:23 PM"
+    },
+    "-LTS1lXkHxzbk9x40lt9" : {
+      "DataList" : [ 24.6, 36.1, 488.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:33:28 PM"
+    },
+    "-LTS1mnCSgiidZY3Lj0k" : {
+      "DataList" : [ 24.6, 36.1, 480.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:33:33 PM"
+    },
+    "-LTS1o22UFrFv22Xy0HQ" : {
+      "DataList" : [ 24.6, 36.1, 485.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:33:38 PM"
+    },
+    "-LTS1pCd8r5Um1fr_FaA" : {
+      "DataList" : [ 24.6, 36.1, 466.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:33:43 PM"
+    },
+    "-LTS1qQmtU95JzMJ7VHF" : {
+      "DataList" : [ 24.6, 36.2, 485.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:33:48 PM"
+    },
+    "-LTS1rvt8uCdbnkwS6rg" : {
+      "DataList" : [ 24.6, 36.2, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:33:53 PM"
+    },
+    "-LTS1ssXuwSmpmfsWSj_" : {
+      "DataList" : [ 24.6, 36.2, 466.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:33:58 PM"
+    },
+    "-LTS1u86P4xVDZpVPZBS" : {
+      "DataList" : [ 24.6, 36.2, 466.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:34:03 PM"
+    },
+    "-LTS1x50nNqJDrMH_uTJ" : {
+      "DataList" : [ 24.6, 36.1, 463.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:34:12 PM"
+    },
+    "-LTS1x8mK8RNriqjKNm0" : {
+      "DataList" : [ 24.6, 36.0, 459.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:34:13 PM"
+    },
+    "-LTS1xyvarvwTZuFWDK1" : {
+      "DataList" : [ 24.6, 36.0, 542.0, 21.0 ],
+      "Timestamp" : "12/11/2018 12:34:18 PM"
+    },
+    "-LTS1z-lwynJ9evQPuhV" : {
+      "DataList" : [ 24.6, 36.1, 548.0, 22.0 ],
+      "Timestamp" : "12/11/2018 12:34:23 PM"
+    },
+    "-LTS2-DXf0KNi5vbWj0_" : {
+      "DataList" : [ 24.6, 36.0, 530.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:34:28 PM"
+    },
+    "-LTS20U4bvEhiT3y1EEm" : {
+      "DataList" : [ 24.6, 35.8, 524.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:34:34 PM"
+    },
+    "-LTS21g2kbRwCmaB53H3" : {
+      "DataList" : [ 24.6, 35.8, 530.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:34:39 PM"
+    },
+    "-LTS22sR4mhR5Ng8Fqye" : {
+      "DataList" : [ 24.6, 35.9, 524.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:34:43 PM"
+    },
+    "-LTS249yRF9364759IgR" : {
+      "DataList" : [ 24.7, 36.1, 530.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:34:49 PM"
+    },
+    "-LTS25THq4A4-NTXtZ3M" : {
+      "DataList" : [ 24.6, 36.1, 524.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:34:54 PM"
+    },
+    "-LTS2768I4KppDZ-rk0c" : {
+      "DataList" : [ 24.6, 36.1, 524.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:34:59 PM"
+    },
+    "-LTS27tCR1fl8YrFF_qH" : {
+      "DataList" : [ 24.6, 36.1, 518.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:35:04 PM"
+    },
+    "-LTS29-C92rEogP8b7YV" : {
+      "DataList" : [ 24.6, 36.0, 518.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:35:09 PM"
+    },
+    "-LTS2AITekx_TL6rpy1y" : {
+      "DataList" : [ 24.6, 36.0, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:35:14 PM"
+    },
+    "-LTS2BpDy69nKqNGaMcl" : {
+      "DataList" : [ 24.6, 36.0, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:35:19 PM"
+    },
+    "-LTS2CfsZ0WQLPwpcb2O" : {
+      "DataList" : [ 24.6, 36.1, 497.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:35:24 PM"
+    },
+    "-LTS2DuAXdjwYS2KoGFt" : {
+      "DataList" : [ 24.6, 36.1, 495.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:35:29 PM"
+    },
+    "-LTS2FQiksAsuU7yZUUV" : {
+      "DataList" : [ 24.6, 36.0, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:35:34 PM"
+    },
+    "-LTS2GSiZ-zclTMWC2IV" : {
+      "DataList" : [ 24.7, 36.0, 65535.0, 65535.0 ],
+      "Timestamp" : "12/11/2018 12:35:39 PM"
+    },
+    "-LTS2HgRkpJ1JrizBko3" : {
+      "DataList" : [ 24.6, 35.8, 481.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:35:44 PM"
+    },
+    "-LTS2IzOfMvL2cpTZChm" : {
+      "DataList" : [ 24.6, 35.7, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:35:49 PM"
+    },
+    "-LTS2K8JieW3XbPsdRLq" : {
+      "DataList" : [ 24.6, 35.6, 470.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:35:54 PM"
+    },
+    "-LTS2LDsT1IqV9zr6333" : {
+      "DataList" : [ 24.6, 35.6, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:35:59 PM"
+    },
+    "-LTS2MUi8ZazBq3e-o6y" : {
+      "DataList" : [ 24.6, 35.7, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:36:04 PM"
+    },
+    "-LTS2OZitYMF1gAQb4DO" : {
+      "DataList" : [ 24.6, 35.8, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:36:12 PM"
+    },
+    "-LTS2P1RD8vqPrUyxpzK" : {
+      "DataList" : [ 24.6, 35.8, 470.0, 10.0 ],
+      "Timestamp" : "12/11/2018 12:36:14 PM"
+    },
+    "-LTS2Q7KBWlkGSFO0dPU" : {
+      "DataList" : [ 24.6, 35.9, 464.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:36:19 PM"
+    },
+    "-LTS2RV-WrsiVv5F5RyE" : {
+      "DataList" : [ 24.7, 36.0, 459.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:36:24 PM"
+    },
+    "-LTS2S_0C9wXad89AYt9" : {
+      "DataList" : [ 24.6, 35.8, 459.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:36:29 PM"
+    },
+    "-LTS2TrR1t5hRniJkbWd" : {
+      "DataList" : [ 24.6, 35.8, 455.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:36:34 PM"
+    },
+    "-LTS2V-M_AZnaPrme1Fz" : {
+      "DataList" : [ 24.6, 35.7, 450.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:36:39 PM"
+    },
+    "-LTS2WEhRDF6p5J2a_XE" : {
+      "DataList" : [ 24.6, 35.5, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:36:44 PM"
+    },
+    "-LTS2XSlIKDQvk8nD9ln" : {
+      "DataList" : [ 24.6, 35.4, 441.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:36:49 PM"
+    },
+    "-LTS2Ym9y5pv15x-RPJx" : {
+      "DataList" : [ 24.6, 35.4, 441.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:36:54 PM"
+    },
+    "-LTS2Zy955RMQnsVYha1" : {
+      "DataList" : [ 24.6, 35.3, 432.0, 4.0 ],
+      "Timestamp" : "12/11/2018 12:36:59 PM"
+    },
+    "-LTS2aEi71eXYHmVxkOy" : {
+      "DataList" : [ 24.6, 35.3, 441.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:37:04 PM"
+    },
+    "-LTS2bVpr3O23X0QjfzU" : {
+      "DataList" : [ 24.7, 35.4, 432.0, 4.0 ],
+      "Timestamp" : "12/11/2018 12:37:09 PM"
+    },
+    "-LTS2c_cLYQKaUU_zBm8" : {
+      "DataList" : [ 24.6, 35.3, 441.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:37:14 PM"
+    },
+    "-LTS2doUFYA3i9h-w-4i" : {
+      "DataList" : [ 24.6, 35.3, 432.0, 4.0 ],
+      "Timestamp" : "12/11/2018 12:37:19 PM"
+    },
+    "-LTS2fEHw6eq8PDvOnCE" : {
+      "DataList" : [ 24.6, 35.2, 425.0, 3.0 ],
+      "Timestamp" : "12/11/2018 12:37:24 PM"
+    },
+    "-LTS2gFB4C7ZjjWY18C5" : {
+      "DataList" : [ 24.6, 35.3, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:37:29 PM"
+    },
+    "-LTS2hRzN19HnRz9tIzr" : {
+      "DataList" : [ 24.6, 35.3, 518.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:37:34 PM"
+    },
+    "-LTS2jWsDJ2JN1nDj4zW" : {
+      "DataList" : [ 24.6, 35.3, 515.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:37:39 PM"
+    },
+    "-LTS2kCDh04Nb4alDhRp" : {
+      "DataList" : [ 24.6, 35.3, 520.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:37:44 PM"
+    },
+    "-LTS2l7Wdzx7BTyNT4GD" : {
+      "DataList" : [ 24.6, 35.3, 519.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:37:49 PM"
+    },
+    "-LTS2mNbd3xBVJAxcJxS" : {
+      "DataList" : [ 24.6, 35.3, 519.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:37:54 PM"
+    },
+    "-LTS2nbFawCk0lLwPvaO" : {
+      "DataList" : [ 24.6, 35.3, 503.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:37:59 PM"
+    },
+    "-LTS2oo3-LK76fXqGvL7" : {
+      "DataList" : [ 24.6, 35.2, 514.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:38:04 PM"
+    },
+    "-LTS2q1ToziBtv9vqAFR" : {
+      "DataList" : [ 24.6, 35.2, 502.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:38:09 PM"
+    },
+    "-LTS2rNj2sQ4UbbZyJmC" : {
+      "DataList" : [ 24.6, 34.8, 517.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:38:14 PM"
+    },
+    "-LTS2sTqWvO9r-gxHvso" : {
+      "DataList" : [ 24.7, 34.9, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:38:19 PM"
+    },
+    "-LTS2tof-jE_TFy8HzN2" : {
+      "DataList" : [ 24.8, 35.0, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:38:24 PM"
+    },
+    "-LTS2uvOwUCnj-VurFU_" : {
+      "DataList" : [ 24.6, 34.8, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:38:29 PM"
+    },
+    "-LTS2wA1LDb8x1OB-XhB" : {
+      "DataList" : [ 24.9, 35.3, 533.0, 20.0 ],
+      "Timestamp" : "12/11/2018 12:38:34 PM"
+    },
+    "-LTS2xXQZxrs4DIk6Hsn" : {
+      "DataList" : [ 24.6, 35.3, 518.0, 17.0 ],
+      "Timestamp" : "12/11/2018 12:38:40 PM"
+    },
+    "-LTS2ycLP66gzHt83xoM" : {
+      "DataList" : [ 24.9, 35.7, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:38:44 PM"
+    },
+    "-LTS2zmbngVEUjkNNXX4" : {
+      "DataList" : [ 24.7, 35.7, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:38:49 PM"
+    },
+    "-LTS3049QblaR8MXHxus" : {
+      "DataList" : [ 24.8, 36.0, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:38:54 PM"
+    },
+    "-LTS31G99XtW0pNOzYRV" : {
+      "DataList" : [ 24.8, 36.1, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:38:59 PM"
+    },
+    "-LTS32WcyPGHMuWGaeDG" : {
+      "DataList" : [ 24.9, 36.4, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:39:04 PM"
+    },
+    "-LTS33hrQfkVgWQN3t9r" : {
+      "DataList" : [ 24.9, 36.5, 529.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:39:09 PM"
+    },
+    "-LTS34zg43hu0ey6WSDS" : {
+      "DataList" : [ 24.8, 36.4, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:39:14 PM"
+    },
+    "-LTS36GWZOarkDg4ytDW" : {
+      "DataList" : [ 24.8, 36.4, 533.0, 20.0 ],
+      "Timestamp" : "12/11/2018 12:39:19 PM"
+    },
+    "-LTS37Q-mRHvt0o30vDE" : {
+      "DataList" : [ 24.8, 36.3, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:39:24 PM"
+    },
+    "-LTS38fLdIy20049ztqw" : {
+      "DataList" : [ 24.8, 36.2, 523.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:39:29 PM"
+    },
+    "-LTS39x3wOfLwqrnVUbM" : {
+      "DataList" : [ 24.8, 36.2, 505.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:39:34 PM"
+    },
+    "-LTS3B4kzshrn3uhLVTE" : {
+      "DataList" : [ 24.8, 36.0, 500.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:39:39 PM"
+    },
+    "-LTS3CH1l_SoLHiY9x5a" : {
+      "DataList" : [ 24.6, 35.6, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:39:44 PM"
+    },
+    "-LTS3DUW7r5MZqhIfQac" : {
+      "DataList" : [ 24.9, 35.6, 480.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:39:49 PM"
+    },
+    "-LTS3EjQkQOtdDYPS0Ui" : {
+      "DataList" : [ 24.6, 35.2, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:39:54 PM"
+    },
+    "-LTS3G-QXvs0qCiQvKB_" : {
+      "DataList" : [ 24.8, 35.2, 476.0, 11.0 ],
+      "Timestamp" : "12/11/2018 12:39:59 PM"
+    },
+    "-LTS3HGGOl7_AEXCq26E" : {
+      "DataList" : [ 24.9, 35.2, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:40:04 PM"
+    },
+    "-LTS3IN3zEbUoNsX1Esk" : {
+      "DataList" : [ 24.8, 35.1, 456.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:40:09 PM"
+    },
+    "-LTS3JjrDUNkRh9Yexsx" : {
+      "DataList" : [ 24.8, 35.2, 448.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:40:14 PM"
+    },
+    "-LTS3KpG2mmR0vZNKr_i" : {
+      "DataList" : [ 24.9, 35.5, 443.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:40:19 PM"
+    },
+    "-LTS3M8qSYIT4KXZGoSN" : {
+      "DataList" : [ 24.8, 35.4, 443.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:40:24 PM"
+    },
+    "-LTS3NOg5lt2q2YVY_RI" : {
+      "DataList" : [ 24.8, 35.5, 443.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:40:29 PM"
+    },
+    "-LTS3OUu95FhB4tImEwR" : {
+      "DataList" : [ 24.9, 35.6, 503.0, 15.0 ],
+      "Timestamp" : "12/11/2018 12:40:34 PM"
+    },
+    "-LTS3PmwDYjnD-wLmSwk" : {
+      "DataList" : [ 24.7, 35.7, 464.0, 9.0 ],
+      "Timestamp" : "12/11/2018 12:40:39 PM"
+    },
+    "-LTS3R1E3qAEHRfBApHR" : {
+      "DataList" : [ 24.7, 36.5, 552.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:40:44 PM"
+    },
+    "-LTS3SC6jMQU5lxiLSCt" : {
+      "DataList" : [ "NaN", "NaN", 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:40:49 PM"
+    },
+    "-LTS3TQosO6KSx6tYLO7" : {
+      "DataList" : [ "NaN", "NaN", 410.0, 1.0 ],
+      "Timestamp" : "12/11/2018 12:40:54 PM"
+    },
+    "-LTS3Ue2XgfFmflf-TIQ" : {
+      "DataList" : [ "NaN", "NaN", 427.0, 4.0 ],
+      "Timestamp" : "12/11/2018 12:40:59 PM"
+    },
+    "-LTS3Vsz5Jf8ib-16htl" : {
+      "DataList" : [ "NaN", "NaN", 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:41:04 PM"
+    },
+    "-LTS3X4IhB0VSTMCUOV0" : {
+      "DataList" : [ "NaN", "NaN", 810.0, 62.0 ],
+      "Timestamp" : "12/11/2018 12:41:09 PM"
+    },
+    "-LTS3YH15cS8Jwg7qbzu" : {
+      "DataList" : [ "NaN", "NaN", 1014.0, 93.0 ],
+      "Timestamp" : "12/11/2018 12:41:14 PM"
+    },
+    "-LTS3Zcwvja98kHsya0B" : {
+      "DataList" : [ "NaN", "NaN", 3769.0, 513.0 ],
+      "Timestamp" : "12/11/2018 12:41:19 PM"
+    },
+    "-LTS3_k6FOS9Ig1fey86" : {
+      "DataList" : [ "NaN", "NaN", 4348.0, 601.0 ],
+      "Timestamp" : "12/11/2018 12:41:24 PM"
+    },
+    "-LTS3ay5k8RIWac_3YIG" : {
+      "DataList" : [ "NaN", "NaN", 3923.0, 536.0 ],
+      "Timestamp" : "12/11/2018 12:41:29 PM"
+    }
+  },
+  "Sensor_04" : {
+    "-LTRwLJ8UC3W8uO6XiRS" : {
+      "DataList" : [ 24.6, 32.0, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:05:23 PM"
+    },
+    "-LTRwLJMUE9OpbaRmcfu" : {
+      "DataList" : [ 24.6, 32.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:05:19 PM"
+    },
+    "-LTRwMB2_83wJF-ZH5CR" : {
+      "DataList" : [ 24.5, 32.8, 581.0, 27.0 ],
+      "Timestamp" : "12/11/2018 12:05:27 PM"
+    },
+    "-LTRwNJwhC7r1omVT8zk" : {
+      "DataList" : [ 24.6, 32.4, 560.0, 24.0 ],
+      "Timestamp" : "12/11/2018 12:05:32 PM"
+    },
+    "-LTRwOL2JHIuQ0BQ8EFd" : {
+      "DataList" : [ 24.6, 32.1, 520.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:05:36 PM"
+    },
+    "-LTRwPSmd5tEwRIdOoQY" : {
+      "DataList" : [ 24.6, 31.7, 459.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:05:41 PM"
+    },
+    "-LTRwQwWJNbEelC8zcJ8" : {
+      "DataList" : [ 24.6, 31.6, 580.0, 27.0 ],
+      "Timestamp" : "12/11/2018 12:05:47 PM"
+    },
+    "-LTRwRnbeii0Jv-zrg3-" : {
+      "DataList" : [ 24.3, 31.1, 565.0, 25.0 ],
+      "Timestamp" : "12/11/2018 12:05:50 PM"
+    },
+    "-LTRwT6hKyKnN-e0kbf7" : {
+      "DataList" : [ 24.6, 31.3, 524.0, 18.0 ],
+      "Timestamp" : "12/11/2018 12:05:54 PM"
+    },
+    "-LTRwTrUFytFjhJo8MWU" : {
+      "DataList" : [ 24.5, 31.3, 439.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:05:59 PM"
+    },
+    "-LTRwV33B4P9T_6FllAo" : {
+      "DataList" : [ 24.7, 31.4, 553.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:06:03 PM"
+    },
+    "-LTRwW5vjaGHSbkJocjl" : {
+      "DataList" : [ 24.5, 31.1, 531.0, 137.0 ],
+      "Timestamp" : "12/11/2018 12:06:08 PM"
+    },
+    "-LTRwXA9ay-wL0RaU5bY" : {
+      "DataList" : [ 24.5, 31.1, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:06:12 PM"
+    },
+    "-LTRwYGVVRNr-nmu_cZn" : {
+      "DataList" : [ 24.5, 31.0, 553.0, 23.0 ],
+      "Timestamp" : "12/11/2018 12:06:17 PM"
+    },
+    "-LTRwZMMf-5sQCPJ5oCs" : {
+      "DataList" : [ 24.6, 31.1, 542.0, 21.0 ],
+      "Timestamp" : "12/11/2018 12:06:21 PM"
+    },
+    "-LTRw_T3ssaJ_16UgoGU" : {
+      "DataList" : [ 24.6, 30.9, 497.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:06:26 PM"
+    },
+    "-LTRwafJwNYcEXhQUZXD" : {
+      "DataList" : [ 24.6, 31.0, 497.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:06:31 PM"
+    },
+    "-LTRwbdWnt9UNgeXt5Os" : {
+      "DataList" : [ 24.6, 30.9, 527.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:06:35 PM"
+    },
+    "-LTRwdWwgN2B80EuWn3w" : {
+      "DataList" : [ 24.6, 30.8, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:06:39 PM"
+    },
+    "-LTRwelnmJKHqNgQgQh8" : {
+      "DataList" : [ 22.5, 29.4, 531.0, 19.0 ],
+      "Timestamp" : "12/11/2018 12:06:44 PM"
+    },
+    "-LTRwf30oQIY9B3138G4" : {
+      "DataList" : [ 24.6, 30.9, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:06:48 PM"
+    },
+    "-LTRwgEVREWSv4rJNE1p" : {
+      "DataList" : [ 24.6, 32.4, 498.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:06:53 PM"
+    },
+    "-LTRwhBVSuS7hUyxcKra" : {
+      "DataList" : [ 24.6, 30.9, 482.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:06:57 PM"
+    },
+    "-LTRwin7oYC7bSAWsAQ4" : {
+      "DataList" : [ 24.6, 30.9, 643.0, 37.0 ],
+      "Timestamp" : "12/11/2018 12:07:02 PM"
+    },
+    "-LTRwjumpBQotM0Ifq3e" : {
+      "DataList" : [ 24.6, 30.8, 611.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:07:08 PM"
+    },
+    "-LTRwkZGbUO_X3jfaekU" : {
+      "DataList" : [ 24.6, 30.7, 683.0, 43.0 ],
+      "Timestamp" : "12/11/2018 12:07:11 PM"
+    },
+    "-LTRwmLSZn09jweYPdD_" : {
+      "DataList" : [ 24.6, 30.7, 617.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:07:16 PM"
+    },
+    "-LTRwmfyffFplglETPzm" : {
+      "DataList" : [ 24.6, 30.8, 645.0, 37.0 ],
+      "Timestamp" : "12/11/2018 12:07:20 PM"
+    },
+    "-LTRwobOdhjMGj151Mlp" : {
+      "DataList" : [ 24.6, 30.8, 617.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:07:25 PM"
+    },
+    "-LTRwp09fpnGBnbAO97w" : {
+      "DataList" : [ 24.6, 30.9, 611.0, 32.0 ],
+      "Timestamp" : "12/11/2018 12:07:29 PM"
+    },
+    "-LTRwqNAv79Jdf1wbKJB" : {
+      "DataList" : [ 24.6, 30.9, 589.0, 28.0 ],
+      "Timestamp" : "12/11/2018 12:07:34 PM"
+    },
+    "-LTRwsHhVeOn4s0cNWpy" : {
+      "DataList" : [ 24.6, 30.8, 572.0, 26.0 ],
+      "Timestamp" : "12/11/2018 12:07:38 PM"
+    },
+    "-LTRwtEViKu0U-TfRxxu" : {
+      "DataList" : [ 24.6, 30.9, 480.0, 12.0 ],
+      "Timestamp" : "12/11/2018 12:07:43 PM"
+    },
+    "-LTRwtMfNy9eF768p5YH" : {
+      "DataList" : [ 24.4, 30.8, 496.0, 14.0 ],
+      "Timestamp" : "12/11/2018 12:07:47 PM"
+    },
+    "-LTRwuzsYlLpAlMz9mcZ" : {
+      "DataList" : [ 24.6, 30.2, 594.0, 29.0 ],
+      "Timestamp" : "12/11/2018 12:07:53 PM"
+    },
+    "-LTRwvf7ZHxuHRBz6tCD" : {
+      "DataList" : [ "NaN", "NaN", 487.0, 13.0 ],
+      "Timestamp" : "12/11/2018 12:07:57 PM"
+    },
+    "-LTRwwshrZKiX92lEJZb" : {
+      "DataList" : [ 24.6, 30.3, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:08:01 PM"
+    },
+    "-LTRwxm2vF0NmuC9u5Xe" : {
+      "DataList" : [ 24.7, 30.5, 6083.0, 865.0 ],
+      "Timestamp" : "12/11/2018 12:08:05 PM"
+    },
+    "-LTRwzgmPe_DQjV1MBiL" : {
+      "DataList" : [ 24.9, 31.6, 4859.0, 679.0 ],
+      "Timestamp" : "12/11/2018 12:08:10 PM"
+    },
+    "-LTRx-lW2tCVExGPsIhC" : {
+      "DataList" : [ "NaN", "NaN", 4897.0, 685.0 ],
+      "Timestamp" : "12/11/2018 12:08:15 PM"
+    },
+    "-LTRx0bJkjUjvzBhdfpE" : {
+      "DataList" : [ 24.6, 30.3, 1407.0, 153.0 ],
+      "Timestamp" : "12/11/2018 12:08:19 PM"
+    },
+    "-LTRx1xFm8VnOo2Whuez" : {
+      "DataList" : [ 24.6, 31.1, 7355.0, 1059.0 ],
+      "Timestamp" : "12/11/2018 12:08:23 PM"
+    },
+    "-LTRx2FY-pxj72dDObLq" : {
+      "DataList" : [ 24.7, 31.1, 7092.0, 1019.0 ],
+      "Timestamp" : "12/11/2018 12:08:28 PM"
+    },
+    "-LTRx3eAu3yI-292b4uk" : {
+      "DataList" : [ "NaN", "NaN", 4343.0, 600.0 ],
+      "Timestamp" : "12/11/2018 12:08:32 PM"
+    },
+    "-LTRx4W0qM2CD1N7fivr" : {
+      "DataList" : [ 24.6, 30.1, 1018.0, 94.0 ],
+      "Timestamp" : "12/11/2018 12:08:37 PM"
+    },
+    "-LTRx5aeT3L8MLepX7-y" : {
+      "DataList" : [ 24.7, 30.9, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:08:41 PM"
+    },
+    "-LTRx6cNaapkJtrCq0dI" : {
+      "DataList" : [ 18.6, 26.9, 7327.0, 1055.0 ],
+      "Timestamp" : "12/11/2018 12:08:46 PM"
+    },
+    "-LTRx7vzOh0MY8BBuj5x" : {
+      "DataList" : [ 24.7, 30.7, 7362.0, 1060.0 ],
+      "Timestamp" : "12/11/2018 12:08:50 PM"
+    },
+    "-LTRxAkCjlcgmaGBjPbf" : {
+      "DataList" : [ 24.7, 30.7, 5855.0, 831.0 ],
+      "Timestamp" : "12/11/2018 12:08:55 PM"
+    },
+    "-LTRxCNeNKnjoRPwtvKi" : {
+      "DataList" : [ 24.3, 29.7, 5242.0, 737.0 ],
+      "Timestamp" : "12/11/2018 12:08:59 PM"
+    },
+    "-LTRxDF25r_c55iCXWYx" : {
+      "DataList" : [ 24.7, 30.9, 4931.0, 690.0 ],
+      "Timestamp" : "12/11/2018 12:09:08 PM"
+    },
+    "-LTRxDFOUX4ndcT8i7tU" : {
+      "DataList" : [ "NaN", "NaN", 3695.0, 501.0 ],
+      "Timestamp" : "12/11/2018 12:09:08 PM"
+    },
+    "-LTRxDIMTYP5G6SuLsIT" : {
+      "DataList" : [ 24.6, 31.5, 834.0, 66.0 ],
+      "Timestamp" : "12/11/2018 12:09:13 PM"
+    },
+    "-LTRxFjQUYhP5ovqjNgc" : {
+      "DataList" : [ 24.7, 32.4, 4964.0, 695.0 ],
+      "Timestamp" : "12/11/2018 12:09:17 PM"
+    },
+    "-LTRxGYkggmohlyFDn-8" : {
+      "DataList" : [ 24.9, 31.4, 5424.0, 765.0 ],
+      "Timestamp" : "12/11/2018 12:09:23 PM"
+    },
+    "-LTRxG_MCHIInOTUfOfV" : {
+      "DataList" : [ 24.7, 32.1, 5986.0, 850.0 ],
+      "Timestamp" : "12/11/2018 12:09:27 PM"
+    },
+    "-LTRxJGGZSLDQM0kGh49" : {
+      "DataList" : [ 24.7, 31.7, 5929.0, 842.0 ],
+      "Timestamp" : "12/11/2018 12:09:33 PM"
+    },
+    "-LTRxJalxdOSXM-4cjcg" : {
+      "DataList" : [ 24.7, 31.5, 5510.0, 778.0 ],
+      "Timestamp" : "12/11/2018 12:09:38 PM"
+    },
+    "-LTRxJpx-pRZHsk1Ihv2" : {
+      "DataList" : [ 24.7, 30.5, 5510.0, 778.0 ],
+      "Timestamp" : "12/11/2018 12:09:40 PM"
+    },
+    "-LTRxLpXoFqiAZNfTnUi" : {
+      "DataList" : [ 24.7, 31.2, 5957.0, 846.0 ],
+      "Timestamp" : "12/11/2018 12:09:48 PM"
+    },
+    "-LTRxM-KlzHM_4KBEVLX" : {
+      "DataList" : [ 24.7, 31.1, 5810.0, 824.0 ],
+      "Timestamp" : "12/11/2018 12:09:49 PM"
+    },
+    "-LTRxNAdVpdNVaW8V9Gu" : {
+      "DataList" : [ 25.5, 31.6, 5510.0, 778.0 ],
+      "Timestamp" : "12/11/2018 12:09:53 PM"
+    },
+    "-LTRxOC_Uje8SK0KjHBk" : {
+      "DataList" : [ 23.9, 30.6, 4798.0, 670.0 ],
+      "Timestamp" : "12/11/2018 12:09:58 PM"
+    },
+    "-LTRxPYUJjJwuDD9DLFs" : {
+      "DataList" : [ 24.4, 30.9, 4864.0, 680.0 ],
+      "Timestamp" : "12/11/2018 12:10:03 PM"
+    },
+    "-LTRxQNtpo4xUWcejcK1" : {
+      "DataList" : [ 24.8, 30.6, 5222.0, 734.0 ],
+      "Timestamp" : "12/11/2018 12:10:07 PM"
+    },
+    "-LTRxRYrd8uw4vylUzFj" : {
+      "DataList" : [ 24.7, 30.7, 5242.0, 737.0 ],
+      "Timestamp" : "12/11/2018 12:10:11 PM"
+    },
+    "-LTRxSZZvOR4iVgWYtBx" : {
+      "DataList" : [ 25.1, 31.9, 4997.0, 700.0 ],
+      "Timestamp" : "12/11/2018 12:10:16 PM"
+    },
+    "-LTRxToc75j2O5TcRUvc" : {
+      "DataList" : [ 24.7, 31.6, 4798.0, 670.0 ],
+      "Timestamp" : "12/11/2018 12:10:21 PM"
+    },
+    "-LTRxUs1NJnviadN1BPx" : {
+      "DataList" : [ 24.7, 31.7, 5172.0, 726.0 ],
+      "Timestamp" : "12/11/2018 12:10:25 PM"
+    },
+    "-LTRxWgqV6f0MYMhepOQ" : {
+      "DataList" : [ 24.6, 30.7, 5065.0, 710.0 ],
+      "Timestamp" : "12/11/2018 12:10:29 PM"
+    },
+    "-LTRxXt47LV7mdrgQI7p" : {
+      "DataList" : [ 24.8, 30.7, 4997.0, 700.0 ],
+      "Timestamp" : "12/11/2018 12:10:34 PM"
+    },
+    "-LTRxYB9SIH2r7NeGlYW" : {
+      "DataList" : [ 24.7, 31.6, 4798.0, 670.0 ],
+      "Timestamp" : "12/11/2018 12:10:38 PM"
+    },
+    "-LTRxZDHCUwuQe-qaN26" : {
+      "DataList" : [ 24.8, 31.7, 4734.0, 660.0 ],
+      "Timestamp" : "12/11/2018 12:10:43 PM"
+    },
+    "-LTRx_IaZz_00TQrx3CP" : {
+      "DataList" : [ 24.7, 31.9, 4702.0, 655.0 ],
+      "Timestamp" : "12/11/2018 12:10:47 PM"
+    },
+    "-LTRxh6NyCKpK2sOGZWk" : {
+      "DataList" : [ 24.8, 31.7, 4931.0, 690.0 ],
+      "Timestamp" : "12/11/2018 12:11:14 PM"
+    },
+    "-LTRxh8fdkKbCNHQ7rqP" : {
+      "DataList" : [ 24.7, 31.7, 4608.0, 641.0 ],
+      "Timestamp" : "12/11/2018 12:11:18 PM"
+    },
+    "-LTRxi8EuV_wBdWaPlM3" : {
+      "DataList" : [ 24.7, 31.5, 3695.0, 501.0 ],
+      "Timestamp" : "12/11/2018 12:11:22 PM"
+    },
+    "-LTRxj6nIef3D88NlPy2" : {
+      "DataList" : [ 24.7, 31.6, 4483.0, 622.0 ],
+      "Timestamp" : "12/11/2018 12:11:27 PM"
+    },
+    "-LTRxkMUqOgJlMFQB8A_" : {
+      "DataList" : [ 21.1, 29.1, 4560.0, 633.0 ],
+      "Timestamp" : "12/11/2018 12:11:31 PM"
+    },
+    "-LTRxlD2SIlpE_pH9ThK" : {
+      "DataList" : [ 24.7, 31.6, 4377.0, 605.0 ],
+      "Timestamp" : "12/11/2018 12:11:36 PM"
+    },
+    "-LTRxmkM55wL-1JmUJoS" : {
+      "DataList" : [ 24.8, 31.7, 4011.0, 550.0 ],
+      "Timestamp" : "12/11/2018 12:11:40 PM"
+    },
+    "-LTRxnXluXZSl5tv4HNx" : {
+      "DataList" : [ 24.7, 31.4, 3400.0, 457.0 ],
+      "Timestamp" : "12/11/2018 12:11:45 PM"
+    },
+    "-LTRxp-5yF2zQf_gfbZa" : {
+      "DataList" : [ 24.8, 31.5, 4110.0, 565.0 ],
+      "Timestamp" : "12/11/2018 12:11:49 PM"
+    },
+    "-LTRxpcAWKlDCVocM1B7" : {
+      "DataList" : [ 24.7, 31.4, 4323.0, 597.0 ],
+      "Timestamp" : "12/11/2018 12:11:54 PM"
+    },
+    "-LTRxqtZRIc1e39lrrI3" : {
+      "DataList" : [ 24.8, 31.5, 4734.0, 660.0 ],
+      "Timestamp" : "12/11/2018 12:11:59 PM"
+    },
+    "-LTRxrjbHn5WVuDawD7Q" : {
+      "DataList" : [ 24.8, 31.5, 4734.0, 660.0 ],
+      "Timestamp" : "12/11/2018 12:12:03 PM"
+    },
+    "-LTRxssHYerjs3xF7EMA" : {
+      "DataList" : [ 24.8, 31.5, 4483.0, 622.0 ],
+      "Timestamp" : "12/11/2018 12:12:07 PM"
+    },
+    "-LTRxu9GnQDLQbcauWr2" : {
+      "DataList" : [ 24.7, 31.5, 4435.0, 614.0 ],
+      "Timestamp" : "12/11/2018 12:12:12 PM"
+    },
+    "-LTRxv7GyO-X45KzKSPd" : {
+      "DataList" : [ 24.8, 31.6, 4573.0, 635.0 ],
+      "Timestamp" : "12/11/2018 12:12:16 PM"
+    },
+    "-LTRxwH6sqw2NOPGb6Xr" : {
+      "DataList" : [ 24.8, 31.6, 4466.0, 619.0 ],
+      "Timestamp" : "12/11/2018 12:12:21 PM"
+    },
+    "-LTRxy3LfOPTyszPEzly" : {
+      "DataList" : [ 24.8, 31.6, 4608.0, 641.0 ],
+      "Timestamp" : "12/11/2018 12:12:28 PM"
+    },
+    "-LTRxyczWMa02o4_gjvI" : {
+      "DataList" : [ 28.3, 33.8, 4517.0, 627.0 ],
+      "Timestamp" : "12/11/2018 12:12:31 PM"
+    },
+    "-LTRxzR8Rl-O9Bap50Uu" : {
+      "DataList" : [ 24.7, 31.5, 4348.0, 601.0 ],
+      "Timestamp" : "12/11/2018 12:12:34 PM"
+    },
+    "-LTRy-_jrO8VELZNNzwp" : {
+      "DataList" : [ 24.6, 31.4, 4190.0, 577.0 ],
+      "Timestamp" : "12/11/2018 12:12:39 PM"
+    },
+    "-LTRy3KokEr4WABe0L4k" : {
+      "DataList" : [ 24.8, 32.4, 4065.0, 558.0 ],
+      "Timestamp" : "12/11/2018 12:12:43 PM"
+    },
+    "-LTRy47WzuW248m1XBL3" : {
+      "DataList" : [ 20.7, 28.6, 3934.0, 538.0 ],
+      "Timestamp" : "12/11/2018 12:12:48 PM"
+    },
+    "-LTRy4IJFoorEFECfQG-" : {
+      "DataList" : [ 25.0, 31.6, 3873.0, 529.0 ],
+      "Timestamp" : "12/11/2018 12:12:53 PM"
+    },
+    "-LTRy4SWrj6DMslKF_Ob" : {
+      "DataList" : [ 25.6, 32.0, 3744.0, 509.0 ],
+      "Timestamp" : "12/11/2018 12:12:57 PM"
+    },
+    "-LTRy5-S_mBQ4BiHp90B" : {
+      "DataList" : [ 24.7, 31.4, 3744.0, 509.0 ],
+      "Timestamp" : "12/11/2018 12:13:01 PM"
+    },
+    "-LTRy6dOfTNVS0gZfK98" : {
+      "DataList" : [ 24.7, 31.4, 3462.0, 466.0 ],
+      "Timestamp" : "12/11/2018 12:13:08 PM"
+    },
+    "-LTRy7IvuoLlaV7Zhla1" : {
+      "DataList" : [ 24.8, 31.5, 3563.0, 481.0 ],
+      "Timestamp" : "12/11/2018 12:13:11 PM"
+    },
+    "-LTRy8JgOTxCx87edWQA" : {
+      "DataList" : [ 24.8, 31.4, 3576.0, 483.0 ],
+      "Timestamp" : "12/11/2018 12:13:15 PM"
+    },
+    "-LTRyPfGym8vYtFsqctP" : {
+      "DataList" : [ 24.8, 30.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:13:43 PM"
+    },
+    "-LTS0-Be-tJ548vfAuVt" : {
+      "DataList" : [ 24.5, 30.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:25:44 PM"
+    },
+    "-LTS007VPZVbREsnnM2D" : {
+      "DataList" : [ 24.5, 32.1, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:25:48 PM"
+    },
+    "-LTS01Fu3SPPzm8UUG6n" : {
+      "DataList" : [ 24.5, 31.9, 508.0, 16.0 ],
+      "Timestamp" : "12/11/2018 12:25:52 PM"
+    },
+    "-LTS02PWEODE68ERz1JI" : {
+      "DataList" : [ 24.5, 31.8, 459.0, 8.0 ],
+      "Timestamp" : "12/11/2018 12:25:57 PM"
+    },
+    "-LTS03YkK9LfAxgKXORA" : {
+      "DataList" : [ 24.5, 31.7, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:26:01 PM"
+    },
+    "-LTS04oWGvqeG8XxLsaA" : {
+      "DataList" : [ 24.5, 32.1, 895.0, 75.0 ],
+      "Timestamp" : "12/11/2018 12:26:06 PM"
+    },
+    "-LTS05sOhHvUceooE-27" : {
+      "DataList" : [ 24.5, 32.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:10 PM"
+    },
+    "-LTS06jyCfAE_UvT6Qel" : {
+      "DataList" : [ 24.5, 32.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:15 PM"
+    },
+    "-LTS08gVn3QpSKUwOrLR" : {
+      "DataList" : [ 24.5, 32.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:19 PM"
+    },
+    "-LTS08xzS2YiESE2f_NJ" : {
+      "DataList" : [ 24.5, 32.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:24 PM"
+    },
+    "-LTS0A0ufaSKYSko4FgI" : {
+      "DataList" : [ 24.5, 33.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:28 PM"
+    },
+    "-LTS0B8PqQHLAPs_uta4" : {
+      "DataList" : [ 24.6, 33.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:33 PM"
+    },
+    "-LTS0CDy6jduwb7g8KV6" : {
+      "DataList" : [ 24.6, 35.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:37 PM"
+    },
+    "-LTS0DP7A1HKTkE6Ln6L" : {
+      "DataList" : [ 24.6, 34.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:42 PM"
+    },
+    "-LTS0EUgSnwag2Qf3ZBj" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:47 PM"
+    },
+    "-LTS0FrzDXDz5CgwTys5" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:51 PM"
+    },
+    "-LTS0GhdEghyAmE59Xt6" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:26:55 PM"
+    },
+    "-LTS0I0bEQKS7cTQi9rD" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:00 PM"
+    },
+    "-LTS0Ivw9tAr5ZULhhsR" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:04 PM"
+    },
+    "-LTS0K125x5yPEXoWKR6" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:09 PM"
+    },
+    "-LTS0L1jac4UCj1-oxT1" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:14 PM"
+    },
+    "-LTS0MEWMIxt3dVguD3n" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:18 PM"
+    },
+    "-LTS0NEZFW1NOpgShyTB" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:23 PM"
+    },
+    "-LTS0OM2eZyheqDeoyEl" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:27 PM"
+    },
+    "-LTS0PWgDtvDC0LW7VVT" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:32 PM"
+    },
+    "-LTS0QXPg7gmLLCv5Mcx" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:36 PM"
+    },
+    "-LTS0RfxU8mmSpy_PSV6" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:41 PM"
+    },
+    "-LTS0Smv7bu4Ng8_x4BN" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:45 PM"
+    },
+    "-LTS0TpLjD5FNrssFkcl" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:50 PM"
+    },
+    "-LTS0UxfU9KC-EBipKHb" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:54 PM"
+    },
+    "-LTS0WGSpH8DOWP2Ymgt" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:27:59 PM"
+    },
+    "-LTS0XDVWrSNZ5WkfJM9" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:03 PM"
+    },
+    "-LTS0YHycFJH8oMTRbnU" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:08 PM"
+    },
+    "-LTS0ZKOHb7ZOKskDEHB" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:12 PM"
+    },
+    "-LTS0_YNagzXCyNVMh1C" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:17 PM"
+    },
+    "-LTS0awfvHe_MJFK0rpC" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:21 PM"
+    },
+    "-LTS0bck6Q0j_75BzTbj" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:26 PM"
+    },
+    "-LTS0dTVQGyq_rhZDCzc" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:30 PM"
+    },
+    "-LTS0dvu_Fl48eiyY8D1" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:35 PM"
+    },
+    "-LTS0f7tLUY0bp7IsQkX" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:39 PM"
+    },
+    "-LTS0hNY806nFVT09fEu" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:44 PM"
+    },
+    "-LTS0hU9KjIsPcz1jtIf" : {
+      "DataList" : [ 25.1, 42.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:48 PM"
+    },
+    "-LTS0iERz2h6e4tWvKDK" : {
+      "DataList" : [ 25.0, 43.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:53 PM"
+    },
+    "-LTS0jQZiOJzpd33xQGa" : {
+      "DataList" : [ 25.0, 43.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:28:57 PM"
+    },
+    "-LTS0kTKpK_5Kr7U-DtB" : {
+      "DataList" : [ 24.9, 43.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:02 PM"
+    },
+    "-LTS0lcJoeUW13cXhZIB" : {
+      "DataList" : [ 24.8, 43.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:06 PM"
+    },
+    "-LTS0mdQy9sxtPIU_nHM" : {
+      "DataList" : [ 24.7, 43.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:11 PM"
+    },
+    "-LTS0niqBkl4TeMNj4M3" : {
+      "DataList" : [ 24.7, 43.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:15 PM"
+    },
+    "-LTS0oq5lLrioPsmhWzj" : {
+      "DataList" : [ 24.6, 43.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:20 PM"
+    },
+    "-LTS0pz72jZju4II67wL" : {
+      "DataList" : [ 24.6, 43.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:24 PM"
+    },
+    "-LTS0r3bzi3KV-hh0Ovx" : {
+      "DataList" : [ 24.6, 43.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:29 PM"
+    },
+    "-LTS0s9pJohVlLnevnsT" : {
+      "DataList" : [ 24.5, 43.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:33 PM"
+    },
+    "-LTS0tDF_3oXJhw11vsz" : {
+      "DataList" : [ 24.4, 43.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:38 PM"
+    },
+    "-LTS0uLmu_JO4PZ23mlu" : {
+      "DataList" : [ 24.4, 44.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:42 PM"
+    },
+    "-LTS0vQm5aRKMFbm_ENT" : {
+      "DataList" : [ 24.3, 44.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:47 PM"
+    },
+    "-LTS0wYSJ-C8NmnrlHBK" : {
+      "DataList" : [ 24.3, 44.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:51 PM"
+    },
+    "-LTS0xcrC5SG3xoXrB8O" : {
+      "DataList" : [ 24.2, 44.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:29:56 PM"
+    },
+    "-LTS0yj9lXTI5hG_rQsv" : {
+      "DataList" : [ 24.2, 44.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:00 PM"
+    },
+    "-LTS0zrIdlnO7Nr-TOaI" : {
+      "DataList" : [ 24.1, 44.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:05 PM"
+    },
+    "-LTS101OruMfIuaSDxMu" : {
+      "DataList" : [ 24.1, 44.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:09 PM"
+    },
+    "-LTS114KHmxOwm63NOQO" : {
+      "DataList" : [ 24.0, 44.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:14 PM"
+    },
+    "-LTS128t3ROkt88v0yRI" : {
+      "DataList" : [ 24.0, 44.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:18 PM"
+    },
+    "-LTS13FNtGowky79osWo" : {
+      "DataList" : [ 24.0, 44.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:23 PM"
+    },
+    "-LTS14M6FZj1K3Zigltz" : {
+      "DataList" : [ 24.0, 44.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:27 PM"
+    },
+    "-LTS15SlyKV1qnH2ez6Q" : {
+      "DataList" : [ 23.9, 44.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:32 PM"
+    },
+    "-LTS16c99OtIxHaah4NX" : {
+      "DataList" : [ 23.9, 45.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:36 PM"
+    },
+    "-LTS17f_PMnDaSxga2Hy" : {
+      "DataList" : [ 23.8, 45.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:41 PM"
+    },
+    "-LTS18lRuG2-jckfFb6I" : {
+      "DataList" : [ 23.8, 45.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:45 PM"
+    },
+    "-LTS19t9TPJmj3PXpLze" : {
+      "DataList" : [ 23.8, 45.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:50 PM"
+    },
+    "-LTS1BO9DspsN1T5MNMS" : {
+      "DataList" : [ 23.8, 45.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:56 PM"
+    },
+    "-LTS1CH1cZth-HLEziEH" : {
+      "DataList" : [ 23.7, 45.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:30:59 PM"
+    },
+    "-LTS1D_wdobXBVUOy6eX" : {
+      "DataList" : [ 23.7, 45.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:03 PM"
+    },
+    "-LTS1EIGvZkfGR1Z6bkI" : {
+      "DataList" : [ 23.7, 45.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:08 PM"
+    },
+    "-LTS1Fd88WZyBR96xTO_" : {
+      "DataList" : [ 23.6, 45.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:12 PM"
+    },
+    "-LTS1GWmkzipC3ZHpa_1" : {
+      "DataList" : [ 23.6, 45.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:17 PM"
+    },
+    "-LTS1HYju0U---sfkyOp" : {
+      "DataList" : [ 23.6, 45.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:21 PM"
+    },
+    "-LTS1IiRwHgfDeO93l-k" : {
+      "DataList" : [ 23.6, 45.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:26 PM"
+    },
+    "-LTS1Jl1932Qhv2WkHKi" : {
+      "DataList" : [ 23.5, 45.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:30 PM"
+    },
+    "-LTS1LKIkor0Vg8lZvBm" : {
+      "DataList" : [ 23.5, 45.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:35 PM"
+    },
+    "-LTS1N9WC3FkMMgVavkK" : {
+      "DataList" : [ 23.5, 45.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:39 PM"
+    },
+    "-LTS1NWWE0969Ctxc5_A" : {
+      "DataList" : [ 23.5, 46.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:44 PM"
+    },
+    "-LTS1ODzFWBke_LHU-M6" : {
+      "DataList" : [ 23.4, 45.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:49 PM"
+    },
+    "-LTS1PFk7FvgOHic1FRJ" : {
+      "DataList" : [ 23.5, 46.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:53 PM"
+    },
+    "-LTS1QOVdlcxq6VljKKL" : {
+      "DataList" : [ 23.4, 46.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:31:58 PM"
+    },
+    "-LTS1RVYuT1mcwz1504V" : {
+      "DataList" : [ 23.4, 46.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:02 PM"
+    },
+    "-LTS1Sc1YOUmDZovX0bB" : {
+      "DataList" : [ 23.4, 46.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:07 PM"
+    },
+    "-LTS1Te__yuTjlqo9c8e" : {
+      "DataList" : [ 23.4, 47.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:11 PM"
+    },
+    "-LTS1UljZd3qfAHiISez" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:16 PM"
+    },
+    "-LTS1VsmgSg-oGNfS36j" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:20 PM"
+    },
+    "-LTS1WzNk5egJxfMONUA" : {
+      "DataList" : [ 23.0, 81.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:25 PM"
+    },
+    "-LTS1Y57vXEsRSpzdrZp" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:29 PM"
+    },
+    "-LTS1ZAZPuwatBETLbrc" : {
+      "DataList" : [ 23.1, 80.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:34 PM"
+    },
+    "-LTS1_OSDj-0Op0_4XDM" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:38 PM"
+    },
+    "-LTS1aO6YvLuoC5vIHdH" : {
+      "DataList" : [ "NaN", "NaN", 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:43 PM"
+    },
+    "-LTS1bTnYelpMkFYhpe2" : {
+      "DataList" : [ 23.3, 81.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:47 PM"
+    },
+    "-LTS1cdLf8D1IyjGjPCh" : {
+      "DataList" : [ 23.4, 81.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:52 PM"
+    },
+    "-LTS1dfUjtlLYCsXO1uF" : {
+      "DataList" : [ 23.5, 81.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:32:56 PM"
+    },
+    "-LTS1emRqigxxjpv6J7K" : {
+      "DataList" : [ 23.3, 81.1, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:01 PM"
+    },
+    "-LTS1g4JZmHICDkaHF3N" : {
+      "DataList" : [ 23.4, 80.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:05 PM"
+    },
+    "-LTS1h2hON1lnSIKy4Rg" : {
+      "DataList" : [ 23.1, 79.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:10 PM"
+    },
+    "-LTS1i4EoxKDWDGk9g3D" : {
+      "DataList" : [ 23.4, 80.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:14 PM"
+    },
+    "-LTS1j9ddlPYAbU1pmEU" : {
+      "DataList" : [ 23.3, 79.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:19 PM"
+    },
+    "-LTS1kjpC4zfwiYOa7hN" : {
+      "DataList" : [ 23.3, 79.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:23 PM"
+    },
+    "-LTS1lOMg2HidMqv_hK5" : {
+      "DataList" : [ 23.3, 79.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:28 PM"
+    },
+    "-LTS1mZBvrud2nutGTxS" : {
+      "DataList" : [ 23.3, 80.4, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:33 PM"
+    },
+    "-LTS1n_l0PVdNZEpl9vA" : {
+      "DataList" : [ 23.5, 80.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:37 PM"
+    },
+    "-LTS1oh105f8r3y9tVm-" : {
+      "DataList" : [ 23.2, 79.2, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:41 PM"
+    },
+    "-LTS1pnhxzGLQpFn1ds_" : {
+      "DataList" : [ 23.3, 79.6, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:46 PM"
+    },
+    "-LTS1qt2RVp6Eu60KX4X" : {
+      "DataList" : [ 23.2, 78.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:50 PM"
+    },
+    "-LTS1s4HsGX3vlUIKkp-" : {
+      "DataList" : [ 23.3, 79.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:55 PM"
+    },
+    "-LTS1t94HY2K9Wv9Rdwl" : {
+      "DataList" : [ 23.4, 79.3, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:33:59 PM"
+    },
+    "-LTS1uFaMNLEq-fWPaQB" : {
+      "DataList" : [ 23.1, 79.8, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:04 PM"
+    },
+    "-LTS1x6UDf3b1lQxNxmP" : {
+      "DataList" : [ 23.3, 80.0, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:08 PM"
+    },
+    "-LTS1x8jfYOkshqYdbbS" : {
+      "DataList" : [ 23.2, 79.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:13 PM"
+    },
+    "-LTS1xWyIZviD9LLVYUL" : {
+      "DataList" : [ 23.2, 79.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:17 PM"
+    },
+    "-LTS1yjcMtbiF_nKw6tn" : {
+      "DataList" : [ 23.3, 79.9, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:22 PM"
+    },
+    "-LTS1zlwa1hSoVqsgK6J" : {
+      "DataList" : [ 23.1, 79.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:26 PM"
+    },
+    "-LTS2-p0ml0HSrd3Yejn" : {
+      "DataList" : [ 23.3, 79.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:31 PM"
+    },
+    "-LTS20u5oD_xRK3FMLY_" : {
+      "DataList" : [ 23.1, 79.5, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:35 PM"
+    },
+    "-LTS2228pT6fVJO2cVtV" : {
+      "DataList" : [ 23.2, 79.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:34:40 PM"
+    },
+    "-LTS2Ea0f0omtB3yk5Qh" : {
+      "DataList" : [ 22.9, 46.7, 65021.0, 65021.0 ],
+      "Timestamp" : "12/11/2018 12:35:31 PM"
+    },
+    "-LTS2FiWJq4KPqRLgCxo" : {
+      "DataList" : [ 23.2, 58.8, 0.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:35:36 PM"
+    },
+    "-LTS2He4cGa0kRuLDAkF" : {
+      "DataList" : [ 23.0, 57.2, 444.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:35:40 PM"
+    },
+    "-LTS2HoD1VhWRL70wB2G" : {
+      "DataList" : [ 23.1, 69.1, 915.0, 78.0 ],
+      "Timestamp" : "12/11/2018 12:35:44 PM"
+    },
+    "-LTS2J2pMzV04WMdm9gb" : {
+      "DataList" : [ 22.9, 61.4, 992.0, 90.0 ],
+      "Timestamp" : "12/11/2018 12:35:49 PM"
+    },
+    "-LTS2K7ip9y4QOj5tuAd" : {
+      "DataList" : [ 22.9, 62.0, 1090.0, 105.0 ],
+      "Timestamp" : "12/11/2018 12:35:54 PM"
+    },
+    "-LTS2L6Ar6KEsevC_2yT" : {
+      "DataList" : [ 22.9, 59.6, 970.0, 86.0 ],
+      "Timestamp" : "12/11/2018 12:35:58 PM"
+    },
+    "-LTS2MHDTVq-qBIWUoqU" : {
+      "DataList" : [ 22.9, 59.7, 825.0, 64.0 ],
+      "Timestamp" : "12/11/2018 12:36:03 PM"
+    },
+    "-LTS2NJWTF1mVegXzQ8D" : {
+      "DataList" : [ 23.0, 59.6, 433.0, 5.0 ],
+      "Timestamp" : "12/11/2018 12:36:07 PM"
+    },
+    "-LTS2Oe3FuhJJpdLyzHa" : {
+      "DataList" : [ 22.9, 55.3, 1081.0, 103.0 ],
+      "Timestamp" : "12/11/2018 12:36:12 PM"
+    },
+    "-LTS2Pi8Q2viGXldLSnD" : {
+      "DataList" : [ 22.9, 54.9, 900.0, 76.0 ],
+      "Timestamp" : "12/11/2018 12:36:16 PM"
+    },
+    "-LTS2QaX0TWV3cDgielS" : {
+      "DataList" : [ 22.9, 52.7, 863.0, 70.0 ],
+      "Timestamp" : "12/11/2018 12:36:21 PM"
+    },
+    "-LTS2Rp_PtBPXmfdOIUx" : {
+      "DataList" : [ 22.9, 53.3, 761.0, 54.0 ],
+      "Timestamp" : "12/11/2018 12:36:25 PM"
+    },
+    "-LTS2TAQ-MRv5EoWoGpo" : {
+      "DataList" : [ 22.9, 53.4, 675.0, 41.0 ],
+      "Timestamp" : "12/11/2018 12:36:30 PM"
+    },
+    "-LTS2Tw0vrq9sK1pH1rR" : {
+      "DataList" : [ 22.9, 53.6, 602.0, 30.0 ],
+      "Timestamp" : "12/11/2018 12:36:34 PM"
+    },
+    "-LTS2Uz-z_Irdqu3QSXA" : {
+      "DataList" : [ 23.0, 54.0, 543.0, 21.0 ],
+      "Timestamp" : "12/11/2018 12:36:39 PM"
+    },
+    "-LTS2W6QoYi8WQF5evuF" : {
+      "DataList" : [ 22.9, 54.3, 442.0, 6.0 ],
+      "Timestamp" : "12/11/2018 12:36:43 PM"
+    },
+    "-LTS2XDqnQxSmqNlflqZ" : {
+      "DataList" : [ 22.9, 55.7, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:36:48 PM"
+    },
+    "-LTS2YHG99OwsOmEWANr" : {
+      "DataList" : [ 22.9, 55.3, 844.0, 67.0 ],
+      "Timestamp" : "12/11/2018 12:36:52 PM"
+    },
+    "-LTS2ZP2uQrgZpKAhRGW" : {
+      "DataList" : [ 22.9, 55.3, 787.0, 58.0 ],
+      "Timestamp" : "12/11/2018 12:36:57 PM"
+    },
+    "-LTS2_Y5oBnkY0ckjlIx" : {
+      "DataList" : [ 22.8, 55.3, 699.0, 45.0 ],
+      "Timestamp" : "12/11/2018 12:37:01 PM"
+    },
+    "-LTS2b0esBFmVReE0k-s" : {
+      "DataList" : [ 22.4, 66.2, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:37:06 PM"
+    },
+    "-LTS2bjnJ0OAYYra3kCr" : {
+      "DataList" : [ 22.8, 62.1, 1277.0, 133.0 ],
+      "Timestamp" : "12/11/2018 12:37:10 PM"
+    },
+    "-LTS2coQy7m9PcUX4CIB" : {
+      "DataList" : [ 22.9, 60.8, 1255.0, 130.0 ],
+      "Timestamp" : "12/11/2018 12:37:15 PM"
+    },
+    "-LTS2dvEV461knNSs1t3" : {
+      "DataList" : [ 23.0, 61.3, 1228.0, 126.0 ],
+      "Timestamp" : "12/11/2018 12:37:19 PM"
+    },
+    "-LTS2fCtCSPl-Wcw3FY1" : {
+      "DataList" : [ 23.0, 61.0, 933.0, 81.0 ],
+      "Timestamp" : "12/11/2018 12:37:24 PM"
+    },
+    "-LTS2g6EkrKuv-OocIef" : {
+      "DataList" : [ 22.9, 58.7, 1420.0, 155.0 ],
+      "Timestamp" : "12/11/2018 12:37:28 PM"
+    },
+    "-LTS2hBf5WHIrsdjK3xe" : {
+      "DataList" : [ 22.9, 57.8, 1507.0, 168.0 ],
+      "Timestamp" : "12/11/2018 12:37:33 PM"
+    },
+    "-LTS2iJQSy8K-QQhEuBA" : {
+      "DataList" : [ 22.9, 58.1, 1462.0, 161.0 ],
+      "Timestamp" : "12/11/2018 12:37:37 PM"
+    },
+    "-LTS2je6v-c5gK4Ed2ro" : {
+      "DataList" : [ 22.9, 58.5, 1462.0, 161.0 ],
+      "Timestamp" : "12/11/2018 12:37:42 PM"
+    },
+    "-LTS2kVWKBYbPsGTu3xk" : {
+      "DataList" : [ 22.9, 55.0, 2072.0, 254.0 ],
+      "Timestamp" : "12/11/2018 12:37:46 PM"
+    },
+    "-LTS2lacHlmy3vgJWjzc" : {
+      "DataList" : [ 22.9, 54.6, 1950.0, 236.0 ],
+      "Timestamp" : "12/11/2018 12:37:51 PM"
+    },
+    "-LTS2mhs1dbYXEKivFdB" : {
+      "DataList" : [ 22.8, 53.9, 1928.0, 232.0 ],
+      "Timestamp" : "12/11/2018 12:37:55 PM"
+    },
+    "-LTS2nrdh81zi3e817Xp" : {
+      "DataList" : [ 23.0, 54.4, 1855.0, 221.0 ],
+      "Timestamp" : "12/11/2018 12:38:00 PM"
+    },
+    "-LTS2oviJfkn-qXv881V" : {
+      "DataList" : [ 22.9, 54.5, 1759.0, 207.0 ],
+      "Timestamp" : "12/11/2018 12:38:04 PM"
+    },
+    "-LTS2q-YFm8KTEI-jpex" : {
+      "DataList" : [ 23.1, 53.6, 1950.0, 236.0 ],
+      "Timestamp" : "12/11/2018 12:38:09 PM"
+    },
+    "-LTS2rHbKv22NvXr12lQ" : {
+      "DataList" : [ 22.9, 53.2, 1855.0, 221.0 ],
+      "Timestamp" : "12/11/2018 12:38:13 PM"
+    },
+    "-LTS2sCYqxjVPc3za2pD" : {
+      "DataList" : [ 22.9, 52.4, 1973.0, 239.0 ],
+      "Timestamp" : "12/11/2018 12:38:18 PM"
+    },
+    "-LTS2tMBo7zYTJEUCPNn" : {
+      "DataList" : [ 22.9, 52.3, 1855.0, 221.0 ],
+      "Timestamp" : "12/11/2018 12:38:22 PM"
+    },
+    "-LTS2uR6CUHvrTie5Zda" : {
+      "DataList" : [ 22.8, 52.4, 1711.0, 199.0 ],
+      "Timestamp" : "12/11/2018 12:38:27 PM"
+    },
+    "-LTS2vWEKMQJ-EIt3F5P" : {
+      "DataList" : [ 23.0, 54.8, 2347.0, 296.0 ],
+      "Timestamp" : "12/11/2018 12:38:31 PM"
+    },
+    "-LTS2wh2odZlBBLNb5Z6" : {
+      "DataList" : [ 22.9, 54.5, 2189.0, 272.0 ],
+      "Timestamp" : "12/11/2018 12:38:36 PM"
+    },
+    "-LTS2xlPTPfrvcMUdgdl" : {
+      "DataList" : [ 22.7, 55.8, 1835.0, 218.0 ],
+      "Timestamp" : "12/11/2018 12:38:40 PM"
+    },
+    "-LTS2ypMbKgSJypRpjaY" : {
+      "DataList" : [ 22.8, 65.9, 1507.0, 168.0 ],
+      "Timestamp" : "12/11/2018 12:38:45 PM"
+    },
+    "-LTS2zthzN-SBXwLbXCL" : {
+      "DataList" : [ 22.8, 65.8, 712.0, 47.0 ],
+      "Timestamp" : "12/11/2018 12:38:49 PM"
+    },
+    "-LTS303kGyvYnWQLB_9-" : {
+      "DataList" : [ 23.0, 66.3, 810.0, 62.0 ],
+      "Timestamp" : "12/11/2018 12:38:54 PM"
+    },
+    "-LTS317pqWVbG23QHmO3" : {
+      "DataList" : [ 22.8, 66.8, 863.0, 70.0 ],
+      "Timestamp" : "12/11/2018 12:38:58 PM"
+    },
+    "-LTS32Joi3m3dn8plMVD" : {
+      "DataList" : [ 22.7, 66.7, 891.0, 74.0 ],
+      "Timestamp" : "12/11/2018 12:39:03 PM"
+    },
+    "-LTS33J1Na5bomoMQinZ" : {
+      "DataList" : [ 22.9, 67.3, 902.0, 76.0 ],
+      "Timestamp" : "12/11/2018 12:39:07 PM"
+    },
+    "-LTS34Qsj3PGn_cPJbhz" : {
+      "DataList" : [ 22.8, 71.9, 446.0, 7.0 ],
+      "Timestamp" : "12/11/2018 12:39:12 PM"
+    },
+    "-LTS36GC7HarXhRDpfTz" : {
+      "DataList" : [ "NaN", "NaN", 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:39:17 PM"
+    },
+    "-LTS36n_3ERyBaP1S6EU" : {
+      "DataList" : [ 22.8, 77.1, 400.0, 0.0 ],
+      "Timestamp" : "12/11/2018 12:39:21 PM"
+    },
+    "-LTS37m5rDGcRspTUznO" : {
+      "DataList" : [ "NaN", "NaN", 6147.0, 875.0 ],
+      "Timestamp" : "12/11/2018 12:39:25 PM"
+    },
+    "-LTS38xuaLHwqLdb_qBw" : {
+      "DataList" : [ "NaN", "NaN", 769.0, 56.0 ],
+      "Timestamp" : "12/11/2018 12:39:30 PM"
+    },
+    "-LTS3AYkLVd3YLd4vVTX" : {
+      "DataList" : [ "NaN", "NaN", 632.0, 35.0 ],
+      "Timestamp" : "12/11/2018 12:39:34 PM"
+    },
+    "-LTS3B3KCgBWDObnPP1-" : {
+      "DataList" : [ "NaN", "NaN", 676.0, 42.0 ],
+      "Timestamp" : "12/11/2018 12:39:39 PM"
+    },
+    "-LTS3C7nnPvqjsrQkfMC" : {
+      "DataList" : [ "NaN", "NaN", 620.0, 33.0 ],
+      "Timestamp" : "12/11/2018 12:39:43 PM"
+    },
+    "-LTS3DERFEHSyITc5pxv" : {
+      "DataList" : [ "NaN", "NaN", 599.0, 30.0 ],
+      "Timestamp" : "12/11/2018 12:39:48 PM"
+    },
+    "-LTS3EKRY4e1b-tmApPb" : {
+      "DataList" : [ 23.0, 80.4, 632.0, 35.0 ],
+      "Timestamp" : "12/11/2018 12:39:52 PM"
+    },
+    "-LTS3FSVJunpAbtdUs43" : {
+      "DataList" : [ 23.1, 67.2, 7031.0, 1010.0 ],
+      "Timestamp" : "12/11/2018 12:39:57 PM"
+    },
+    "-LTS3G_f43r89B7MGvZQ" : {
+      "DataList" : [ 23.2, 72.3, 6809.0, 976.0 ],
+      "Timestamp" : "12/11/2018 12:40:01 PM"
+    },
+    "-LTS3HeFFZYyoXzJToxA" : {
+      "DataList" : [ 23.3, 70.8, 6279.0, 895.0 ],
+      "Timestamp" : "12/11/2018 12:40:06 PM"
+    },
+    "-LTS3IlzkK3QUSdNymjF" : {
+      "DataList" : [ 23.2, 69.8, 6393.0, 912.0 ],
+      "Timestamp" : "12/11/2018 12:40:11 PM"
+    },
+    "-LTS3Jreg4esBCwPBJTf" : {
+      "DataList" : [ 23.4, 70.7, 6485.0, 927.0 ],
+      "Timestamp" : "12/11/2018 12:40:15 PM"
+    },
+    "-LTS3Kv_7QLd1N6mIMBc" : {
+      "DataList" : [ 23.4, 70.4, 6610.0, 946.0 ],
+      "Timestamp" : "12/11/2018 12:40:20 PM"
+    },
+    "-LTS3M8hiuZmWjBv3YvE" : {
+      "DataList" : [ 23.4, 69.8, 6654.0, 952.0 ],
+      "Timestamp" : "12/11/2018 12:40:24 PM"
+    },
+    "-LTS3NFZtp1jPPn6ymdu" : {
+      "DataList" : [ 23.8, 71.0, 6951.0, 998.0 ],
+      "Timestamp" : "12/11/2018 12:40:29 PM"
+    },
+    "-LTS3ODqk8DWKusOakiA" : {
+      "DataList" : [ 23.4, 67.5, 7334.0, 1056.0 ],
+      "Timestamp" : "12/11/2018 12:40:33 PM"
+    },
+    "-LTS3PKO_S2LcjY0qIvR" : {
+      "DataList" : [ 23.6, 68.8, 7899.0, 1142.0 ],
+      "Timestamp" : "12/11/2018 12:40:38 PM"
+    },
+    "-LTS3QU9oQmD2FMmYVms" : {
+      "DataList" : [ 23.7, 63.6, 7412.0, 1068.0 ],
+      "Timestamp" : "12/11/2018 12:40:42 PM"
+    },
+    "-LTS3RYHe5CY_ou2_QGh" : {
+      "DataList" : [ "NaN", "NaN", 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:40:47 PM"
+    },
+    "-LTS3SccH3_B0_6o8lAd" : {
+      "DataList" : [ "NaN", "NaN", 1825.0, 217.0 ],
+      "Timestamp" : "12/11/2018 12:40:51 PM"
+    },
+    "-LTS3TkVR9gBO6yp3Y3k" : {
+      "DataList" : [ 25.1, 46.9, 6911.0, 991.0 ],
+      "Timestamp" : "12/11/2018 12:40:56 PM"
+    },
+    "-LTS3UruiUvxJcxwqqGB" : {
+      "DataList" : [ 25.5, 48.1, 7992.0, 1156.0 ],
+      "Timestamp" : "12/11/2018 12:41:00 PM"
+    },
+    "-LTS3W2QyDlukLzoUGFP" : {
+      "DataList" : [ 25.8, 46.8, 6021.0, 856.0 ],
+      "Timestamp" : "12/11/2018 12:41:05 PM"
+    },
+    "-LTS3X1LRjmMveca0EXs" : {
+      "DataList" : [ 26.0, 43.3, 5951.0, 845.0 ],
+      "Timestamp" : "12/11/2018 12:41:09 PM"
+    },
+    "-LTS3Y7hAIz61dIlaLyZ" : {
+      "DataList" : [ 26.1, 41.0, 5217.0, 733.0 ],
+      "Timestamp" : "12/11/2018 12:41:14 PM"
+    },
+    "-LTS3ZDVprvAim_ngHxl" : {
+      "DataList" : [ 26.1, 39.6, 4526.0, 628.0 ],
+      "Timestamp" : "12/11/2018 12:41:18 PM"
+    },
+    "-LTS3_NOPRtH_wQ70MX7" : {
+      "DataList" : [ 26.1, 38.4, 4679.0, 651.0 ],
+      "Timestamp" : "12/11/2018 12:41:23 PM"
+    },
+    "-LTS3aS6xwAlPUezC0Ll" : {
+      "DataList" : [ 26.1, 37.9, 4000.0, 548.0 ],
+      "Timestamp" : "12/11/2018 12:41:27 PM"
+    }
+  }
+}

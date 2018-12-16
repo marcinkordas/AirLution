@@ -29,15 +29,17 @@
 			  <div class="col-sm menu-button"><a href="index.php?dwmyChoose=1"><div <?php if($dwmyChoose == 1) echo 'style="background-color: #f7dd90;" ' ?>class="menu-item">Tydzień</div></a></div>
 			  <div class="col-sm menu-button"><a href="index.php?dwmyChoose=2"><div <?php if($dwmyChoose == 2) echo 'style="background-color: #f7dd90;" ' ?>class="menu-item">Miesiąc</div></a></div>
 			  <div class="col-sm menu-button"><a href="index.php?dwmyChoose=3"><div <?php if($dwmyChoose == 3) echo 'style="background-color: #f7dd90;" ' ?>class="menu-item">Rok</div></a></div>
-			</div>
+			</div><br>
+      <div class="button">
+      <?php
+        if($_GET["lolo"]!=1) echo '<a href="?dwmyChoose='.$dwmyChoose.'&lolo=1"><button>Pokaż dane prezentacyjne</button></a>';
+        else echo '<a href="?dwmyChoose='.$dwmyChoose.'"><button>Pokaż dane analityczne</button></a>';
+      ?>
+      </div>
 			<div class="row">
 				<div class="col-sm alert" id="ALERT_ID"></div>
 			</div>
-			<!--<div class="row">
-				<div class="col-sm tutle">Poziom wilgotności</div>
-				<div class="col-sm tutle">Poziom zadymienia</div>
-			</div>
-			<br>-->
+      <?php if(!$_GET["lolo"]!=1) echo '
 			<div class="row">
 				<div class="col-sm" id="chart1"></div>
 				<div class="col-sm" id="chart2"></div>
@@ -64,6 +66,30 @@
 				<div class="col-sm" id="chart14"></div>
   			<div class="col-sm" id="chart15"></div>
   			<div class="col-sm" id="chart16"></div>
+			</div>
+			<br>'; ?>
+			<div class="row">
+				<div class="col-sm" id="chart100"></div>
+				<div class="col-sm" id="chart300"></div>
+				<div class="col-sm" id="chart400"></div>
+			</div>
+			<br>
+			<div class="row">
+				<div class="col-sm" id="chart500"></div>
+				<div class="col-sm" id="chart700"></div>
+				<div class="col-sm" id="chart800"></div>
+			</div>
+			<br>
+			<div class="row">
+				<div class="col-sm" id="chart900"></div>
+				<div class="col-sm" id="chart1100"></div>
+				<div class="col-sm" id="chart1200"></div>
+			</div>
+			<br>
+			<div class="row">
+				<div class="col-sm" id="chart1300"></div>
+				<div class="col-sm" id="chart1500"></div>
+				<div class="col-sm" id="chart1600"></div>
 			</div>
 	</div>
 

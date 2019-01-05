@@ -149,8 +149,8 @@ function drawChart() {
   if(j%3==2)
   {
     data.addColumn('number', 'Topping');
-    data.addColumn('number', 'czujnik 1');
-    data.addColumn('number', 'czujnik 2');
+    data.addColumn('number', 'czujnik '+Math.ceil(j/2));
+    data.addColumn('number', 'czujnik '+(Math.ceil(j/2)+1));
   }
   else
   {
